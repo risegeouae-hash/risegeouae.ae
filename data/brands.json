@@ -1,0 +1,916 @@
+[
+ {
+  "brand": "Leica Geosystems",
+  "parent_group": "Hexagon",
+  "origin_country": "Switzerland",
+  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Theodolites and levels; Machine control and guidance; Aerial cameras and airborne LiDAR systems; Monitoring sensors (tilt",
+  "where_to_buy": [
+   {
+    "brand": "Leica Geosystems",
+    "company": "Hexagon (Leica Geosystems) South Africa",
+    "country": "South Africa",
+    "business_type": "Regional office of a manufacturer",
+    "source": "Public record (check)"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Leica Geosystems (Hexagon) Middle East",
+    "country": "United Arab Emirates",
+    "business_type": "Regional office of a manufacturer",
+    "source": "Seed list (research thread)"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Leica Geosystems Guinée",
+    "country": "Guinea",
+    "business_type": "Authorised distributor",
+    "source": "https://www.goafricaonline.com/gn/annuaire/topographies"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "SurvSystems",
+    "country": "Angola",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Surtek Botswana",
+    "country": "Botswana",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Africa Geomatic",
+    "country": "Burkina Faso",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Geospace Africa",
+    "country": "Cameroon",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Globespace",
+    "country": "Côte d'Ivoire",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Alpha Topo",
+    "country": "Democratic Republic of the Congo",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Salvador Importer",
+    "country": "Ethiopia",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "DMH Gabon",
+    "country": "Gabon",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "PDSA Ghana",
+    "country": "Ghana",
+    "business_type": "Dealer / reseller",
+    "source": "https://leica-geosystems.com/ar-ae/contact-us/sales_support/technical-service"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Securis",
+    "country": "Guinea",
+    "business_type": "Dealer / reseller",
+    "source": "https://www.goafricaonline.com/gn/annuaire/topographies"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Achelis Kenya Limited",
+    "country": "Kenya",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "HiCAD Africa Limited",
+    "country": "Kenya",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "IRC Consultant",
+    "country": "Mauritania",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Leica Geosystems SARL",
+    "country": "Morocco",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Geosystems LDA",
+    "country": "Mozambique",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Axiel Technologies Limited",
+    "country": "Nigeria",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Global Pro Services Limited (mamtus)",
+    "country": "Nigeria",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Industrial Commercial Projects Nigeria Limited (ICP)",
+    "country": "Nigeria",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Saredica",
+    "country": "Senegal",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Bendi 3D Modeling & Laser Scanning",
+    "country": "South Africa",
+    "business_type": "Dealer / reseller",
+    "source": "GoAfrica South Africa directory"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "NTG Solutions",
+    "country": "South Africa",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Ronin System Solutions",
+    "country": "South Africa",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Achelis (Tanganyika) Limited",
+    "country": "Tanzania",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "KAD7",
+    "country": "Togo",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Achelis (Uganda) Limited",
+    "country": "Uganda",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "GMX Systems Zambia",
+    "country": "Zambia",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   },
+   {
+    "brand": "Leica Geosystems",
+    "company": "Identity Tech",
+    "country": "Zimbabwe",
+    "business_type": "Dealer / reseller (role not stated on page)",
+    "source": "https://leica-geosystems.com/fr-ma/contact-us/sales_support/sales"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/leica-geosystems.html"
+ },
+ {
+  "brand": "Esri",
+  "parent_group": "Esri",
+  "origin_country": "United States",
+  "product_lines": "Desktop and enterprise GIS; Web mapping and map APIs; Cloud geospatial platforms; Asset and network management GIS",
+  "where_to_buy": [
+   {
+    "brand": "Esri",
+    "company": "Esri (Middle East & Africa)",
+    "country": "United Arab Emirates",
+    "business_type": "Regional office of a manufacturer",
+    "source": "Seed list (research thread)"
+   },
+   {
+    "brand": "Esri",
+    "company": "MicroCenter",
+    "country": "Bahrain",
+    "business_type": "Authorised distributor",
+    "source": "https://flypix.ai/geospatial-companies-in-bahrain/"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri North Africa",
+    "country": "Chad",
+    "business_type": "Authorised distributor (territory served from Egypt)",
+    "source": "https://www.esri.com/about/newsroom/announcements/esri-north-africa-esri-na-becomes-the-sole-esri-distributor-to-serve-egypt-libya-sudan-south-sudan-and-chad-markets"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri North Africa",
+    "country": "Egypt",
+    "business_type": "Authorised distributor",
+    "source": "Seed list (research thread)"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri Eastern Africa",
+    "country": "Kenya",
+    "business_type": "Authorised distributor",
+    "source": "BusinessRadar Kenya list"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri Lebanon",
+    "country": "Lebanon",
+    "business_type": "Authorised distributor",
+    "source": "Public record (check)"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri North Africa",
+    "country": "Libya",
+    "business_type": "Authorised distributor (territory served from Egypt)",
+    "source": "https://www.esri.com/about/newsroom/announcements/esri-north-africa-esri-na-becomes-the-sole-esri-distributor-to-serve-egypt-libya-sudan-south-sudan-and-chad-markets"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri Rwanda",
+    "country": "Rwanda",
+    "business_type": "Authorised distributor",
+    "source": "Public record (check)"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri Saudi Arabia",
+    "country": "Saudi Arabia",
+    "business_type": "Authorised distributor",
+    "source": "Geospatial World profile"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri South Africa",
+    "country": "South Africa",
+    "business_type": "Authorised distributor",
+    "source": "Seed list (research thread)"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri North Africa",
+    "country": "South Sudan",
+    "business_type": "Authorised distributor (territory served from Egypt)",
+    "source": "https://www.esri.com/about/newsroom/announcements/esri-north-africa-esri-na-becomes-the-sole-esri-distributor-to-serve-egypt-libya-sudan-south-sudan-and-chad-markets"
+   },
+   {
+    "brand": "Esri",
+    "company": "Esri North Africa",
+    "country": "Sudan",
+    "business_type": "Authorised distributor (territory served from Egypt)",
+    "source": "https://www.esri.com/about/newsroom/announcements/esri-north-africa-esri-na-becomes-the-sole-esri-distributor-to-serve-egypt-libya-sudan-south-sudan-and-chad-markets"
+   },
+   {
+    "brand": "Esri",
+    "company": "GISTEC",
+    "country": "United Arab Emirates",
+    "business_type": "Authorised distributor",
+    "source": "Seed list (research thread)"
+   },
+   {
+    "brand": "Esri",
+    "company": "Surtech Middle East Technology",
+    "country": "Qatar",
+    "business_type": "Dealer / reseller",
+    "source": "https://www.esri.com/partners/surtech-middle-east-a2TUU00000184972AA"
+   },
+   {
+    "brand": "Esri",
+    "company": "Two Spatial",
+    "country": "Egypt",
+    "business_type": "Esri partner (consultant)",
+    "source": "https://www.esri.com/partners/two-spatial-a2T5x000007ucpDEAQ"
+   },
+   {
+    "brand": "Esri",
+    "company": "Tenth Generation Technology Systems",
+    "country": "Ghana",
+    "business_type": "Esri partner (consultant)",
+    "source": "https://www.esri.com/partners/tenth-generation-tec-a2Tf2000004g0f7EAA"
+   },
+   {
+    "brand": "Esri",
+    "company": "TEKLABZ (Technology Labs for Software Industry)",
+    "country": "Jordan",
+    "business_type": "Esri partner (systems integrator)",
+    "source": "https://www.esri.com/partners/technology-labs-for-a2T39000001J01IEAS"
+   },
+   {
+    "brand": "Esri",
+    "company": "GISCON Middle East W.L.L.",
+    "country": "Kuwait",
+    "business_type": "Esri partner (consultant)",
+    "source": "https://esri.com/partners/giscon-middle-east-w-a2Tf20000056o1nEAA"
+   },
+   {
+    "brand": "Esri",
+    "company": "Innova Integrated Solutions",
+    "country": "Kuwait",
+    "business_type": "Esri partner (systems integrator)",
+    "source": "https://www.esri.com/partners/innova-integrated-so-a2T5x000008DoX9EAK"
+   },
+   {
+    "brand": "Esri",
+    "company": "GeoSpatialMinds SAL",
+    "country": "Lebanon",
+    "business_type": "Esri partner (consultant)",
+    "source": "https://www.esri.com/partners/geospatialminds-sal-a2T70000000TVl9EAG"
+   },
+   {
+    "brand": "Esri",
+    "company": "NavigSurLeb s.a.r.l.",
+    "country": "Lebanon",
+    "business_type": "Esri partner (systems integrator)",
+    "source": "https://www.esri.com/partners/navigsurleb-s-a-r-l-a2TUU000001PBR72AO"
+   },
+   {
+    "brand": "Esri",
+    "company": "Al Daleel Raqamee for IT & GIS",
+    "country": "Libya",
+    "business_type": "Esri partner (systems integrator)",
+    "source": "https://esri.com/partners/al-daleel-raqamee-fo-a2T5x000006QltEEAS"
+   },
+   {
+    "brand": "Esri",
+    "company": "Ideal Solutions Company",
+    "country": "Qatar",
+    "business_type": "Supplier / trader",
+    "source": "https://www.esri.com/partners/ideal-solutions-a2T70000000TNV6EAO"
+   },
+   {
+    "brand": "Esri",
+    "company": "MACE Qatar Contracting and Engineering",
+    "country": "Qatar",
+    "business_type": "Esri partner (systems integrator)",
+    "source": "https://www.esri.com/partners/mace-qatar-contracti-a2TUU000000dRrZ2AU"
+   },
+   {
+    "brand": "Esri",
+    "company": "Diyar Middle East",
+    "country": "Saudi Arabia",
+    "business_type": "Esri partner (systems integrator)",
+    "source": "https://www.esri.com/partners/diyar-middle-east-a2TUU000000SdT32AK"
+   },
+   {
+    "brand": "Esri",
+    "company": "JenMaa Data Consulting",
+    "country": "Sierra Leone",
+    "business_type": "Esri partner (software developer / vendor)",
+    "source": "https://www.esri.com/partners/jenmaa-data-a2T5x000006R3lREAS"
+   },
+   {
+    "brand": "Esri",
+    "company": "Direction Integrated Systems",
+    "country": "Sudan",
+    "business_type": "Esri partner (systems integrator)",
+    "source": "https://www.esri.com/partners/direction-integrated-a2T5x000006QlQQEA0"
+   },
+   {
+    "brand": "Esri",
+    "company": "Techno-Environment Investment Co",
+    "country": "Tanzania",
+    "business_type": "Esri partner (consultant)",
+    "source": "https://www.esri.com/partners/techno-environment-i-a2T5x000008Dif6EAC"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/esri.html"
+ },
+ {
+  "brand": "Trimble",
+  "parent_group": "Trimble",
+  "origin_country": "United States",
+  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Mobile and handheld (SLAM) scanners; Machine control and guidance; Rugged field controllers and tablets; Survey CAD and field software",
+  "where_to_buy": [
+   {
+    "brand": "Trimble",
+    "company": "Trimble Middle East",
+    "country": "United Arab Emirates",
+    "business_type": "Regional office of a manufacturer",
+    "source": "Seed list (research thread)"
+   },
+   {
+    "brand": "Trimble",
+    "company": "Optron",
+    "country": "South Africa",
+    "business_type": "Authorised distributor",
+    "source": "Seed list (research thread)"
+   },
+   {
+    "brand": "Trimble",
+    "company": "AllTerra Gulf",
+    "country": "United Arab Emirates",
+    "business_type": "Authorised distributor",
+    "source": "https://www.protenders.com/companies/allterra-gulf"
+   },
+   {
+    "brand": "Trimble",
+    "company": "SITECH KSA",
+    "country": "Saudi Arabia",
+    "business_type": "Dealer / reseller",
+    "source": "https://www.aggbusiness.com/trimble-establishes-sitech-technology-dealers-in-saudi-arabai-and-vietnam/"
+   },
+   {
+    "brand": "Trimble",
+    "company": "SITECH Gulf",
+    "country": "United Arab Emirates",
+    "business_type": "Dealer / reseller",
+    "source": "https://www.zawya.com/en/business/sitech-technology-dealer-established-in-bahrain-kuwait-oman-qatar-and-the-united-arab-emirates-for-heavy-civil-qeafq99i"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/trimble.html"
+ },
+ {
+  "brand": "Brunton",
+  "parent_group": "Brunton",
+  "origin_country": "United States",
+  "product_lines": "Survey accessories (compasses and field instruments)",
+  "where_to_buy": [
+   {
+    "brand": "Brunton",
+    "company": "Tamstar Trading Est.",
+    "country": "Saudi Arabia",
+    "business_type": "Authorised distributor",
+    "source": "https://www.brunton.com/pages/middle-east-international-distributors"
+   },
+   {
+    "brand": "Brunton",
+    "company": "Gulf Minetech LLC",
+    "country": "United Arab Emirates",
+    "business_type": "Authorised distributor",
+    "source": "https://www.brunton.com/pages/middle-east-international-distributors"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/brunton.html"
+ },
+ {
+  "brand": "Topcon",
+  "parent_group": "Topcon",
+  "origin_country": "Japan",
+  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Machine control and guidance; Terrestrial laser scanners; Theodolites and levels",
+  "where_to_buy": [
+   {
+    "brand": "Topcon",
+    "company": "Topcon Positioning Middle East & Africa",
+    "country": "United Arab Emirates",
+    "business_type": "Regional office of a manufacturer",
+    "source": "Seed list (research thread)"
+   },
+   {
+    "brand": "Topcon",
+    "company": "Boksomatti",
+    "country": "Saudi Arabia",
+    "business_type": "Authorised distributor",
+    "source": "Geospatial World profile"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/topcon.html"
+ },
+ {
+  "brand": "Asite",
+  "parent_group": "Asite",
+  "origin_country": "United Kingdom",
+  "product_lines": "Common data environments (CDE)",
+  "where_to_buy": [
+   {
+    "brand": "Asite",
+    "company": "Asite",
+    "country": "United Arab Emirates",
+    "business_type": "Software developer / vendor",
+    "source": "Public record (check)"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/asite.html"
+ },
+ {
+  "brand": "DJI Enterprise",
+  "parent_group": "DJI",
+  "origin_country": "China",
+  "product_lines": "Survey and mapping drones; Drone sensors and payloads",
+  "where_to_buy": [
+   {
+    "brand": "DJI Enterprise",
+    "company": "GNSS.AE",
+    "country": "United Arab Emirates",
+    "business_type": "Dealer / reseller",
+    "source": "Seed list (research thread)"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/dji-enterprise.html"
+ },
+ {
+  "brand": "GeoMax",
+  "parent_group": "Hexagon",
+  "origin_country": "Switzerland",
+  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels; Construction and rotating lasers",
+  "where_to_buy": [
+   {
+    "brand": "GeoMax",
+    "company": "Hexagon (Leica Geosystems) South Africa",
+    "country": "South Africa",
+    "business_type": "Regional office of a manufacturer",
+    "source": "Public record (check)"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/geomax.html"
+ },
+ {
+  "brand": "Hexagon Geospatial",
+  "parent_group": "Hexagon",
+  "origin_country": "Sweden",
+  "product_lines": "Remote sensing and image processing; Desktop and enterprise GIS",
+  "where_to_buy": [
+   {
+    "brand": "Hexagon Geospatial",
+    "company": "Hexagon Geospatial",
+    "country": "Regional (MEA)",
+    "business_type": "Software developer / vendor",
+    "source": "Public record (check)"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/hexagon-geospatial.html"
+ },
+ {
+  "brand": "Muya",
+  "parent_group": "not verified",
+  "origin_country": "not verified",
+  "product_lines": "Survey equipment (product lines not verified)",
+  "where_to_buy": [
+   {
+    "brand": "Muya",
+    "company": "Measurement Systems Limited",
+    "country": "Kenya",
+    "business_type": "Authorised distributor",
+    "source": "https://www.goafricaonline.com/tz/directory/surveyors"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/muya.html"
+ },
+ {
+  "brand": "Nikon (survey instruments)",
+  "parent_group": "Trimble (Nikon-Trimble)",
+  "origin_country": "Japan",
+  "product_lines": "Total stations and robotic total stations; Theodolites and levels",
+  "where_to_buy": [
+   {
+    "brand": "Nikon (survey instruments)",
+    "company": "AllTerra Gulf",
+    "country": "United Arab Emirates",
+    "business_type": "Authorised distributor",
+    "source": "https://www.protenders.com/companies/allterra-gulf"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/nikon-survey-instruments.html"
+ },
+ {
+  "brand": "Revizto",
+  "parent_group": "Revizto",
+  "origin_country": "Switzerland",
+  "product_lines": "BIM coordination and clash detection software",
+  "where_to_buy": [
+   {
+    "brand": "Revizto",
+    "company": "Revizto",
+    "country": "Regional (MEA)",
+    "business_type": "Software developer / vendor",
+    "source": "Public record (check)"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/revizto.html"
+ },
+ {
+  "brand": "SatLab",
+  "parent_group": "SatLab Geosolutions",
+  "origin_country": "Sweden",
+  "product_lines": "GNSS receivers and antennas; Total stations and robotic total stations; Sonar",
+  "where_to_buy": [
+   {
+    "brand": "SatLab",
+    "company": "SatLab Geosolutions",
+    "country": "United Arab Emirates",
+    "business_type": "Regional office of a manufacturer",
+    "source": "Unmanned Systems Technology"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/satlab.html"
+ },
+ {
+  "brand": "SinoGNSS",
+  "parent_group": "ComNav Technology",
+  "origin_country": "China",
+  "product_lines": "GNSS receivers and antennas",
+  "where_to_buy": [
+   {
+    "brand": "SinoGNSS",
+    "company": "Measurement Systems Limited",
+    "country": "Kenya",
+    "business_type": "Authorised distributor",
+    "source": "https://www.goafricaonline.com/tz/directory/surveyors"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/sinognss.html"
+ },
+ {
+  "brand": "Sokkia",
+  "parent_group": "Topcon",
+  "origin_country": "Japan",
+  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels",
+  "where_to_buy": [
+   {
+    "brand": "Sokkia",
+    "company": "Boksomatti",
+    "country": "Saudi Arabia",
+    "business_type": "Authorised distributor",
+    "source": "Geospatial World profile"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/sokkia.html"
+ },
+ {
+  "brand": "Spectra Geospatial",
+  "parent_group": "Trimble",
+  "origin_country": "United States",
+  "product_lines": "GNSS receivers and antennas; Total stations and robotic total stations; Rugged field controllers and tablets",
+  "where_to_buy": [
+   {
+    "brand": "Spectra Geospatial",
+    "company": "AllTerra Gulf",
+    "country": "United Arab Emirates",
+    "business_type": "Authorised distributor",
+    "source": "https://www.protenders.com/companies/allterra-gulf"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/spectra-geospatial.html"
+ },
+ {
+  "brand": "Tekla",
+  "parent_group": "Trimble",
+  "origin_country": "Finland",
+  "product_lines": "BIM software (structural modelling)",
+  "where_to_buy": [
+   {
+    "brand": "Tekla",
+    "company": "Tekla Middle East office",
+    "country": "United Arab Emirates",
+    "business_type": "Regional office of a manufacturer",
+    "source": "https://www.tekla.com/ae/contact/offices-and-resellers"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/tekla.html"
+ },
+ {
+  "brand": "Toknav",
+  "parent_group": "not verified",
+  "origin_country": "not verified",
+  "product_lines": "Survey equipment (product lines not verified)",
+  "where_to_buy": [
+   {
+    "brand": "Toknav",
+    "company": "Measurement Systems Limited",
+    "country": "Kenya",
+    "business_type": "Authorised distributor",
+    "source": "https://www.goafricaonline.com/tz/directory/surveyors"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/toknav.html"
+ },
+ {
+  "brand": "Agisoft",
+  "parent_group": "Agisoft",
+  "origin_country": "Russia",
+  "product_lines": "Photogrammetry and drone processing",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/agisoft.html"
+ },
+ {
+  "brand": "Airbus Defence and Space",
+  "parent_group": "Airbus",
+  "origin_country": "France",
+  "product_lines": "Optical satellite imagery; SAR imagery",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/airbus-defence-and-space.html"
+ },
+ {
+  "brand": "Autodesk",
+  "parent_group": "Autodesk",
+  "origin_country": "United States",
+  "product_lines": "Survey CAD and field software; BIM software (design and CDE)",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/autodesk.html"
+ },
+ {
+  "brand": "Bentley Systems",
+  "parent_group": "Bentley Systems",
+  "origin_country": "United States",
+  "product_lines": "BIM software (infrastructure); Point cloud and LiDAR processing; Digital twin platforms",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/bentley-systems.html"
+ },
+ {
+  "brand": "CHC Navigation",
+  "parent_group": "CHC Navigation",
+  "origin_country": "China",
+  "product_lines": "GNSS receivers and antennas; Mobile and handheld (SLAM) scanners; Sonar",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/chc-navigation.html"
+ },
+ {
+  "brand": "Emlid",
+  "parent_group": "Emlid",
+  "origin_country": "Hungary",
+  "product_lines": "GNSS receivers and antennas",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/emlid.html"
+ },
+ {
+  "brand": "FARO",
+  "parent_group": "FARO",
+  "origin_country": "United States",
+  "product_lines": "Terrestrial laser scanners; Mobile and handheld (SLAM) scanners",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/faro.html"
+ },
+ {
+  "brand": "Graphisoft",
+  "parent_group": "Nemetschek",
+  "origin_country": "Hungary",
+  "product_lines": "BIM software (Archicad)",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/graphisoft.html"
+ },
+ {
+  "brand": "Hi-Target",
+  "parent_group": "Hi-Target",
+  "origin_country": "China",
+  "product_lines": "GNSS receivers and antennas; Total stations and robotic total stations; Sonar",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/hi-target.html"
+ },
+ {
+  "brand": "ICEYE",
+  "parent_group": "ICEYE",
+  "origin_country": "Finland",
+  "product_lines": "SAR imagery",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/iceye.html"
+ },
+ {
+  "brand": "IDS GeoRadar",
+  "parent_group": "Hexagon",
+  "origin_country": "Italy",
+  "product_lines": "GPR and utility locators; Monitoring sensors (tilt",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/ids-georadar.html"
+ },
+ {
+  "brand": "Kongsberg Discovery",
+  "parent_group": "Kongsberg",
+  "origin_country": "Norway",
+  "product_lines": "Sonar",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/kongsberg-discovery.html"
+ },
+ {
+  "brand": "Maxar Intelligence (Vantor)",
+  "parent_group": "Maxar",
+  "origin_country": "United States",
+  "product_lines": "Optical satellite imagery",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/maxar-intelligence-vantor.html"
+ },
+ {
+  "brand": "NavVis",
+  "parent_group": "NavVis",
+  "origin_country": "Germany",
+  "product_lines": "Mobile and handheld (SLAM) scanners",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/navvis.html"
+ },
+ {
+  "brand": "Pix4D",
+  "parent_group": "Pix4D",
+  "origin_country": "Switzerland",
+  "product_lines": "Photogrammetry and drone processing",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/pix4d.html"
+ },
+ {
+  "brand": "Planet",
+  "parent_group": "Planet Labs",
+  "origin_country": "United States",
+  "product_lines": "Optical satellite imagery; Change detection",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/planet.html"
+ },
+ {
+  "brand": "Quantum Systems",
+  "parent_group": "Quantum Systems",
+  "origin_country": "Germany",
+  "product_lines": "Survey and mapping drones",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/quantum-systems.html"
+ },
+ {
+  "brand": "RIEGL",
+  "parent_group": "RIEGL",
+  "origin_country": "Austria",
+  "product_lines": "Aerial cameras and airborne LiDAR systems; Terrestrial laser scanners; Drone sensors and payloads",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/riegl.html"
+ },
+ {
+  "brand": "Radiodetection",
+  "parent_group": "SPX",
+  "origin_country": "United Kingdom",
+  "product_lines": "GPR and utility locators",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/radiodetection.html"
+ },
+ {
+  "brand": "Septentrio",
+  "parent_group": "Septentrio",
+  "origin_country": "Belgium",
+  "product_lines": "GNSS receivers and antennas",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/septentrio.html"
+ },
+ {
+  "brand": "South Surveying & Mapping",
+  "parent_group": "South",
+  "origin_country": "China",
+  "product_lines": "GNSS receivers and antennas; Total stations and robotic total stations; Theodolites and levels; Sonar",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/south-surveying-and-mapping.html"
+ },
+ {
+  "brand": "Stonex",
+  "parent_group": "Stonex",
+  "origin_country": "Italy",
+  "product_lines": "GNSS receivers and antennas; Total stations and robotic total stations; Terrestrial laser scanners",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/stonex.html"
+ },
+ {
+  "brand": "Teledyne Marine",
+  "parent_group": "Teledyne",
+  "origin_country": "United States",
+  "product_lines": "Sonar",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/teledyne-marine.html"
+ },
+ {
+  "brand": "Wingtra",
+  "parent_group": "Wingtra",
+  "origin_country": "Switzerland",
+  "product_lines": "Survey and mapping drones",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/wingtra.html"
+ }
+]

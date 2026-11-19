@@ -1,0 +1,72 @@
+country,region,current_listings
+Bahrain,GCC,1
+Kuwait,GCC,1
+Oman,GCC,1
+Qatar,GCC,1
+Saudi Arabia,GCC,18
+United Arab Emirates,GCC,36
+Iraq,"Levant, Iraq, Iran, Yemen & neighbours",0
+Jordan,"Levant, Iraq, Iran, Yemen & neighbours",1
+Lebanon,"Levant, Iraq, Iran, Yemen & neighbours",0
+Palestine,"Levant, Iraq, Iran, Yemen & neighbours",0
+Syria,"Levant, Iraq, Iran, Yemen & neighbours",0
+Yemen,"Levant, Iraq, Iran, Yemen & neighbours",0
+Iran,"Levant, Iraq, Iran, Yemen & neighbours",0
+Israel,"Levant, Iraq, Iran, Yemen & neighbours",0
+Turkey,"Levant, Iraq, Iran, Yemen & neighbours",0
+Cyprus,"Levant, Iraq, Iran, Yemen & neighbours",0
+Algeria,North Africa,0
+Egypt,North Africa,4
+Libya,North Africa,0
+Morocco,North Africa,3
+Sudan,North Africa,0
+Tunisia,North Africa,0
+Mauritania,North Africa,0
+Benin,West Africa,0
+Burkina Faso,West Africa,0
+Cabo Verde,West Africa,0
+Côte d'Ivoire,West Africa,0
+Gambia,West Africa,0
+Ghana,West Africa,0
+Guinea,West Africa,0
+Guinea-Bissau,West Africa,0
+Liberia,West Africa,0
+Mali,West Africa,1
+Niger,West Africa,0
+Nigeria,West Africa,8
+Senegal,West Africa,1
+Sierra Leone,West Africa,0
+Togo,West Africa,0
+Cameroon,Central Africa,0
+Central African Republic,Central Africa,0
+Chad,Central Africa,0
+Congo,Central Africa,0
+Democratic Republic of the Congo,Central Africa,0
+Equatorial Guinea,Central Africa,0
+Gabon,Central Africa,0
+São Tomé and Príncipe,Central Africa,0
+Burundi,East Africa & Indian Ocean,0
+Comoros,East Africa & Indian Ocean,0
+Djibouti,East Africa & Indian Ocean,0
+Eritrea,East Africa & Indian Ocean,0
+Ethiopia,East Africa & Indian Ocean,1
+Kenya,East Africa & Indian Ocean,6
+Madagascar,East Africa & Indian Ocean,0
+Mauritius,East Africa & Indian Ocean,0
+Rwanda,East Africa & Indian Ocean,1
+Seychelles,East Africa & Indian Ocean,0
+Somalia,East Africa & Indian Ocean,0
+South Sudan,East Africa & Indian Ocean,0
+Tanzania,East Africa & Indian Ocean,0
+Uganda,East Africa & Indian Ocean,0
+Angola,Southern Africa,0
+Botswana,Southern Africa,0
+Eswatini,Southern Africa,0
+Lesotho,Southern Africa,0
+Malawi,Southern Africa,0
+Mozambique,Southern Africa,0
+Namibia,Southern Africa,0
+South Africa,Southern Africa,11
+Zambia,Southern Africa,0
+Zimbabwe,Southern Africa,0
+Regional (MEA),Multi-country,15

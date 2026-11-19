@@ -1,0 +1,147 @@
+code,section,category,product_or_software_line,role,listings
+A01,A. Services,Land Surveyors,,,86
+A02,A. Services,Cadastral & Boundary Surveyors,,,17
+A03,A. Services,Real Estate & Building Surveyors,,,14
+A04,A. Services,Topographic Surveyors,,,60
+A05,A. Services,Construction Setting-Out & As-Built Surveyors,,,21
+A06,A. Services,Mining Surveyors,,,6
+A07,A. Services,Geodetic & GNSS Survey Services,,,9
+A08,A. Services,Monitoring & Deformation Surveys,,,3
+A09,A. Services,Utility Detection & GPR Surveys,,,4
+A10,A. Services,Geophysical & Geotechnical Surveys,,,2
+A11,A. Services,Hydrographic & Bathymetric Surveys,,,16
+A12,A. Services,Drone Survey & Mapping Companies,,,41
+A13,A. Services,Drone Inspection Services,,,4
+A14,A. Services,Aerial Survey & Photogrammetry Companies,,,5
+A15,A. Services,LiDAR Survey Companies,,,7
+A16,A. Services,3D Laser Scanning Services,,,13
+A17,A. Services,Mobile Mapping Services,,,2
+A18,A. Services,360 Imaging & Virtual Tours,,,1
+A19,A. Services,GIS Consultants,,,82
+A20,A. Services,GIS Data Capture & Digitisation,,,13
+A21,A. Services,Mapping & Cartography Services,,,34
+A22,A. Services,Custom GIS App Developers,,,17
+A23,A. Services,"Geospatial IT, Cloud & System Integrators",,,6
+A24,A. Services,Satellite Image Analysis & Remote Sensing Services,,,23
+A25,A. Services,Location Intelligence & GeoAI Companies,,,7
+A26,A. Services,BIM Consultants,,,12
+A27,A. Services,BIM Modelling & Coordination Services,,,21
+A28,A. Services,Scan-to-BIM Services,,,4
+A29,A. Services,Digital Twin & Smart City Solutions,,,19
+B01,B. Products & Equipment,Land Surveying Equipment Manufacturers,Land Surveying Equipment,Manufacturers,25
+B02,B. Products & Equipment,Land Surveying Equipment Distributors,Land Surveying Equipment,Distributors,8
+B03,B. Products & Equipment,Land Surveying Equipment Dealers & Suppliers,Land Surveying Equipment,Dealers & Suppliers,36
+B04,B. Products & Equipment,Land Surveying Equipment Rental,Land Surveying Equipment,Rental,5
+B05,B. Products & Equipment,Land Surveying Equipment Repair & Calibration,Land Surveying Equipment,Repair & Calibration,6
+B06,B. Products & Equipment,GNSS Receiver Manufacturers,GNSS Receiver,Manufacturers,15
+B07,B. Products & Equipment,GNSS Receiver Distributors,GNSS Receiver,Distributors,5
+B08,B. Products & Equipment,GNSS Receiver Dealers & Suppliers,GNSS Receiver,Dealers & Suppliers,27
+B09,B. Products & Equipment,GNSS Receiver Rental,GNSS Receiver,Rental,3
+B10,B. Products & Equipment,GNSS Receiver Repair & Calibration,GNSS Receiver,Repair & Calibration,4
+B11,B. Products & Equipment,Total Station Manufacturers,Total Station,Manufacturers,11
+B12,B. Products & Equipment,Total Station Distributors,Total Station,Distributors,4
+B13,B. Products & Equipment,Total Station Dealers & Suppliers,Total Station,Dealers & Suppliers,26
+B14,B. Products & Equipment,Total Station Rental,Total Station,Rental,3
+B15,B. Products & Equipment,Total Station Repair & Calibration,Total Station,Repair & Calibration,3
+B16,B. Products & Equipment,Level & Construction Laser Manufacturers,Level & Construction Laser,Manufacturers,2
+B17,B. Products & Equipment,Level & Construction Laser Distributors,Level & Construction Laser,Distributors,0
+B18,B. Products & Equipment,Level & Construction Laser Dealers & Suppliers,Level & Construction Laser,Dealers & Suppliers,0
+B19,B. Products & Equipment,Level & Construction Laser Rental,Level & Construction Laser,Rental,0
+B20,B. Products & Equipment,Level & Construction Laser Repair & Calibration,Level & Construction Laser,Repair & Calibration,0
+B21,B. Products & Equipment,3D Laser Scanner Manufacturers,3D Laser Scanner,Manufacturers,12
+B22,B. Products & Equipment,3D Laser Scanner Distributors,3D Laser Scanner,Distributors,1
+B23,B. Products & Equipment,3D Laser Scanner Dealers & Suppliers,3D Laser Scanner,Dealers & Suppliers,25
+B24,B. Products & Equipment,3D Laser Scanner Rental,3D Laser Scanner,Rental,0
+B25,B. Products & Equipment,3D Laser Scanner Repair & Calibration,3D Laser Scanner,Repair & Calibration,0
+B26,B. Products & Equipment,Mobile Mapping System Manufacturers,Mobile Mapping System,Manufacturers,3
+B27,B. Products & Equipment,Mobile Mapping System Distributors,Mobile Mapping System,Distributors,0
+B28,B. Products & Equipment,Mobile Mapping System Dealers & Suppliers,Mobile Mapping System,Dealers & Suppliers,0
+B29,B. Products & Equipment,Mobile Mapping System Rental,Mobile Mapping System,Rental,0
+B30,B. Products & Equipment,Mobile Mapping System Repair & Calibration,Mobile Mapping System,Repair & Calibration,0
+B31,B. Products & Equipment,Survey Drone Manufacturers,Survey Drone,Manufacturers,3
+B32,B. Products & Equipment,Survey Drone Distributors,Survey Drone,Distributors,0
+B33,B. Products & Equipment,Survey Drone Dealers & Suppliers,Survey Drone,Dealers & Suppliers,2
+B34,B. Products & Equipment,Survey Drone Rental,Survey Drone,Rental,0
+B35,B. Products & Equipment,Survey Drone Repair & Calibration,Survey Drone,Repair & Calibration,1
+B36,B. Products & Equipment,Drone Sensor & LiDAR Payload Manufacturers,Drone Sensor & LiDAR Payload,Manufacturers,3
+B37,B. Products & Equipment,Drone Sensor & LiDAR Payload Distributors,Drone Sensor & LiDAR Payload,Distributors,0
+B38,B. Products & Equipment,Drone Sensor & LiDAR Payload Dealers & Suppliers,Drone Sensor & LiDAR Payload,Dealers & Suppliers,1
+B39,B. Products & Equipment,Drone Sensor & LiDAR Payload Rental,Drone Sensor & LiDAR Payload,Rental,0
+B40,B. Products & Equipment,Drone Sensor & LiDAR Payload Repair & Calibration,Drone Sensor & LiDAR Payload,Repair & Calibration,0
+B41,B. Products & Equipment,Machine Control Manufacturers,Machine Control,Manufacturers,5
+B42,B. Products & Equipment,Machine Control Distributors,Machine Control,Distributors,0
+B43,B. Products & Equipment,Machine Control Dealers & Suppliers,Machine Control,Dealers & Suppliers,3
+B44,B. Products & Equipment,Machine Control Rental,Machine Control,Rental,0
+B45,B. Products & Equipment,Machine Control Repair & Calibration,Machine Control,Repair & Calibration,0
+B46,B. Products & Equipment,GPR & Utility Locator Manufacturers,GPR & Utility Locator,Manufacturers,2
+B47,B. Products & Equipment,GPR & Utility Locator Distributors,GPR & Utility Locator,Distributors,0
+B48,B. Products & Equipment,GPR & Utility Locator Dealers & Suppliers,GPR & Utility Locator,Dealers & Suppliers,0
+B49,B. Products & Equipment,GPR & Utility Locator Rental,GPR & Utility Locator,Rental,0
+B50,B. Products & Equipment,GPR & Utility Locator Repair & Calibration,GPR & Utility Locator,Repair & Calibration,0
+B51,B. Products & Equipment,Hydrographic & Marine Equipment Manufacturers,Hydrographic & Marine Equipment,Manufacturers,4
+B52,B. Products & Equipment,Hydrographic & Marine Equipment Distributors,Hydrographic & Marine Equipment,Distributors,0
+B53,B. Products & Equipment,Hydrographic & Marine Equipment Dealers & Suppliers,Hydrographic & Marine Equipment,Dealers & Suppliers,0
+B54,B. Products & Equipment,Hydrographic & Marine Equipment Rental,Hydrographic & Marine Equipment,Rental,0
+B55,B. Products & Equipment,Hydrographic & Marine Equipment Repair & Calibration,Hydrographic & Marine Equipment,Repair & Calibration,0
+B56,B. Products & Equipment,Monitoring Sensor Manufacturers,Monitoring Sensor,Manufacturers,1
+B57,B. Products & Equipment,Monitoring Sensor Distributors,Monitoring Sensor,Distributors,0
+B58,B. Products & Equipment,Monitoring Sensor Dealers & Suppliers,Monitoring Sensor,Dealers & Suppliers,0
+B59,B. Products & Equipment,Monitoring Sensor Rental,Monitoring Sensor,Rental,0
+B60,B. Products & Equipment,Monitoring Sensor Repair & Calibration,Monitoring Sensor,Repair & Calibration,0
+B61,B. Products & Equipment,Survey Accessory & Field Controller Manufacturers,Survey Accessory & Field Controller,Manufacturers,0
+B62,B. Products & Equipment,Survey Accessory & Field Controller Distributors,Survey Accessory & Field Controller,Distributors,2
+B63,B. Products & Equipment,Survey Accessory & Field Controller Dealers & Suppliers,Survey Accessory & Field Controller,Dealers & Suppliers,1
+B64,B. Products & Equipment,Survey Accessory & Field Controller Rental,Survey Accessory & Field Controller,Rental,0
+B65,B. Products & Equipment,Survey Accessory & Field Controller Repair & Calibration,Survey Accessory & Field Controller,Repair & Calibration,0
+C01,C. Software & Data,GIS Software Vendors,GIS Software,Vendors,5
+C02,C. Software & Data,GIS Software Distributors & Resellers,GIS Software,Distributors & Resellers,9
+C03,C. Software & Data,GIS Software Implementation Partners,GIS Software,Implementation Partners,28
+C04,C. Software & Data,Photogrammetry & Drone Mapping Software Vendors,Photogrammetry & Drone Mapping Software,Vendors,2
+C05,C. Software & Data,Photogrammetry & Drone Mapping Software Distributors & Resellers,Photogrammetry & Drone Mapping Software,Distributors & Resellers,0
+C06,C. Software & Data,Photogrammetry & Drone Mapping Software Implementation Partners,Photogrammetry & Drone Mapping Software,Implementation Partners,1
+C07,C. Software & Data,Point Cloud & LiDAR Software Vendors,Point Cloud & LiDAR Software,Vendors,0
+C08,C. Software & Data,Point Cloud & LiDAR Software Distributors & Resellers,Point Cloud & LiDAR Software,Distributors & Resellers,0
+C09,C. Software & Data,Point Cloud & LiDAR Software Implementation Partners,Point Cloud & LiDAR Software,Implementation Partners,0
+C10,C. Software & Data,Survey CAD & Field Software Vendors,Survey CAD & Field Software,Vendors,1
+C11,C. Software & Data,Survey CAD & Field Software Distributors & Resellers,Survey CAD & Field Software,Distributors & Resellers,1
+C12,C. Software & Data,Survey CAD & Field Software Implementation Partners,Survey CAD & Field Software,Implementation Partners,0
+C13,C. Software & Data,BIM Software Vendors,BIM Software,Vendors,7
+C14,C. Software & Data,BIM Software Distributors & Resellers,BIM Software,Distributors & Resellers,2
+C15,C. Software & Data,BIM Software Implementation Partners,BIM Software,Implementation Partners,3
+C16,C. Software & Data,Remote Sensing Software Vendors,Remote Sensing Software,Vendors,1
+C17,C. Software & Data,Remote Sensing Software Distributors & Resellers,Remote Sensing Software,Distributors & Resellers,0
+C18,C. Software & Data,Remote Sensing Software Implementation Partners,Remote Sensing Software,Implementation Partners,0
+C19,C. Software & Data,Web Mapping & Map API Vendors,Web Mapping & Map API,Vendors,0
+C20,C. Software & Data,Web Mapping & Map API Distributors & Resellers,Web Mapping & Map API,Distributors & Resellers,0
+C21,C. Software & Data,Web Mapping & Map API Implementation Partners,Web Mapping & Map API,Implementation Partners,0
+C22,C. Software & Data,Fleet & Asset Tracking Software Vendors,Fleet & Asset Tracking Software,Vendors,0
+C23,C. Software & Data,Fleet & Asset Tracking Software Distributors & Resellers,Fleet & Asset Tracking Software,Distributors & Resellers,0
+C24,C. Software & Data,Fleet & Asset Tracking Software Implementation Partners,Fleet & Asset Tracking Software,Implementation Partners,0
+C25,C. Software & Data,Digital Twin Platform Vendors,Digital Twin Platform,Vendors,1
+C26,C. Software & Data,Digital Twin Platform Distributors & Resellers,Digital Twin Platform,Distributors & Resellers,0
+C27,C. Software & Data,Digital Twin Platform Implementation Partners,Digital Twin Platform,Implementation Partners,0
+C28,C. Software & Data,Satellite Imagery Providers,Data,,8
+C29,C. Software & Data,Satellite Imagery Resellers,Data,,1
+C30,C. Software & Data,Aerial Imagery & Archive Providers,Data,,1
+C31,C. Software & Data,"Map, Street & Address Data Providers",Data,,4
+C32,C. Software & Data,Elevation & 3D City Model Providers,Data,,1
+C33,C. Software & Data,Demographic & Mobility Data Providers,Data,,0
+D01,D. Institutions & Community,National Mapping & Survey Agencies,,,42
+D02,D. Institutions & Community,Land Registries & Cadastre Authorities,,,12
+D03,D. Institutions & Community,Municipal GIS Departments,,,7
+D04,D. Institutions & Community,Space Agencies,,,10
+D05,D. Institutions & Community,Geological Surveys,,,2
+D06,D. Institutions & Community,Statistics & Census Bureaus,,,1
+D07,D. Institutions & Community,Regional & International Bodies,,,3
+D08,D. Institutions & Community,Research Institutes,,,4
+D09,D. Institutions & Community,"Universities (Surveying, GIS & Geomatics)",,,48
+D10,D. Institutions & Community,Technical Colleges & Vocational Institutes,,,3
+D11,D. Institutions & Community,Training Centres,,,32
+D12,D. Institutions & Community,Vendor Academies & Certification,,,2
+D13,D. Institutions & Community,Professional Bodies & Licensing Councils,,,11
+D14,D. Institutions & Community,Industry Associations,,,4
+D15,D. Institutions & Community,Recruitment & Staffing Agencies,,,1
+D16,D. Institutions & Community,Freelance Surveyors & GIS Experts,,,0
+D17,D. Institutions & Community,Conferences & Exhibitions,,,5
+D18,D. Institutions & Community,Media & Publications,,,0
+D19,D. Institutions & Community,NGOs & Humanitarian Mapping,,,2
