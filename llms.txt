@@ -1,0 +1,40 @@
+# GeoAtlas MEA
+
+> The geospatial industry directory for the Middle East and Africa. 110 survey companies, GIS consultancies, equipment and software suppliers, drone and satellite operators, mapping agencies and professional bodies across 16 countries. Free to search; data downloadable as CSV and JSON.
+
+## Key pages
+- [Directory search](https://risegeouae.ae/directory.html): all listings with filters
+- [FAQ](https://risegeouae.ae/faq.html): finding surveyors and geospatial services in the region
+- [About & methodology](https://risegeouae.ae/about.html): sources and labels
+- [Dataset (JSON)](https://risegeouae.ae/data/companies.json)
+- [Dataset (CSV)](https://risegeouae.ae/data/companies.csv)
+
+## Countries
+- [United Arab Emirates](https://risegeouae.ae/country/united-arab-emirates.html): 36 listings
+- [Saudi Arabia](https://risegeouae.ae/country/saudi-arabia.html): 18 listings
+- [Multinational suppliers](https://risegeouae.ae/country/regional-mea.html): 15 listings
+- [South Africa](https://risegeouae.ae/country/south-africa.html): 11 listings
+- [Nigeria](https://risegeouae.ae/country/nigeria.html): 8 listings
+- [Kenya](https://risegeouae.ae/country/kenya.html): 6 listings
+- [Egypt](https://risegeouae.ae/country/egypt.html): 4 listings
+- [Morocco](https://risegeouae.ae/country/morocco.html): 3 listings
+- [Bahrain](https://risegeouae.ae/country/bahrain.html): 1 listings
+- [Kuwait](https://risegeouae.ae/country/kuwait.html): 1 listings
+- [Oman](https://risegeouae.ae/country/oman.html): 1 listings
+- [Qatar](https://risegeouae.ae/country/qatar.html): 1 listings
+- [Jordan](https://risegeouae.ae/country/jordan.html): 1 listings
+- [Mali](https://risegeouae.ae/country/mali.html): 1 listings
+- [Rwanda](https://risegeouae.ae/country/rwanda.html): 1 listings
+- [Senegal](https://risegeouae.ae/country/senegal.html): 1 listings
+- [Ethiopia](https://risegeouae.ae/country/ethiopia.html): 1 listings
+
+## Categories
+- [Association & Education](https://risegeouae.ae/category/association-and-education.html): Professional bodies, institutes and societies for surveyors and GIS professionals.
+- [Drone & UAV Services](https://risegeouae.ae/category/drone-and-uav-services.html): Drone survey operators, aerial mapping firms and UAV platform suppliers.
+- [GIS & Consulting](https://risegeouae.ae/category/gis-and-consulting.html): GIS consultancies, system integrators and spatial data specialists building maps, platforms and digital twins.
+- [Government & Agency](https://risegeouae.ae/category/government-and-agency.html): National mapping agencies, space agencies, cadastre authorities and survey regulators.
+- [Hardware Supplier](https://risegeouae.ae/category/hardware-supplier.html): Distributors and manufacturers of GNSS receivers, total stations, laser scanners and mobile mapping systems.
+- [Hydrographic & Marine](https://risegeouae.ae/category/hydrographic-and-marine.html): Hydrographic survey firms and marine positioning and sonar equipment makers.
+- [Satellite & Earth Observation](https://risegeouae.ae/category/satellite-and-earth-observation.html): Satellite operators, imagery providers and Earth observation analytics companies.
+- [Software Vendor](https://risegeouae.ae/category/software-vendor.html): GIS, photogrammetry, CAD and location-intelligence software companies and platforms.
+- [Survey Company](https://risegeouae.ae/category/survey-company.html): Land, engineering, cadastral, topographic and building survey firms, including accredited real-estate surveyors.

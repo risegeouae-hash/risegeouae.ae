@@ -1,0 +1,152 @@
+# GeoAtlas MEA
+
+> The geospatial industry directory for the Middle East and Africa. 110 survey companies, GIS consultancies, equipment and software suppliers, drone and satellite operators, mapping agencies and professional bodies across 16 countries. Free to search; data downloadable as CSV and JSON.
+
+## Key pages
+- [Directory search](https://risegeouae.ae/directory.html): all listings with filters
+- [FAQ](https://risegeouae.ae/faq.html): finding surveyors and geospatial services in the region
+- [About & methodology](https://risegeouae.ae/about.html): sources and labels
+- [Dataset (JSON)](https://risegeouae.ae/data/companies.json)
+- [Dataset (CSV)](https://risegeouae.ae/data/companies.csv)
+
+## Countries
+- [United Arab Emirates](https://risegeouae.ae/country/united-arab-emirates.html): 36 listings
+- [Saudi Arabia](https://risegeouae.ae/country/saudi-arabia.html): 18 listings
+- [Multinational suppliers](https://risegeouae.ae/country/regional-mea.html): 15 listings
+- [South Africa](https://risegeouae.ae/country/south-africa.html): 11 listings
+- [Nigeria](https://risegeouae.ae/country/nigeria.html): 8 listings
+- [Kenya](https://risegeouae.ae/country/kenya.html): 6 listings
+- [Egypt](https://risegeouae.ae/country/egypt.html): 4 listings
+- [Morocco](https://risegeouae.ae/country/morocco.html): 3 listings
+- [Bahrain](https://risegeouae.ae/country/bahrain.html): 1 listings
+- [Kuwait](https://risegeouae.ae/country/kuwait.html): 1 listings
+- [Oman](https://risegeouae.ae/country/oman.html): 1 listings
+- [Qatar](https://risegeouae.ae/country/qatar.html): 1 listings
+- [Jordan](https://risegeouae.ae/country/jordan.html): 1 listings
+- [Mali](https://risegeouae.ae/country/mali.html): 1 listings
+- [Rwanda](https://risegeouae.ae/country/rwanda.html): 1 listings
+- [Senegal](https://risegeouae.ae/country/senegal.html): 1 listings
+- [Ethiopia](https://risegeouae.ae/country/ethiopia.html): 1 listings
+
+## Categories
+- [Association & Education](https://risegeouae.ae/category/association-and-education.html): Professional bodies, institutes and societies for surveyors and GIS professionals.
+- [Drone & UAV Services](https://risegeouae.ae/category/drone-and-uav-services.html): Drone survey operators, aerial mapping firms and UAV platform suppliers.
+- [GIS & Consulting](https://risegeouae.ae/category/gis-and-consulting.html): GIS consultancies, system integrators and spatial data specialists building maps, platforms and digital twins.
+- [Government & Agency](https://risegeouae.ae/category/government-and-agency.html): National mapping agencies, space agencies, cadastre authorities and survey regulators.
+- [Hardware Supplier](https://risegeouae.ae/category/hardware-supplier.html): Distributors and manufacturers of GNSS receivers, total stations, laser scanners and mobile mapping systems.
+- [Hydrographic & Marine](https://risegeouae.ae/category/hydrographic-and-marine.html): Hydrographic survey firms and marine positioning and sonar equipment makers.
+- [Satellite & Earth Observation](https://risegeouae.ae/category/satellite-and-earth-observation.html): Satellite operators, imagery providers and Earth observation analytics companies.
+- [Software Vendor](https://risegeouae.ae/category/software-vendor.html): GIS, photogrammetry, CAD and location-intelligence software companies and platforms.
+- [Survey Company](https://risegeouae.ae/category/survey-company.html): Land, engineering, cadastral, topographic and building survey firms, including accredited real-estate surveyors.
+
+## All listings
+- [Abdulrahman Jazzar Engineering](https://risegeouae.ae/company/abdulrahman-jazzar-engineering.html) | GIS & Consulting | Saudi Arabia | GIS consulting, Engineering | no website listed
+- [Aerial Imaging Saudi Arabia (AISA)](https://risegeouae.ae/company/aerial-imaging-saudi-arabia-aisa.html) | Drone & UAV Services | Saudi Arabia | Aerial imaging, Photogrammetry | no website listed
+- [AISC (Atheeb)](https://risegeouae.ae/company/aisc-atheeb.html) | GIS & Consulting | Riyadh, Saudi Arabia | Digital twins, Smart city, 2D/3D mapping, System integration | https://www.aisct.sa
+- [Al Qotr Surveying Company](https://risegeouae.ae/company/al-qotr-surveying-company.html) | Survey Company | Saudi Arabia | Land survey, Engineering survey | no website listed
+- [ALIA ICT](https://risegeouae.ae/company/alia-ict.html) | GIS & Consulting | Riyadh, Saudi Arabia | GIS mapping, Pavement condition survey, Enterprise software | https://www.aliaict.com
+- [Arabian Space Imaging](https://risegeouae.ae/company/arabian-space-imaging.html) | Satellite & Earth Observation | Saudi Arabia | Satellite imagery, Remote sensing | no website listed
+- [Future Cities for Engineering Consultations (FCEC)](https://risegeouae.ae/company/future-cities-for-engineering-consultations-fcec.html) | GIS & Consulting | Saudi Arabia | GIS consulting, Urban planning | no website listed
+- [General Authority for Survey and Geospatial Information (GEOSA)](https://risegeouae.ae/company/general-authority-for-survey-and-geospatial-information-geosa.html) | Government & Agency | Riyadh, Saudi Arabia | National mapping, Geodetic control, Geospatial regulation, Surveyor licensing | https://geosa.gov.sa
+- [GeoCodes](https://risegeouae.ae/company/geocodes.html) | Survey Company | Riyadh, Saudi Arabia | Topographic survey, Hydrographic survey, Geophysical survey, Drone survey, Enterprise GIS, Digital twins | https://geocodesltd.com
+- [GeoSystems](https://risegeouae.ae/company/geosystems.html) | Survey Company | Tabuk, Saudi Arabia | Topographic survey, Scan-to-BIM, Drone mapping, Mobile mapping, GPR, Geodetic networks | https://www.geosystems.tech
+- [Gravity GIS](https://risegeouae.ae/company/gravity-gis.html) | GIS & Consulting | Riyadh, Saudi Arabia | SDI design, Enterprise GIS consulting, Photogrammetry, Training | https://www.gravitygis.com
+- [Map Dev](https://risegeouae.ae/company/map-dev.html) | GIS & Consulting | Jeddah, Saudi Arabia | Digital maps, GIS platforms, Aerial survey, Remote sensing, Vehicle tracking | https://mapdev.sa
+- [Neo Space Group](https://risegeouae.ae/company/neo-space-group.html) | Satellite & Earth Observation | Riyadh, Saudi Arabia | Geospatial analytics, EO data, Satellite capacity, PNT | https://neospacegroup.com
+- [NOVAsat](https://risegeouae.ae/company/novasat.html) | GIS & Consulting | Riyadh, Saudi Arabia | GIS services, Satellite communications, IoT, Cloud | https://www.novasat.com.sa
+- [Precision Geospatial Engineering Consultancy](https://risegeouae.ae/company/precision-geospatial-engineering-consultancy.html) | Survey Company | Saudi Arabia | Surveying, GIS | no website listed
+- [SARsatX](https://risegeouae.ae/company/sarsatx.html) | Satellite & Earth Observation | Jeddah, Saudi Arabia | SAR satellites, Optical satellites, EO analytics | https://sarsatx.com
+- [Saudi Geological Survey](https://risegeouae.ae/company/saudi-geological-survey.html) | Government & Agency | Jeddah, Saudi Arabia | Geological mapping, Geohazards, Remote sensing | https://sgs.gov.sa
+- [Terra Drone Arabia](https://risegeouae.ae/company/terra-drone-arabia.html) | Drone & UAV Services | Riyadh, Saudi Arabia | Drone survey, Pipeline inspection, LiDAR, BIM, GIS | https://terra-drone.com.sa
+- [Accurate Point Survey Services](https://risegeouae.ae/company/accurate-point-survey-services.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | https://accuratepoint-ae.com
+- [Al Yamama Real Estate Survey Services](https://risegeouae.ae/company/al-yamama-real-estate-survey-services.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | https://alyamama-uae.com
+- [Alwarqa Survey Engineering](https://risegeouae.ae/company/alwarqa-survey-engineering.html) | Survey Company | Dubai, United Arab Emirates | 3D laser scanning, Drone survey, Topographic survey, Land survey, GIS analysis | https://www.alwarqasurvey.com
+- [Bazilt Real Estate Survey Services](https://risegeouae.ae/company/bazilt-real-estate-survey-services.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | https://www.baziltsurvey.com
+- [Capital Surveys](https://risegeouae.ae/company/capital-surveys.html) | Survey Company | Abu Dhabi, United Arab Emirates | Land survey, Engineering survey | no website listed
+- [Digital Reality](https://risegeouae.ae/company/digital-reality.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, 3D scanning, Land survey | https://www.drc.co
+- [Dubai Land Department](https://risegeouae.ae/company/dubai-land-department.html) | Government & Agency | Dubai, United Arab Emirates | Survey company accreditation, Land registry | https://dubailand.gov.ae
+- [Dubai Municipality GIS Centre](https://risegeouae.ae/company/dubai-municipality-gis-centre.html) | Government & Agency | Dubai, United Arab Emirates | Digital maps, Geospatial data, Survey control | https://www.dm.gov.ae
+- [Emarat Survey Services](https://risegeouae.ae/company/emarat-survey-services.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | http://www.emaratsurvey.com
+- [Esri (Middle East & Africa)](https://risegeouae.ae/company/esri-middle-east-and-africa.html) | Software Vendor | Dubai, United Arab Emirates | ArcGIS platform, Spatial analytics, GIS apps | https://www.esri.com/en-us/about/about-esri/mea-central-asia
+- [Falcon Geomatics](https://risegeouae.ae/company/falcon-geomatics.html) | Survey Company | Dubai, United Arab Emirates | Topographic survey, Building survey, Drone mapping, 3D scanning, Utility detection, Bathymetry | https://falconsurveyme.com
+- [Geoestate Survey Services](https://risegeouae.ae/company/geoestate-survey-services.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | no website listed
+- [Geoimage Survey](https://risegeouae.ae/company/geoimage-survey.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | http://www.geoimagedubai.com
+- [GISTEC](https://risegeouae.ae/company/gistec.html) | GIS & Consulting | Dubai, United Arab Emirates | Esri software distribution, GIS consulting, Web & mobile GIS, 3D GIS, Training | https://www.gistec.com
+- [Global GeoMapping Solutions](https://risegeouae.ae/company/global-geomapping-solutions.html) | GIS & Consulting | Abu Dhabi, United Arab Emirates | Utility mapping, CAD-to-GIS conversion, Spatial data QA, As-built verification | https://globalgeomap.com
+- [GNSS.AE](https://risegeouae.ae/company/gnss-ae.html) | Hardware Supplier | Dubai, United Arab Emirates | GNSS receivers, LiDAR scanning, UAV integration, Aerial mapping, Instrument supply | https://gnss.ae
+- [Hectare Real Estate Survey Services](https://risegeouae.ae/company/hectare-real-estate-survey-services.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | https://www.hectareuae.com
+- [Innovation Floor](https://risegeouae.ae/company/innovation-floor.html) | GIS & Consulting | Dubai, United Arab Emirates | GIS development, ArcGIS solutions, GIS consultancy, Training | https://innovationfloor.com
+- [iSpatial Techno Solutions (IST)](https://risegeouae.ae/company/ispatial-techno-solutions-ist.html) | GIS & Consulting | Abu Dhabi, United Arab Emirates | Location intelligence, GeoAI, GIS-BIM integration, Web & mobile GIS | https://ispatialtec.com
+- [MicroMAP](https://risegeouae.ae/company/micromap.html) | GIS & Consulting | Abu Dhabi, United Arab Emirates | GIS application development, Data services, GIS staffing | https://micromap.ae
+- [Mohammed Bin Rashid Space Centre (MBRSC)](https://risegeouae.ae/company/mohammed-bin-rashid-space-centre-mbrsc.html) | Government & Agency | Dubai, United Arab Emirates | Earth observation satellites, Imagery, Space research | https://www.mbrsc.ae
+- [Northern Engineering Surveys (NES)](https://risegeouae.ae/company/northern-engineering-surveys-nes.html) | Survey Company | Dubai, United Arab Emirates | Land surveying, GIS mapping, Drone mapping, Mobile LiDAR, 3D laser scanning | https://nesdubai.com
+- [Petra Point](https://risegeouae.ae/company/petra-point.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | https://www.petrapoint.com
+- [PRD Consultancy](https://risegeouae.ae/company/prd-consultancy.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | https://www.prdsurvey.com
+- [Rise Geo](https://risegeouae.ae/company/rise-geo.html) | Survey Company | Dubai, United Arab Emirates | Survey equipment supply & rental, Aerial survey, Hydrographic survey, BIM integration | https://rise-geo.com
+- [Siteview Real Estate Survey Services](https://risegeouae.ae/company/siteview-real-estate-survey-services.html) | Survey Company | Dubai, United Arab Emirates | Real estate survey, Land survey, Building survey | https://siteviewsurvey.com
+- [Space Imaging Middle East (SIME)](https://risegeouae.ae/company/space-imaging-middle-east-sime.html) | Satellite & Earth Observation | Dubai, United Arab Emirates | Satellite imagery, Aerial imagery, GIS design, Data hosting, Training | https://www.spaceimagingme.com
+- [Space42 (formerly Bayanat)](https://risegeouae.ae/company/space42-formerly-bayanat.html) | Satellite & Earth Observation | Abu Dhabi, United Arab Emirates | Earth observation, Surveying, Geospatial AI, Satellite communications | https://space42.ai
+- [Surety Computer Systems](https://risegeouae.ae/company/surety-computer-systems.html) | GIS & Consulting | Dubai, United Arab Emirates | Geospatial data collection, GIS decision support, Telecom & IT solutions | https://www.surety-cs.com
+- [The Arabian Surveying Engineering](https://risegeouae.ae/company/the-arabian-surveying-engineering.html) | Survey Company | Dubai, United Arab Emirates | Land survey, Engineering survey | no website listed
+- [Trimble Middle East](https://risegeouae.ae/company/trimble-middle-east.html) | Hardware Supplier | Dubai, United Arab Emirates | Total stations, GNSS, Laser scanners, Mobile mapping, Survey software | https://geospatial.trimble.com
+- [UAE Space Agency](https://risegeouae.ae/company/uae-space-agency.html) | Government & Agency | Abu Dhabi, United Arab Emirates | Space policy, EO data programmes | https://space.gov.ae
+- [Survey and Land Registration Bureau](https://risegeouae.ae/company/survey-and-land-registration-bureau.html) | Government & Agency | Manama, Bahrain | National mapping, Land registry, Geodetic control | https://www.slrb.gov.bh
+- [Kuwait Institute for Scientific Research](https://risegeouae.ae/company/kuwait-institute-for-scientific-research.html) | Government & Agency | Kuwait City, Kuwait | Remote sensing, Environmental GIS, Research | https://www.kisr.edu.kw
+- [Ministry of Housing and Urban Planning](https://risegeouae.ae/company/ministry-of-housing-and-urban-planning.html) | Government & Agency | Muscat, Oman | Land registry, National GIS, Urban planning | https://mhup.gov.om
+- [Ministry of Municipality – Centre for GIS](https://risegeouae.ae/company/ministry-of-municipality-centre-for-gis.html) | Government & Agency | Doha, Qatar | National GIS, Spatial data infrastructure, Addressing | https://www.mm.gov.qa
+- [Falcon Eye Drones](https://risegeouae.ae/company/falcon-eye-drones.html) | Drone & UAV Services | Dubai, United Arab Emirates | Drone survey, Aerial inspection, Photogrammetry, LiDAR | https://www.falconeyedrones.com
+- [Fugro Middle East](https://risegeouae.ae/company/fugro-middle-east.html) | Hydrographic & Marine | Dubai, United Arab Emirates | Hydrographic survey, Geotechnical, Positioning, Asset integrity | https://www.fugro.com
+- [Leica Geosystems (Hexagon) Middle East](https://risegeouae.ae/company/leica-geosystems-hexagon-middle-east.html) | Hardware Supplier | Dubai, United Arab Emirates | Total stations, GNSS, Laser scanning, Reality capture, GIS data collection | https://leica-geosystems.com
+- [Topcon Positioning Middle East & Africa](https://risegeouae.ae/company/topcon-positioning-middle-east-and-africa.html) | Hardware Supplier | Dubai, United Arab Emirates | Total stations, GNSS, Machine control, Scanning | https://www.topconpositioning.com
+- [Esri North Africa](https://risegeouae.ae/company/esri-north-africa.html) | Software Vendor | Cairo, Egypt | ArcGIS distribution, GIS consulting, Training | no website listed
+- [MAYDAY](https://risegeouae.ae/company/mayday.html) | Software Vendor | Cairo, Egypt | Location-based services, Mapping | http://getmayday.io
+- [AgriEdge](https://risegeouae.ae/company/agriedge.html) | Software Vendor | Ben Guerir, Morocco | Precision agriculture, Remote sensing, Analytics | https://agriedge.um6p.ma
+- [Egyptian Space Agency](https://risegeouae.ae/company/egyptian-space-agency.html) | Government & Agency | Cairo, Egypt | EO satellites, Space research | https://www.egsa.gov.eg
+- [National Authority for Remote Sensing and Space Sciences (NARSS)](https://risegeouae.ae/company/national-authority-for-remote-sensing-and-space-sciences-narss.html) | Government & Agency | Cairo, Egypt | Remote sensing, Satellite data, Research | http://www.narss.sci.eg
+- [Royal Jordanian Geographic Centre](https://risegeouae.ae/company/royal-jordanian-geographic-centre.html) | Government & Agency | Amman, Jordan | National mapping, Aerial photography, GIS, Geodesy | https://www.rjgc.gov.jo
+- [ANCFCC](https://risegeouae.ae/company/ancfcc.html) | Government & Agency | Rabat, Morocco | Cadastre, National mapping, Land registry | https://www.ancfcc.gov.ma
+- [Royal Centre for Remote Sensing (CRTS)](https://risegeouae.ae/company/royal-centre-for-remote-sensing-crts.html) | Government & Agency | Rabat, Morocco | Remote sensing, Satellite data, Training | https://www.crts.gov.ma
+- [Agizo Africa Ltd](https://risegeouae.ae/company/agizo-africa-ltd.html) | GIS & Consulting | Nairobi, Kenya | GIS solutions, Consulting | no website listed
+- [Apollo Agriculture](https://risegeouae.ae/company/apollo-agriculture.html) | Software Vendor | Nairobi, Kenya | Remote sensing, Agri analytics | https://www.apolloagriculture.com
+- [Astral Aerial Solutions](https://risegeouae.ae/company/astral-aerial-solutions.html) | Drone & UAV Services | Nairobi, Kenya | Drone mapping, Aerial survey, Drone delivery | https://astral-aerial.com
+- [Lentera Africa](https://risegeouae.ae/company/lentera-africa.html) | Software Vendor | Nairobi, Kenya | Remote sensing, Crop monitoring, Mapping | https://lenterafrica.com
+- [Map Action](https://risegeouae.ae/company/map-action.html) | Software Vendor | Bamako, Mali | Citizen mapping, Environmental reporting | https://map-action.com
+- [AccuGeospatial Company Ltd](https://risegeouae.ae/company/accugeospatial-company-ltd.html) | GIS & Consulting | Nigeria | GIS, Mapping | no website listed
+- [Clifford Geo-Consult Ltd](https://risegeouae.ae/company/clifford-geo-consult-ltd.html) | Survey Company | Nigeria | Surveying, GIS consulting | no website listed
+- [Geospatial Research Ltd](https://risegeouae.ae/company/geospatial-research-ltd.html) | GIS & Consulting | Nigeria | GIS consulting, Research | no website listed
+- [Jamitan Tech Nig Ltd](https://risegeouae.ae/company/jamitan-tech-nig-ltd.html) | GIS & Consulting | Nigeria | GIS solutions | no website listed
+- [DMM.HeHe](https://risegeouae.ae/company/dmm-hehe.html) | Software Vendor | Kigali, Rwanda | Geolocation software, Data processing | https://about.hehe.rw
+- [NIMA Codes](https://risegeouae.ae/company/nima-codes.html) | Software Vendor | Dakar, Senegal | Addressing, Navigation, Location services | https://nima.codes
+- [Amaya Space](https://risegeouae.ae/company/amaya-space.html) | Satellite & Earth Observation | Cape Town, South Africa | Nanosatellites, Remote sensing | https://amayaspace.com
+- [GeoAfrika Technologies](https://risegeouae.ae/company/geoafrika-technologies.html) | GIS & Consulting | Durban, South Africa | GIS solutions, Consulting | no website listed
+- [VoiceMap](https://risegeouae.ae/company/voicemap.html) | Software Vendor | Cape Town, South Africa | Location-triggered audio, Mapping | https://voicemap.me
+- [WiPo Wireless Power](https://risegeouae.ae/company/wipo-wireless-power.html) | Hardware Supplier | Pretoria, South Africa | Drone charging, Wireless power | https://www.wipo-wirelesspower.com
+- [Ethiopian Space Science and Geospatial Institute](https://risegeouae.ae/company/ethiopian-space-science-and-geospatial-institute.html) | Government & Agency | Addis Ababa, Ethiopia | National mapping, Remote sensing, Space science | https://essgi.gov.et
+- [Institution of Surveyors of Kenya](https://risegeouae.ae/company/institution-of-surveyors-of-kenya.html) | Association & Education | Nairobi, Kenya | Professional body, CPD | https://isk.or.ke
+- [Regional Centre for Mapping of Resources for Development (RCMRD)](https://risegeouae.ae/company/regional-centre-for-mapping-of-resources-for-development-rcmrd.html) | Government & Agency | Nairobi, Kenya | EO training, Mapping, Remote sensing, Capacity building | https://rcmrd.org
+- [National Space Research and Development Agency (NASRDA)](https://risegeouae.ae/company/national-space-research-and-development-agency-nasrda.html) | Government & Agency | Abuja, Nigeria | EO satellites, Remote sensing | https://nasrda.gov.ng
+- [Nigerian Institution of Surveyors](https://risegeouae.ae/company/nigerian-institution-of-surveyors.html) | Association & Education | Abuja, Nigeria | Professional body, CPD | https://nis.org.ng
+- [Office of the Surveyor-General of the Federation (OSGoF)](https://risegeouae.ae/company/office-of-the-surveyor-general-of-the-federation-osgof.html) | Government & Agency | Abuja, Nigeria | National mapping, Geodetic control, Boundary survey | https://osgof.gov.ng
+- [Surveyors Council of Nigeria (SURCON)](https://risegeouae.ae/company/surveyors-council-of-nigeria-surcon.html) | Government & Agency | Abuja, Nigeria | Surveyor registration, Regulation | https://surcon.gov.ng
+- [AfriGIS](https://risegeouae.ae/company/afrigis.html) | GIS & Consulting | Pretoria, South Africa | Geocoding, Location data, Mapping APIs | https://www.afrigis.co.za
+- [Esri South Africa](https://risegeouae.ae/company/esri-south-africa.html) | Software Vendor | Johannesburg, South Africa | ArcGIS distribution, GIS consulting, Training | https://www.esri-southafrica.com
+- [Geo-Information Society of South Africa (GISSA)](https://risegeouae.ae/company/geo-information-society-of-south-africa-gissa.html) | Association & Education | South Africa | GIS community, Events | https://www.gissa.org.za
+- [Optron](https://risegeouae.ae/company/optron.html) | Hardware Supplier | Johannesburg, South Africa | Trimble distribution, GNSS, Total stations, Scanning | https://www.optron.com
+- [South African Geomatics Institute (SAGI)](https://risegeouae.ae/company/south-african-geomatics-institute-sagi.html) | Association & Education | South Africa | Professional body, CPD | https://www.sagi.co.za
+- [South African National Space Agency (SANSA)](https://risegeouae.ae/company/south-african-national-space-agency-sansa.html) | Government & Agency | Pretoria, South Africa | EO data, Space science, Satellite operations | https://www.sansa.org.za
+- [Southern Mapping](https://risegeouae.ae/company/southern-mapping.html) | Drone & UAV Services | Johannesburg, South Africa | Aerial LiDAR, Aerial photography, Mapping | https://www.southernmapping.com
+- [Autodesk](https://risegeouae.ae/company/autodesk.html) | Software Vendor | Riyadh, Regional (MEA) | AutoCAD Map 3D, Civil 3D, GIS-CAD integration | https://www.autodesk.com
+- [Bentley Systems](https://risegeouae.ae/company/bentley-systems.html) | Software Vendor | Regional (MEA) | Infrastructure software, Digital twins, OpenCities Map | https://www.bentley.com
+- [Agisoft](https://risegeouae.ae/company/agisoft.html) | Software Vendor | Regional (MEA) | Photogrammetry, 3D reconstruction | https://www.agisoft.com
+- [Airbus Defence and Space – Intelligence](https://risegeouae.ae/company/airbus-defence-and-space-intelligence.html) | Satellite & Earth Observation | Regional (MEA) | Pléiades Neo imagery, SPOT imagery, Elevation data | https://space-solutions.airbus.com
+- [CHC Navigation](https://risegeouae.ae/company/chc-navigation.html) | Hardware Supplier | Regional (MEA) | GNSS receivers, Laser scanners, Marine survey, Machine control | https://www.chcnav.com
+- [DJI Enterprise](https://risegeouae.ae/company/dji-enterprise.html) | Drone & UAV Services | Regional (MEA) | Survey drones, LiDAR payloads, Thermal | https://enterprise.dji.com
+- [Emlid](https://risegeouae.ae/company/emlid.html) | Hardware Supplier | Regional (MEA) | RTK GNSS receivers, Survey apps | https://emlid.com
+- [FARO](https://risegeouae.ae/company/faro.html) | Hardware Supplier | Regional (MEA) | 3D laser scanners, Reality capture software | https://www.faro.com
+- [Kongsberg Discovery](https://risegeouae.ae/company/kongsberg-discovery.html) | Hydrographic & Marine | Regional (MEA) | Multibeam echosounders, Marine positioning | https://www.kongsberg.com
+- [NavVis](https://risegeouae.ae/company/navvis.html) | Hardware Supplier | Regional (MEA) | Mobile mapping, Indoor scanning | https://www.navvis.com
+- [Pix4D](https://risegeouae.ae/company/pix4d.html) | Software Vendor | Regional (MEA) | Photogrammetry, Drone mapping software | https://www.pix4d.com
+- [Planet Labs](https://risegeouae.ae/company/planet-labs.html) | Satellite & Earth Observation | Regional (MEA) | Daily satellite imagery, Monitoring | https://www.planet.com
+- [RIEGL](https://risegeouae.ae/company/riegl.html) | Hardware Supplier | Regional (MEA) | Airborne LiDAR, Terrestrial LiDAR, Mobile LiDAR | https://www.riegl.com
+- [Stonex](https://risegeouae.ae/company/stonex.html) | Hardware Supplier | Regional (MEA) | GNSS, Total stations, Laser scanners | https://www.stonex.it
+- [Teledyne Marine](https://risegeouae.ae/company/teledyne-marine.html) | Hydrographic & Marine | Regional (MEA) | Multibeam, Side-scan sonar, ADCP | https://www.teledynemarine.com
