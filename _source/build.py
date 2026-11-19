@@ -12,7 +12,16 @@ EMAIL = "info@risegeouae.ae"
 SUBMIT_ENDPOINT = ""
 TODAY = datetime.date.today().isoformat()
 TODAY_H = datetime.date.today().strftime("%-d %b %Y")
-DISCLOSURE = ("Disclosure: this site runs on risegeouae.ae, the domain of Rise Geo Control Systems Trading, a survey equipment "
+# Canonical NAP for Rise Geo Control Systems Trading LLC. Must match Google Business Profile and every directory listing
+# character for character. Change it here only, then rebuild.
+RISE = {"name": "Rise Geo Control Systems Trading LLC", "slug": "rise-geo-control-systems-trading",
+        "street": "Office 217, Block A, Al Shaali Building 2, Damascus Street", "area": "Al Qusais Industrial Area 1",
+        "city": "Dubai", "country": "United Arab Emirates", "country_code": "AE", "pobox": "19742",
+        "phone": "+971 4 547 8282", "email": "sales@rise-geo.com", "website": "https://rise-geo.com/"}
+RISE["address_line"] = f'{RISE["street"]}, {RISE["area"]}, {RISE["city"]}, {RISE["country"]} (PO Box {RISE["pobox"]})'
+RISE_ID = BASE_URL + "/company/" + RISE["slug"] + ".html#org"
+RISE_REF = {"@type": "LocalBusiness", "@id": RISE_ID, "name": RISE["name"], "url": RISE["website"]}
+DISCLOSURE = ("Disclosure: this site runs on risegeouae.ae, the domain of Rise Geo Control Systems Trading LLC, a survey equipment "
               "dealer that is listed in this directory. Listings are never paid for and Rise Geo gets no priority in ordering, rankings or “where to buy” lists.")
 
 here = pathlib.Path(__file__).parent
@@ -199,7 +208,7 @@ def itemlist(name, items):
             "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": url("company/" + r["slug"] + ".html"), "name": r["name"]} for i, r in enumerate(items[:100])]}
 def faqld(faq): return {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": re.sub("<[^>]+>", "", a)}} for q, a in faq]} if faq else None
 def faqhtml(faq, title="Questions"): return f'<h2>{title}</h2>' + "".join(f'<details class="q" open><summary>{e(q)}</summary><p>{a}</p></details>' for q, a in faq) if faq else ""
-ORG = {"@context": "https://schema.org", "@type": "Organization", "@id": BASE_URL + "/#org", "name": SITE, "url": BASE_URL + "/", "description": TAGLINE, "areaServed": ["Middle East", "Africa"], "email": EMAIL}
+ORG = {"@context": "https://schema.org", "@type": "Organization", "@id": BASE_URL + "/#org", "name": SITE, "url": BASE_URL + "/", "description": TAGLINE, "areaServed": ["Middle East", "Africa"], "email": EMAIL, "parentOrganization": RISE_REF}
 WEBSITE = {"@context": "https://schema.org", "@type": "WebSite", "@id": BASE_URL + "/#site", "name": SITE, "url": BASE_URL + "/", "publisher": {"@id": BASE_URL + "/#org"},
            "potentialAction": {"@type": "SearchAction", "target": {"@type": "EntryPoint", "urlTemplate": BASE_URL + "/directory.html?q={search_term_string}"}, "query-input": "required name=search_term_string"}}
 def catlink(depth, name, n=True):
@@ -365,6 +374,14 @@ for r in rows:
           "areaServed": r["country"] if r["country"] != "Regional (MEA)" else ["Middle East", "Africa"], "knowsAbout": r["svc"] or None,
           "brand": [{"@type": "Brand", "name": b} for b in brands] or None, "sameAs": [r["website"]] if r["website"] else None}
     if r["city"] in COORDS: ld["geo"] = {"@type": "GeoCoordinates", "latitude": COORDS[r["city"]][0], "longitude": COORDS[r["city"]][1]}
+    is_rise = r["slug"] == RISE["slug"]
+    if is_rise:  # full canonical NAP; city-centre coordinates removed until the exact pin is confirmed
+        ld.pop("geo", None)
+        ld.update({"name": RISE["name"], "legalName": RISE["name"], "url": RISE["website"], "telephone": RISE["phone"], "email": RISE["email"],
+                   "address": {"@type": "PostalAddress", "streetAddress": RISE["street"], "addressLocality": RISE["area"], "addressRegion": RISE["city"],
+                               "postOfficeBoxNumber": RISE["pobox"], "addressCountry": RISE["country_code"]},
+                   "contactPoint": [{"@type": "ContactPoint", "telephone": RISE["phone"], "contactType": "sales", "email": RISE["email"], "areaServed": "AE", "availableLanguage": ["en", "ar"]}],
+                   "areaServed": [{"@type": "Country", "name": RISE["country"]}], "sameAs": [RISE["website"]]})
     ld = {k: v for k, v in ld.items() if v not in (None, "", [])}
     role = andjoin([b.lower() for b in r["bts"]][:3]) or "organisation"
     summary = f'{r["name"]} is listed in {SITE} as {"an" if role[0] in "aeiou" else "a"} {role} ' + (f'based in {r["city"] + ", " if r["city"] else ""}{r["country"]}' if r["country"] != "Regional (MEA)" else "serving the Middle East and Africa") + f'. It appears in {len(r["cats"])} directory {"category" if len(r["cats"]) == 1 else "categories"}' + (f', led by {r["primary"]}' if r["primary"] else "") + "."
@@ -378,6 +395,10 @@ for r in rows:
              ("Website", f'<a href="{e(r["website"])}" rel="noopener nofollow" target="_blank">{e(host(r["website"]))} ↗</a>' if r["website"] else "Not listed"),
              ("Phone", f'<span class="mono">{e(r["phone"])}</span>' if r["phone"] else "Not listed"),
              ("Source", f'<span class="src{"" if r["checked"] else " check"}"><i></i>{e(r["source"])}</span>')]
+    if is_rise:
+        facts[3] = ("Address", e(RISE["address_line"]))
+        facts[6] = ("Phone", f'<a class="mono" href="tel:{RISE["phone"].replace(" ", "")}">{e(RISE["phone"])}</a>')
+        facts.insert(7, ("Email", f'<a href="mailto:{RISE["email"]}">{e(RISE["email"])}</a>'))
     h, cld = hero(d, [("Home", "index.html"), (cname, "country/" + r["cslug"] + ".html"), (r["name"], "")], e(r["name"]), e(r["description"]), r["primary"])
     body = h + f'''<div class="wrap detail"><div class="prose"><p class="answer">{e(summary)}</p>
 <h2>Directory categories</h2><div class="chips">{"".join(catlink(d, c) for c in r["cats"])}</div>
@@ -638,7 +659,12 @@ simple("advertise.html", "Advertise", "Advertise and sponsorship", "Reach survey
 <h2>What we never sell</h2><p>Listing order, rankings and “where to buy” order are never for sale. Manufacturers and regional offices always come first, then authorised distributors, then dealers, by the same rule for everyone.</p>
 <h2>Disclosure</h2><p>{e(DISCLOSURE)}</p><p>Contact <a href="mailto:{EMAIL}?subject=Advertising">{EMAIL}</a>.</p>''', "Advertising and sponsorship options at GeoAtlas MEA, and our disclosure rules.")
 simple("contact.html", "Contact", "Contact", "Listings, corrections, partnerships, contributions and advertising.",
-       f'<p class="answer">Email <a href="mailto:{EMAIL}">{EMAIL}</a>. To add a listing use <a href="submit.html">List your company</a>; to update one use <a href="claim.html">Claim your profile</a>.</p>', "Contact GeoAtlas MEA.", [ORG])
+       f'<p class="answer">Email <a href="mailto:{EMAIL}">{EMAIL}</a>. To add a listing use <a href="submit.html">List your company</a>; to update one use <a href="claim.html">Claim your profile</a>.</p>'
+       f'<h2>Operated by</h2><p>{e(SITE)} is run by <a href="{RISE["website"]}" rel="noopener">{e(RISE["name"])}</a>, a survey equipment supplier in Dubai. '
+       f'For equipment sales, rental, calibration and training, contact Rise Geo directly:</p>'
+       f'<address><b>{e(RISE["name"])}</b><br>{e(RISE["street"])}<br>{e(RISE["area"])}, {e(RISE["city"])}, {e(RISE["country"])}<br>PO Box {e(RISE["pobox"])}<br>'
+       f'Phone <a href="tel:{RISE["phone"].replace(" ", "")}">{e(RISE["phone"])}</a><br>'
+       f'<a href="mailto:{RISE["email"]}">{e(RISE["email"])}</a> · <a href="{RISE["website"]}" rel="noopener">rise-geo.com</a></address>', "Contact GeoAtlas MEA.", [ORG])
 
 FAQ = [("What is GeoAtlas MEA?", f"{SITE} is a free directory of the geospatial industry in the Middle East and Africa. It lists {N} survey firms, GIS consultancies, BIM firms, equipment manufacturers and dealers, software vendors, agencies, universities and professional bodies in {len(real_countries)} countries, in {len(DCATS)} categories across four sections."),
        ("How do I find an accredited land surveyor in Dubai?", "Dubai Land Department (DLD) publishes the survey companies accredited for real-estate and land surveys in Dubai, and those firms are listed here under Real Estate & Building Surveyors in the UAE. Confirm current accreditation on dubailand.gov.ae before appointing a surveyor."),
