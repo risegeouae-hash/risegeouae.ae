@@ -86,7 +86,7 @@ for l in rd("brand-dealers.csv"):
     if l["brand"] in BR: BR[l["brand"]]["dealers"].append(l)
 DEALER_RANK = lambda l: (l["company"] != OWNER, 0 if "Regional office" in l["business_type"] else 1 if "Authorised" in l["business_type"] else 2 if "Dealer" in l["business_type"] else 3, l["country"], l["company"])
 for b in BRANDS: b["dealers"].sort(key=DEALER_RANK)
-BRANDS.sort(key=lambda b: (b["brand"] != OWN_BRAND, -len(b["dealers"]), b["brand"]))
+BRANDS.sort(key=lambda b: (b["brand"] != OWN_BRAND, b["brand"] == "Top Tech", -len(b["dealers"]), b["brand"]))
 company_brands = defaultdict(set)
 for b in BRANDS:
     for l in b["dealers"]: company_brands[l["company"]].add(b["brand"])

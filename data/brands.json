@@ -973,19 +973,19 @@
   "url": "https://risegeouae.ae/brand/teledyne-marine.html"
  },
  {
-  "brand": "Top Tech",
-  "parent_group": "Shanghai Hexin Survey Instrument Co., Ltd",
-  "origin_country": "China",
-  "product_lines": "GNSS receivers and survey instruments (full range to be confirmed)",
-  "where_to_buy": [],
-  "url": "https://risegeouae.ae/brand/top-tech.html"
- },
- {
   "brand": "Wingtra",
   "parent_group": "Wingtra",
   "origin_country": "Switzerland",
   "product_lines": "Survey and mapping drones",
   "where_to_buy": [],
   "url": "https://risegeouae.ae/brand/wingtra.html"
+ },
+ {
+  "brand": "Top Tech",
+  "parent_group": "Shanghai Hexin Survey Instrument Co., Ltd",
+  "origin_country": "China",
+  "product_lines": "GNSS receivers and survey instruments (full range to be confirmed)",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/top-tech.html"
  }
 ]
