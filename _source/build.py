@@ -69,7 +69,7 @@ for r in rows:
     r["cslug"] = slug(r["country"])
     r["secs"] = sorted({CAT[c]["sec"][2] for c in r["cats"]})
     for c in r["cats"]: CAT[c]["items"].append(r)
-order = lambda r: (r["name"] != OWNER, r["rank"], not r["checked"], r["country"], r["name"].lower())
+order = lambda r: (r["name"] not in (OWNER, OWN_BRAND), r["name"] != OWNER, r["rank"], not r["checked"], r["country"], r["name"].lower())
 rows.sort(key=order)
 for c in CAT.values(): c["items"].sort(key=order)
 BYNAME = {r["name"]: r for r in rows}
@@ -84,7 +84,7 @@ for b in BRANDS: b["slug"] = slug(b["brand"]); b["dealers"] = []
 BR = {b["brand"]: b for b in BRANDS}
 for l in rd("brand-dealers.csv"):
     if l["brand"] in BR: BR[l["brand"]]["dealers"].append(l)
-DEALER_RANK = lambda l: (l["company"] != OWNER, 0 if "Regional office" in l["business_type"] else 1 if "Authorised" in l["business_type"] else 2 if "Dealer" in l["business_type"] else 3, l["country"], l["company"])
+DEALER_RANK = lambda l: (l["company"] not in (OWNER, OWN_BRAND), 0 if "Regional office" in l["business_type"] else 1 if "Authorised" in l["business_type"] else 2 if "Dealer" in l["business_type"] else 3, l["country"], l["company"])
 for b in BRANDS: b["dealers"].sort(key=DEALER_RANK)
 BRANDS.sort(key=lambda b: (b["brand"] != OWN_BRAND, b["brand"] == "Top Tech", -len(b["dealers"]), b["brand"]))
 company_brands = defaultdict(set)

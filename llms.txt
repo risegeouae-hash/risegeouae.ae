@@ -1,6 +1,6 @@
 # GeoAtlas MEA
 
-> The geospatial industry directory for the Middle East and Africa. 737 survey firms, GIS and BIM consultancies, equipment manufacturers and dealers, software vendors, agencies, universities and professional bodies across 70 countries, in 146 categories and four sections. Free to search; data downloadable as CSV and JSON (CC BY 4.0).
+> The geospatial industry directory for the Middle East and Africa. 738 survey firms, GIS and BIM consultancies, equipment manufacturers and dealers, software vendors, agencies, universities and professional bodies across 70 countries, in 146 categories and four sections. Free to search; data downloadable as CSV and JSON (CC BY 4.0).
 
 ## Key pages
 - [Directory search](https://risegeouae.ae/directory.html)
@@ -71,23 +71,23 @@
 - [BIM Modelling & Coordination Services](https://risegeouae.ae/category/bim-modelling-and-coordination-services.html): 22 listings
 - [Scan-to-BIM Services](https://risegeouae.ae/category/scan-to-bim-services.html): 4 listings
 - [Digital Twin & Smart City Solutions](https://risegeouae.ae/category/digital-twin-and-smart-city-solutions.html): 19 listings
-- [Land Surveying Equipment Manufacturers](https://risegeouae.ae/category/land-surveying-equipment-manufacturers.html): 27 listings
+- [Land Surveying Equipment Manufacturers](https://risegeouae.ae/category/land-surveying-equipment-manufacturers.html): 28 listings
 - [Land Surveying Equipment Distributors](https://risegeouae.ae/category/land-surveying-equipment-distributors.html): 8 listings
 - [Land Surveying Equipment Dealers & Suppliers](https://risegeouae.ae/category/land-surveying-equipment-dealers-and-suppliers.html): 47 listings
 - [Land Surveying Equipment Rental](https://risegeouae.ae/category/land-surveying-equipment-rental.html): 5 listings
 - [Land Surveying Equipment Repair & Calibration](https://risegeouae.ae/category/land-surveying-equipment-repair-and-calibration.html): 10 listings
-- [GNSS Receiver Manufacturers](https://risegeouae.ae/category/gnss-receiver-manufacturers.html): 16 listings
+- [GNSS Receiver Manufacturers](https://risegeouae.ae/category/gnss-receiver-manufacturers.html): 17 listings
 - [GNSS Receiver Distributors](https://risegeouae.ae/category/gnss-receiver-distributors.html): 5 listings
 - [GNSS Receiver Dealers & Suppliers](https://risegeouae.ae/category/gnss-receiver-dealers-and-suppliers.html): 30 listings
 - [GNSS Receiver Rental](https://risegeouae.ae/category/gnss-receiver-rental.html): 3 listings
 - [GNSS Receiver Repair & Calibration](https://risegeouae.ae/category/gnss-receiver-repair-and-calibration.html): 4 listings
-- [Total Station Manufacturers](https://risegeouae.ae/category/total-station-manufacturers.html): 12 listings
+- [Total Station Manufacturers](https://risegeouae.ae/category/total-station-manufacturers.html): 13 listings
 - [Total Station Distributors](https://risegeouae.ae/category/total-station-distributors.html): 4 listings
 - [Total Station Dealers & Suppliers](https://risegeouae.ae/category/total-station-dealers-and-suppliers.html): 28 listings
 - [Total Station Rental](https://risegeouae.ae/category/total-station-rental.html): 3 listings
 - [Total Station Repair & Calibration](https://risegeouae.ae/category/total-station-repair-and-calibration.html): 3 listings
-- [Level & Construction Laser Manufacturers](https://risegeouae.ae/category/level-and-construction-laser-manufacturers.html): 2 listings
-- [3D Laser Scanner Manufacturers](https://risegeouae.ae/category/3d-laser-scanner-manufacturers.html): 13 listings
+- [Level & Construction Laser Manufacturers](https://risegeouae.ae/category/level-and-construction-laser-manufacturers.html): 3 listings
+- [3D Laser Scanner Manufacturers](https://risegeouae.ae/category/3d-laser-scanner-manufacturers.html): 14 listings
 - [3D Laser Scanner Distributors](https://risegeouae.ae/category/3d-laser-scanner-distributors.html): 1 listings
 - [3D Laser Scanner Dealers & Suppliers](https://risegeouae.ae/category/3d-laser-scanner-dealers-and-suppliers.html): 26 listings
 - [Mobile Mapping System Manufacturers](https://risegeouae.ae/category/mobile-mapping-system-manufacturers.html): 3 listings
@@ -103,6 +103,7 @@
 - [Hydrographic & Marine Equipment Manufacturers](https://risegeouae.ae/category/hydrographic-and-marine-equipment-manufacturers.html): 4 listings
 - [Monitoring Sensor Manufacturers](https://risegeouae.ae/category/monitoring-sensor-manufacturers.html): 1 listings
 - [Monitoring Sensor Distributors](https://risegeouae.ae/category/monitoring-sensor-distributors.html): 8 listings
+- [Survey Accessory & Field Controller Manufacturers](https://risegeouae.ae/category/survey-accessory-and-field-controller-manufacturers.html): 1 listings
 - [Survey Accessory & Field Controller Distributors](https://risegeouae.ae/category/survey-accessory-and-field-controller-distributors.html): 2 listings
 - [Survey Accessory & Field Controller Dealers & Suppliers](https://risegeouae.ae/category/survey-accessory-and-field-controller-dealers-and-suppliers.html): 1 listings
 - [GIS Software Vendors](https://risegeouae.ae/category/gis-software-vendors.html): 5 listings
@@ -110,7 +111,7 @@
 - [GIS Software Implementation Partners](https://risegeouae.ae/category/gis-software-implementation-partners.html): 35 listings
 - [Photogrammetry & Drone Mapping Software Vendors](https://risegeouae.ae/category/photogrammetry-and-drone-mapping-software-vendors.html): 3 listings
 - [Photogrammetry & Drone Mapping Software Implementation Partners](https://risegeouae.ae/category/photogrammetry-and-drone-mapping-software-implementation-partners.html): 1 listings
-- [Survey CAD & Field Software Vendors](https://risegeouae.ae/category/survey-cad-and-field-software-vendors.html): 1 listings
+- [Survey CAD & Field Software Vendors](https://risegeouae.ae/category/survey-cad-and-field-software-vendors.html): 2 listings
 - [Survey CAD & Field Software Distributors & Resellers](https://risegeouae.ae/category/survey-cad-and-field-software-distributors-and-resellers.html): 1 listings
 - [BIM Software Vendors](https://risegeouae.ae/category/bim-software-vendors.html): 7 listings
 - [BIM Software Distributors & Resellers](https://risegeouae.ae/category/bim-software-distributors-and-resellers.html): 2 listings
@@ -146,8 +147,8 @@
 - [Nigeria](https://risegeouae.ae/country/nigeria.html): 62 listings
 - [Kenya](https://risegeouae.ae/country/kenya.html): 48 listings
 - [South Africa](https://risegeouae.ae/country/south-africa.html): 46 listings
+- [Regional (MEA)](https://risegeouae.ae/country/regional-mea.html): 39 listings
 - [Saudi Arabia](https://risegeouae.ae/country/saudi-arabia.html): 39 listings
-- [Regional (MEA)](https://risegeouae.ae/country/regional-mea.html): 38 listings
 - [Morocco](https://risegeouae.ae/country/morocco.html): 26 listings
 - [Guinea](https://risegeouae.ae/country/guinea.html): 25 listings
 - [Egypt](https://risegeouae.ae/country/egypt.html): 22 listings
