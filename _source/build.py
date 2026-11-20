@@ -436,8 +436,8 @@ page("countries.html", f"Geospatial Companies by Country – 70 Middle East & Af
      h + f'<div class="wrap listing">{country_tiles(0)}</div>', 0, [ld], "Directory")
 
 # ------------------------------------------------------------------ brands
-BRAND_SITE = {"GeoTexon": "https://geotexon.com", "Top Tech": "https://www.hexinsurvey.com"}
-OWN_NOTE = {"Top Tech": '<p class="disclose"><b>Unverified.</b> Added from a submission that names Shanghai Hexin Survey Instrument Co., Ltd (Shanghai, China; <a href="https://www.hexinsurvey.com" rel="noopener nofollow" target="_blank">hexinsurvey.com</a>) as the brand owner. That website does not mention Top Tech yet, and no separate Top Tech website was found, so the product lines are still to be confirmed.</p>', "GeoTexon": '<p>Official site: <a href="https://geotexon.com" rel="noopener" target="_blank">geotexon.com</a>. In the UAE, GeoTexon is supplied by <a href="../company/rise-geo-control-systems-trading-llc.html">Rise Geo Control Systems Trading LLC</a>. Models marked “in development” are not yet released.</p>'}
+BRAND_SITE = {"GeoTexon": "https://geotexon.com", "Top Tech": "https://www.toptechgnss.com/"}
+OWN_NOTE = {"Top Tech": '<p>Brand website: <a href="https://www.toptechgnss.com/" rel="noopener" target="_blank">toptechgnss.com</a>. Company: Shanghai Hexin Survey Instrument Co., Ltd, Shanghai, China (<a href="https://www.hexinsurvey.com" rel="noopener" target="_blank">hexinsurvey.com</a>). Model list to be added.</p>', "GeoTexon": '<p>Official site: <a href="https://geotexon.com" rel="noopener" target="_blank">geotexon.com</a>. In the UAE, GeoTexon is supplied by <a href="../company/rise-geo-control-systems-trading-llc.html">Rise Geo Control Systems Trading LLC</a>. Models marked “in development” are not yet released.</p>'}
 for b in BRANDS:
     d = 1; dl = b["dealers"]; byc = defaultdict(list)
     for l in dl: byc[l["country"]].append(l)
