@@ -12,8 +12,8 @@ EMAIL = "info@risegeouae.ae"
 SUBMIT_ENDPOINT = ""
 TODAY = datetime.date.today().isoformat()
 TODAY_H = datetime.date.today().strftime("%-d %b %Y")
-OWNER = "Rise Geo Control Systems Trading LLC"; OWN_BRAND = "GeoTexon"
-DISCLOSURE = ("GeoAtlas MEA is published by Rise Geo Control Systems Trading LLC, a survey equipment supplier, rental and training company in Dubai, United Arab Emirates, and the UAE partner of the GeoTexon brand. Rise Geo and GeoTexon appear first in the lists they belong to.")
+OWNER = "Rise Geo Control Systems Trading LLC"; OWN_BRAND = "GEOTEXON"
+DISCLOSURE = ("GeoAtlas MEA is published by Rise Geo Control Systems Trading LLC, a survey equipment supplier, rental and training company in Dubai, United Arab Emirates, and the UAE partner of the GEOTEXON brand. Rise Geo and GEOTEXON appear first in the lists they belong to.")
 
 here = pathlib.Path(__file__).parent
 out = here.parent
@@ -436,8 +436,8 @@ page("countries.html", f"Geospatial Companies by Country – 70 Middle East & Af
      h + f'<div class="wrap listing">{country_tiles(0)}</div>', 0, [ld], "Directory")
 
 # ------------------------------------------------------------------ brands
-BRAND_SITE = {"GeoTexon": "https://geotexon.com", "Top Tech": "https://www.toptechgnss.com/"}
-OWN_NOTE = {"Top Tech": '<p>Brand website: <a href="https://www.toptechgnss.com/" rel="noopener" target="_blank">toptechgnss.com</a>. Company: Shanghai Hexin Survey Instrument Co., Ltd, Shanghai, China (<a href="https://www.hexinsurvey.com" rel="noopener" target="_blank">hexinsurvey.com</a>). Model list to be added.</p>', "GeoTexon": '<p>Official site: <a href="https://geotexon.com" rel="noopener" target="_blank">geotexon.com</a>. In the UAE, GeoTexon is supplied by <a href="../company/rise-geo-control-systems-trading-llc.html">Rise Geo Control Systems Trading LLC</a>. Models marked “in development” are not yet released.</p>'}
+BRAND_SITE = {"GEOTEXON": "https://geotexon.com", "Top Tech": "https://www.toptechgnss.com/"}
+OWN_NOTE = {"Top Tech": '<p>Brand website: <a href="https://www.toptechgnss.com/" rel="noopener" target="_blank">toptechgnss.com</a>. Company: Shanghai Hexin Survey Instrument Co., Ltd, Shanghai, China (<a href="https://www.hexinsurvey.com" rel="noopener" target="_blank">hexinsurvey.com</a>). Model list to be added.</p>', "GEOTEXON": '<p>Official site: <a href="https://geotexon.com" rel="noopener" target="_blank">geotexon.com</a>. In the UAE, GEOTEXON is supplied by <a href="../company/rise-geo-control-systems-trading-llc.html">Rise Geo Control Systems Trading LLC</a>. Models marked “in development” are not yet released.</p>'}
 for b in BRANDS:
     d = 1; dl = b["dealers"]; byc = defaultdict(list)
     for l in dl: byc[l["country"]].append(l)
@@ -742,7 +742,7 @@ simple("about.html", "About", f"About {SITE}", f"{TAGLINE}, built to put every f
 <h2 id="method">Methodology</h2><p>Listings are compiled from public registers, manufacturer partner and dealer pages, business directories and company submissions. Only business contact details published by the organisation or a public authority are shown. Equipment and software lists are ordered by role: manufacturers and regional offices first, then authorised distributors, then dealers and suppliers. Rankings, when published, will state their data sources, inclusion criteria and scoring.</p>
 <p><span class="src"><i></i>Verified</span> entries were confirmed on a named source page or on the organisation’s live official website. <span class="src check"><i></i>Unverified</span> entries were found in a public source but their details are still to be confirmed; they are listed after verified entries.</p>
 <h2>Main sources</h2><ul>{"".join(f"<li>{e(s)} <span class=meta>({n})</span></li>" for s, n in srcs.most_common(20))}</ul>
-<h2 id="publisher">Publisher</h2><p>{e(DISCLOSURE)} See the <a href="company/rise-geo-control-systems-trading-llc.html">Rise Geo profile</a> and the <a href="brand/geotexon.html">GeoTexon brand page</a>.</p>
+<h2 id="publisher">Publisher</h2><p>{e(DISCLOSURE)} See the <a href="company/rise-geo-control-systems-trading-llc.html">Rise Geo profile</a> and the <a href="brand/geotexon.html">GEOTEXON brand page</a>.</p>
 <h2>Reuse the data</h2><p>See <a href="research.html#data">data downloads</a>. Please credit {SITE} with a link.</p>''', f"How {SITE} collects, labels, orders and updates geospatial listings for the Middle East and Africa.", [ORG])
 simple("editorial-policy.html", "Editorial policy", "Editorial policy", "How we choose topics, check facts, label sponsored content and keep the directory independent.",
        f'''<h2>Independence</h2><p>Listings are free and are never paid for placement or ranking. See <a href="about.html#publisher">who publishes this site</a>. Sponsored content, if any, is labelled “Sponsored” at the top of the page. Rankings and “best of” lists, when published, will not rank the publisher’s own company or brand.</p>
@@ -820,7 +820,7 @@ home = f'''<section class="hero"><div class="wrap">
 <div class="stats"><div><b>{N}</b>listings</div><div><b>{len(real_countries)}</b>countries</div><div><b>{len(LIVE)}</b>categories</div><div><b>{len(BRANDS)}</b>brands</div></div></div>
 <div>{map_svg(0)}</div>
 </div></section>
-<section class="s"><div class="wrap"><h2>Survey equipment, rental and training in Dubai</h2><p class="sub">{e(OWNER)} supplies total stations, GNSS receivers and survey equipment, with rental, training and survey services, and is the UAE partner of GeoTexon instruments.</p><div class="grid">{card(BYNAME[OWNER], 0)}<a class="card" href="brand/geotexon.html" style="text-decoration:none"><h3>GeoTexon</h3><p style="color:var(--ink,inherit)">{e(BR[OWN_BRAND]["product_lines"])}</p><p class="meta">Brand · United Kingdom · supplied in the UAE by Rise Geo</p></a></div></div></section>
+<section class="s"><div class="wrap"><h2>Survey equipment, rental and training in Dubai</h2><p class="sub">{e(OWNER)} supplies total stations, GNSS receivers and survey equipment, with rental, training and survey services, and is the UAE partner of GEOTEXON instruments.</p><div class="grid">{card(BYNAME[OWNER], 0)}<a class="card" href="brand/geotexon.html" style="text-decoration:none"><h3>GEOTEXON</h3><p style="color:var(--ink,inherit)">{e(BR[OWN_BRAND]["product_lines"])}</p><p class="meta">Brand · United Kingdom · supplied in the UAE by Rise Geo</p></a></div></div></section>
 <section class="s"><div class="wrap"><h2>Browse the directory</h2><p class="sub">Four sections, named the way buyers search. Every organisation can appear in several categories.</p>{sec_tiles}
 <h3 style="margin-top:28px">Popular categories</h3><div class="chips">{"".join(catlink(0, c["category"]) for c in popular)}</div></div></section>
 <section class="s alt"><div class="wrap"><h2>Brands and where to buy them</h2><p class="sub">Regional offices first, then authorised distributors, then dealers.</p><div class="chips">{"".join(f'<a class="chip" href="brand/{b["slug"]}.html">{e(b["brand"])}<span class="n">{len(b["dealers"])}</span></a>' for b in topbrands)}<a class="chip" href="brands.html">All {len(BRANDS)} brands</a></div></div></section>

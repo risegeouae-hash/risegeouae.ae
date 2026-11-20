@@ -215,7 +215,7 @@
 - [São Tomé and Príncipe](https://risegeouae.ae/country/s-o-tom-and-pr-ncipe.html): 1 listings
 
 ## Brands
-- [GeoTexon](https://risegeouae.ae/brand/geotexon.html): GNSS receivers and antennas; Field controllers and data collectors; Total stations and robotic total stations (in development); Levels (in development); LiDAR systems (in development); Field software | 1 MEA partners
+- [GEOTEXON](https://risegeouae.ae/brand/geotexon.html): GNSS receivers and antennas; Field controllers and data collectors; Total stations and robotic total stations (in development); Levels (in development); LiDAR systems (in development); Field software | 1 MEA partners
 - [Leica Geosystems](https://risegeouae.ae/brand/leica-geosystems.html): Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Theodolites and levels; Machine control and guidance; Aerial cameras and airborne LiDAR systems; Monitoring sensors (tilt | 30 MEA partners
 - [Esri](https://risegeouae.ae/brand/esri.html): Desktop and enterprise GIS; Web mapping and map APIs; Cloud geospatial platforms; Asset and network management GIS | 29 MEA partners
 - [Trimble](https://risegeouae.ae/brand/trimble.html): Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Mobile and handheld (SLAM) scanners; Machine control and guidance; Rugged field controllers and tablets; Survey CAD and field software | 5 MEA partners
