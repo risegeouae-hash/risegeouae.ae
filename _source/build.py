@@ -99,7 +99,8 @@ MENU = [
  ("Insights", "insights.html", [("News & analysis", "insights.html"), ("Research snapshot", "research/state-of-mea-geospatial-2026.html")]),
  ("Guides", "guides.html", [("How to hire a land surveyor", "guides/how-to-hire-a-land-surveyor.html"), ("Total station vs GNSS", "guides/total-station-vs-gnss.html"), ("Glossary", "glossary.html")]),
  ("Regulations", "regulations.html", [("Country rules & licensing", "regulations.html"), ("BIM Hub", "bim.html"), ("BIM mandates tracker", "bim/mandates.html"), ("ISO 19650 explained", "bim/iso-19650-explained.html")]),
- ("Opportunities", "opportunities.html", [("Events", "opportunities.html#events"), ("Training & courses", "opportunities.html#training"), ("Universities", "category/universities-surveying-gis-and-geomatics.html"), ("Post a job or tender", "opportunities.html#post")]),
+ ("Jobs", "jobs.html", [("All jobs", "jobs.html"), ("Land surveyor jobs", "jobs/land-surveyor-jobs.html"), ("GIS jobs", "jobs/gis-jobs.html"), ("BIM jobs", "jobs/bim-jobs.html"), ("Drone pilot jobs", "jobs/drone-pilot-jobs.html"), ("Internships & graduates", "jobs/internships.html"), ("Post a job, free", "jobs/post-a-job.html")]),
+ ("Opportunities", "opportunities.html", [("Events", "opportunities.html#events"), ("Training & courses", "opportunities.html#training"), ("Universities", "category/universities-surveying-gis-and-geomatics.html"), ("Jobs & internships", "jobs.html"), ("Post a tender", "opportunities.html#post")]),
  ("Research", "research.html", [("State of MEA geospatial 2026", "research/state-of-mea-geospatial-2026.html"), ("Data downloads", "research.html#data"), ("Methodology", "about.html#method")]),
 ]
 SITEMAP = []
@@ -114,7 +115,7 @@ def page(path, title, desc, body, depth, jsonld=(), current="", og_type="website
     fcols = [
         ("Directory", [(s[1], f"section/{s[2]}.html") for s in SECTIONS] + [("Countries", "countries.html"), ("Brands", "brands.html")]),
         ("Learn", [("Guides", "guides.html"), ("Regulations", "regulations.html"), ("BIM Hub", "bim.html"), ("Research", "research.html"), ("Glossary", "glossary.html")]),
-        ("Community", [("List your company", "submit.html"), ("Claim your profile", "claim.html"), ("Write or review for us", "authors.html"), ("Opportunities", "opportunities.html")]),
+        ("Community", [("Jobs & internships", "jobs.html"), ("Post a job", "jobs/post-a-job.html"), ("List your company", "submit.html"), ("Claim your profile", "claim.html"), ("Write or review for us", "authors.html"), ("Opportunities", "opportunities.html")]),
         ("Trust", [("About & methodology", "about.html"), ("Editorial policy", "editorial-policy.html"), ("Corrections", "corrections.html"), ("Advertise & disclosure", "advertise.html"), ("Contact", "contact.html"), ("FAQ", "faq.html")]),
     ]
     foot = "".join(f'<div><h4>{h}</h4><ul>{"".join(f"<li><a href={chr(34)}{rel(depth, p)}{chr(34)}>{e(n)}</a></li>" for n, p in items)}</ul></div>' for h, items in fcols)
@@ -493,6 +494,13 @@ def art_cards(depth, keys):
 COMING = [("Cost guide", "Land survey cost in Dubai and the UAE"), ("BIM Hub", "Dubai Municipality BIM circulars explained"), ("Ranking", "Top survey companies in Dubai, with methodology"),
           ("Case study", "Drone topographic survey for a master-planned community"), ("Country rules", "Drone permits in Saudi Arabia"), ("Buying guide", "GNSS receivers for land surveying")]
 def coming(): return '<ul class="coming">' + "".join(f"<li><small>{e(t)}</small>{e(n)}</li>" for t, n in COMING) + "</ul>"
+SERIES = [("Weekly", "MEA Geospatial Jobs Weekly", "Every new survey, GIS, BIM and drone vacancy posted that week, by country."),
+          ("Monthly", "Internship Watch", "Open internships and graduate programmes, with closing dates."),
+          ("Monthly", "Who's Hiring in the Gulf", "The firms in the directory that are recruiting this month, and for what."),
+          ("Quarterly", "Geospatial Salary Snapshot", "Salary ranges reported by employers and job posts, by role and country, with sources."),
+          ("Each term", "Graduate Programme Calendar", "Application windows for graduate schemes at agencies, consultancies and vendors."),
+          ("Monthly", "Career Spotlight", "A short interview with a surveyor, GIS lead or BIM manager about how they got the job.")]
+def series_html(): return '<div class="topics">' + "".join(f'<div class="topic"><h3>{e(t)}</h3><p><b class="mono" style="font-size:12px">{e(f)}</b> · {e(d)}</p></div>' for f, t, d in SERIES) + "</div>"
 
 # ------------------------------------------------------------------ hubs
 def hubpage(path, name, h1, lede, inner, desc, ldx=(), trail=None):
@@ -510,7 +518,7 @@ hubpage("glossary.html", "Guides", "Geospatial glossary", "Plain-English definit
 
 # Insights
 hubpage("insights.html", "Insights", "Insights", "News briefs, analysis, case studies and interviews from the Middle East and Africa geospatial industry.",
-        f'<h2>Latest</h2>{art_cards(0, ["iso-19650-explained", "how-to-hire-a-land-surveyor"])}<div class="learn-grid" style="margin-top:14px"><a href="research/state-of-mea-geospatial-2026.html"><small>Research</small><b>State of MEA geospatial 2026: the directory in numbers</b><span>Listings by country, section and category, with the open dataset.</span></a></div><h2>Coming in the first weeks</h2>{coming()}<div class="claim" style="margin-top:28px"><b>Have news, a project or a case study?</b> Send it to <a href="mailto:{EMAIL}">{EMAIL}</a>. We credit and link every contributor, and label anything sponsored.</div>',
+        f'<h2>Latest</h2>{art_cards(0, ["iso-19650-explained", "how-to-hire-a-land-surveyor"])}<div class="learn-grid" style="margin-top:14px"><a href="research/state-of-mea-geospatial-2026.html"><small>Research</small><b>State of MEA geospatial 2026: the directory in numbers</b><span>Listings by country, section and category, with the open dataset.</span></a></div><h2>Coming in the first weeks</h2>{coming()}<h2>Regular series</h2>{series_html()}<div class="claim" style="margin-top:28px"><b>Have news, a project or a case study?</b> Send it to <a href="mailto:{EMAIL}">{EMAIL}</a>. We credit and link every contributor, and label anything sponsored.</div>',
         "News, analysis, case studies and interviews on surveying, GIS, drones, BIM and Earth observation in the Middle East and Africa.")
 
 # Regulations hub: data-driven country table
@@ -574,7 +582,7 @@ page("bim/mandates.html", f"BIM Mandates in Dubai, Abu Dhabi and Saudi Arabia (T
 ev = CAT["Conferences & Exhibitions"]["items"]; tr = CAT["Training Centres"]["items"]; un = CAT["Universities (Surveying, GIS & Geomatics)"]["items"]
 hubpage("opportunities.html", "Opportunities", "Opportunities: events, training, jobs and tenders", "Conferences, courses, universities and a free board for geospatial jobs and tenders in the Middle East and Africa.",
         f'<h2 id="events">Events and conferences</h2>{grid(ev, 0)}<h2 id="training">Training and courses</h2>{grid(tr[:9], 0)}<p><a class="btn solid" href="{"category/" + CAT["Training Centres"]["slug"] + ".html"}">All {len(tr)} training providers</a> <a class="btn ghost" href="category/{CAT["Universities (Surveying, GIS & Geomatics)"]["slug"]}.html">{len(un)} universities</a></p>'
-        f'<h2 id="post">Post a job or tender</h2><div class="claim"><b>Hiring surveyors, GIS analysts or BIM managers, or tendering survey work?</b> Send the post to <a href="mailto:{EMAIL}?subject=Job%20or%20tender%20post">{EMAIL}</a>. Jobs and tenders are published free while the board launches, with a link back to your listing.</div>',
+        f'<h2 id="jobs">Jobs and internships</h2><p>Vacancies, internships and graduate programmes have their own section: <a href="jobs.html">Jobs</a>. Employers can <a href="jobs/post-a-job.html">post a job free</a>.</p><h2 id="post">Post a tender</h2><div class="claim"><b>Tendering survey, GIS or BIM work?</b> Send the tender to <a href="mailto:{EMAIL}?subject=Job%20or%20tender%20post">{EMAIL}</a>. Tenders are published free while the board launches, with a link back to your listing.</div>',
         "Geospatial conferences, survey and GIS training, universities, jobs and tenders in the Middle East and Africa.")
 
 # Research
@@ -600,6 +608,121 @@ hubpage("research.html", "Research", "Research and data", "Market reports, ranki
         f'<h2 id="data">Data downloads</h2><p>The full directory is open under CC BY 4.0: please credit {SITE} with a link to {BASE_URL}.</p><ul><li><a href="data/companies.csv">companies.csv</a> ({N} rows)</li><li><a href="data/companies.json">companies.json</a></li><li><a href="data/brands.json">brands.json</a> (brands and where to buy)</li><li><a href="data/categories.json">categories.json</a> (the {len(DCATS)} categories)</li></ul>'
         f'<h2>Rankings</h2><p>Top-N lists by country and category are published with their methodology (data sources, inclusion criteria and scoring) on the <a href="about.html#method">methodology page</a>. The first, Top survey companies in Dubai, is coming soon.</p>',
         f"Original research and the open dataset of {N} geospatial organisations in the Middle East and Africa.", [rep_ld])
+
+# ------------------------------------------------------------------ jobs and internships
+JOBS = [j for j in rd("jobs.csv") if j.get("title")]  # real postings only; empty until employers post
+ROLES = [
+ dict(slug="land-surveyor-jobs", name="Land Surveyor & Survey Engineer Jobs", short="Land surveyor",
+      answer="Land surveyor and survey engineer jobs in the Middle East and Africa usually ask for a diploma or degree in surveying or geomatics, field experience with GNSS and total stations, CAD skills, and for signing cadastral work, registration with the national surveying authority or council.",
+      does="Set out buildings and roads, run topographic, cadastral and as-built surveys, process field data into CAD drawings and survey plans, and check work against the project's coordinate system and tolerances.",
+      skills=["Degree or diploma in surveying, geomatics or civil engineering", "GNSS (RTK) and total station field work", "AutoCAD Civil 3D or similar survey CAD", "Local coordinate systems and datums", "For cadastral work: registration with the national survey authority or council (for example SURCON in Nigeria or SAGC in South Africa)"],
+      employers=["Land Surveyors", "Topographic Surveyors", "Construction Setting-Out & As-Built Surveyors", "Cadastral & Boundary Surveyors"], guide="how-to-hire-a-land-surveyor"),
+ dict(slug="gis-jobs", name="GIS Analyst & GIS Developer Jobs", short="GIS",
+      answer="GIS jobs in the region range from GIS technician and analyst roles in municipalities, utilities and consultancies to GIS developer roles building web maps and enterprise systems. Employers look for ArcGIS or QGIS skills, spatial databases and, increasingly, Python and web development.",
+      does="Capture and edit spatial data, build maps and dashboards, run spatial analysis, manage enterprise geodatabases, and develop web and mobile GIS applications.",
+      skills=["ArcGIS Pro or QGIS", "Spatial databases (PostGIS, SQL Server, Oracle Spatial)", "Python for automation and analysis", "Web mapping (ArcGIS Enterprise, JavaScript map libraries)", "A degree in GIS, geography, geomatics or computer science"],
+      employers=["GIS Consultants", "Custom GIS App Developers", "GIS Software Implementation Partners", "Municipal GIS Departments", "National Mapping & Survey Agencies"]),
+ dict(slug="bim-jobs", name="BIM Modeller, Coordinator & Manager Jobs", short="BIM",
+      answer="BIM jobs in the Gulf follow a ladder from BIM modeller to BIM coordinator to BIM manager. Employers ask for Revit and Navisworks skills, clash detection and coordination experience, and for senior roles a working knowledge of ISO 19650, BIM execution plans and common data environments.",
+      does="Model buildings and infrastructure, coordinate disciplines and resolve clashes, manage the common data environment, write and enforce BIM execution plans, and prepare models for authority submission and handover.",
+      skills=["Autodesk Revit, Navisworks and AutoCAD", "Clash detection and MEP coordination", "ISO 19650, BEP, EIR and CDE workflows (coordinator and manager roles)", "Tekla, Archicad or civil BIM tools for specialist roles", "A degree or diploma in architecture, engineering or construction"],
+      employers=["BIM Consultants", "BIM Modelling & Coordination Services", "Scan-to-BIM Services", "Digital Twin & Smart City Solutions"], guide="iso-19650-explained"),
+ dict(slug="drone-pilot-jobs", name="Drone Pilot & Photogrammetry Jobs", short="Drone",
+      answer="Drone survey jobs combine flying and data processing: a remote pilot licence from the national civil aviation authority, mapping-grade flight planning, ground control with GNSS, and processing in photogrammetry or LiDAR software into orthophotos, surface models and point clouds.",
+      does="Plan and fly mapping and inspection missions, set ground control points, process imagery into orthophotos, DSMs and point clouds, and deliver volumes, contours and inspection reports.",
+      skills=["A remote pilot licence or permit from the national civil aviation authority", "Flight planning for mapping and inspection", "Photogrammetry software such as Pix4D or Agisoft Metashape", "GNSS ground control (RTK/PPK)", "Point cloud and GIS basics"],
+      employers=["Drone Survey & Mapping Companies", "Drone Inspection Services", "LiDAR Survey Companies", "Aerial Survey & Photogrammetry Companies"]),
+ dict(slug="hydrographic-surveyor-jobs", name="Hydrographic Surveyor Jobs", short="Hydrographic",
+      answer="Hydrographic surveyors map the seabed, ports and waterways with single- and multibeam echo sounders and marine positioning. Many employers prefer qualifications from programmes recognised by the international FIG/IHO/ICA standards board (Category A or B), plus offshore safety certificates for vessel work.",
+      does="Run bathymetric, dredging and offshore site surveys, operate echo sounders and positioning systems, process and clean sonar data, and produce charts and volume reports.",
+      skills=["Multibeam and single-beam echo sounder operation", "Marine GNSS and motion sensors", "Processing software for hydrographic data", "Category A or B hydrographic training (preferred)", "Offshore safety and sea survival certificates for vessel work"],
+      employers=["Hydrographic & Bathymetric Surveys", "Hydrographic & Marine Equipment Manufacturers"]),
+ dict(slug="remote-sensing-jobs", name="Remote Sensing & Earth Observation Jobs", short="Remote sensing",
+      answer="Remote sensing jobs in the region sit with space agencies, Earth observation companies and GIS consultancies. They ask for satellite image processing, classification and change detection, often with Python, cloud platforms and increasingly machine learning for feature extraction.",
+      does="Process optical and SAR satellite imagery, classify land cover, detect change, monitor crops, environment and infrastructure, and turn imagery into maps and indicators.",
+      skills=["Optical and SAR image processing", "Classification and change detection", "Python with geospatial libraries", "Cloud EO platforms", "A degree in remote sensing, geomatics, geography or physics"],
+      employers=["Satellite Image Analysis & Remote Sensing Services", "Satellite Imagery Providers", "Space Agencies", "Location Intelligence & GeoAI Companies"]),
+ dict(slug="survey-equipment-sales-jobs", name="Survey Equipment Sales & Technical Support Jobs", short="Equipment sales",
+      answer="Survey equipment distributors and dealers hire sales engineers, product specialists and service technicians. These roles need hands-on knowledge of GNSS, total stations, scanners or drones, the ability to train customers, and for service roles, calibration and repair skills.",
+      does="Demonstrate and sell instruments and software, train customers, provide technical support, and calibrate and repair equipment.",
+      skills=["Field experience with GNSS, total stations, scanners or drones", "Customer training and demonstrations", "Calibration and repair (service roles)", "Knowledge of survey and CAD software", "Sales or account management experience"],
+      employers=["Land Surveying Equipment Distributors", "Land Surveying Equipment Dealers & Suppliers", "Land Surveying Equipment Manufacturers", "Land Surveying Equipment Repair & Calibration"], guide="total-station-vs-gnss"),
+ dict(slug="internships", name="Geospatial Internships & Graduate Programmes", short="Internships",
+      answer="Survey, GIS and BIM internships in the Middle East and Africa are usually offered by consultancies, mapping agencies, municipalities and equipment dealers, often tied to university placement schemes. Apply early in the academic year with a CV, a short portfolio of maps or models, and your university's placement letter.",
+      does="Support field surveys, data capture and digitising, map production, BIM modelling and equipment demonstrations under supervision, usually for two to six months.",
+      skills=["Enrolment in, or recent graduation from, surveying, GIS, geomatics, architecture or engineering", "A portfolio: maps, models or a small project", "Basic ArcGIS/QGIS, AutoCAD or Revit", "A placement letter from your university, where required"],
+      employers=["Universities (Surveying, GIS & Geomatics)", "National Mapping & Survey Agencies", "GIS Consultants", "Land Surveyors", "BIM Consultants"]),
+]
+def job_card(j, depth):
+    return f'''<article class="card job"><div class="top"><h3><a href="{rel(depth, "jobs/" + slug(j["job_id"] + "-" + j["title"]) + ".html")}">{e(j["title"])}</a></h3><span class="role deal">{e(j["employment_type"])}</span></div>
+<div class="loc"><span>{e(j["employer"])} · {e(", ".join(x for x in [j["city"], j["country"]] if x))}</span></div><p class="desc">{e(j["description"][:180])}</p>
+<div class="foot"><span class="host">Posted {e(j["date_posted"])}</span><span class="host">Closes {e(j["valid_through"] or "open")}</span></div></article>'''
+def jobs_for(role): return [j for j in JOBS if j["role"] == role or (role == "internships" and j["employment_type"].upper() == "INTERN")]
+EMPTY_JOBS = lambda depth: f'<div class="claim"><b>No vacancies posted here yet.</b> Employers post free, and every vacancy appears in the weekly jobs roundup. <a class="btn solid" href="{rel(depth, "jobs/post-a-job.html")}">Post a job</a></div>'
+for j in JOBS:
+    d = 1; p = "jobs/" + slug(j["job_id"] + "-" + j["title"]) + ".html"
+    jl = {"@context": "https://schema.org", "@type": "JobPosting", "title": j["title"], "description": j["description"], "datePosted": j["date_posted"], "validThrough": j["valid_through"] or None,
+          "employmentType": j["employment_type"], "hiringOrganization": {"@type": "Organization", "name": j["employer"], **({"sameAs": url("company/" + BYNAME[j["employer"]]["slug"] + ".html")} if j["employer"] in BYNAME else {})},
+          "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "addressLocality": j["city"], "addressCountry": j["country"]}}, "directApply": False}
+    jl = {k: v for k, v in jl.items() if v}
+    h, ld = hero(d, [("Home", "index.html"), ("Jobs", "jobs.html"), (j["title"], "")], e(j["title"]), e(f'{j["employer"]} · {j["city"]}, {j["country"]}'), j["employment_type"])
+    page(p, f'{j["title"]} – {j["employer"]}, {j["city"]} | {SITE} Jobs', j["description"][:158], h + f'<div class="wrap listing prose"><p>{e(j["description"])}</p><p><b>Salary:</b> {e(j["salary"] or "Not stated")} · <b>Closes:</b> {e(j["valid_through"] or "Open")}</p><p><a class="btn solid" href="{e(j["apply_url"])}" rel="noopener nofollow" target="_blank">Apply on the employer\'s site</a></p><p class="note">Source: {e(j["source"])}. {SITE} does not process applications.</p></div>', d, [jl, ld], "Jobs")
+for ro in ROLES:
+    d = 1; cats = [c for c in ro["employers"] if c in CAT and CAT[c]["items"]]
+    emp = []
+    for c in cats:
+        for r in CAT[c]["items"]:
+            if r not in emp and r["website"]: emp.append(r)
+    faq = [(f"What qualifications do {ro['short'].lower()} jobs need?", "; ".join(ro["skills"][:3]) + "."),
+           (f"Who hires for {ro['short'].lower()} roles in the Middle East and Africa?", f"The directory lists {sum(len(CAT[c]['items']) for c in cats)} organisations in the categories that hire for these roles, including " + andjoin([r["name"] for r in emp[:5]]) + "." if emp else "Consultancies, agencies and suppliers listed in the directory."),
+           ("How do I get new vacancies?", f"New vacancies appear on this page and in MEA Geospatial Jobs Weekly. Employers can post free on the Post a job page.")]
+    roles_nav = '<nav class="tabs" aria-label="Job types">' + "".join(f'<a href="{rel(d, "jobs/" + x["slug"] + ".html")}"{" aria-current=page" if x is ro else ""}>{e(x["short"])}</a>' for x in ROLES) + "</nav>"
+    jobs = jobs_for(ro["slug"])
+    learn = ""
+    if ro.get("guide"): learn = f'<h2>Read</h2>{art_cards(d, [ro["guide"]])}'
+    train = [c for c in ["Universities (Surveying, GIS & Geomatics)", "Training Centres", "Technical Colleges & Vocational Institutes", "Vendor Academies & Certification"] if CAT[c]["items"]]
+    h, ld = hero(d, [("Home", "index.html"), ("Jobs", "jobs.html"), (ro["name"], "")], e(ro["name"]) + " in the Middle East &amp; Africa", "", "Jobs")
+    body = h + f'''<div class="wrap listing">{roles_nav}<div class="answer-box"><b>Quick answer</b><p>{e(ro["answer"])}</p></div>
+<h2>Vacancies</h2>{('<div class="grid">' + "".join(job_card(j, d) for j in jobs) + "</div>") if jobs else EMPTY_JOBS(d)}
+<div class="prose"><h2>What the job involves</h2><p>{e(ro["does"])}</p><h2>Skills and qualifications employers ask for</h2><ul>{"".join(f"<li>{e(s)}</li>" for s in ro["skills"])}</ul></div>
+<h2>Who hires</h2><div class="chips" style="margin-bottom:14px">{"".join(catlink(d, c) for c in cats)}</div>{grid(emp[:6], d)}
+<h2>Train for it</h2><div class="chips">{"".join(catlink(d, c) for c in train)}</div>{learn}
+<div class="prose">{faqhtml(faq)}</div>
+<div class="claim"><b>Get new {e(ro["short"].lower())} vacancies every week.</b> Ask to join MEA Geospatial Jobs Weekly at <a href="mailto:{EMAIL}?subject=Jobs%20Weekly">{EMAIL}</a>.</div></div>'''
+    page(f"jobs/{ro['slug']}.html", f"{ro['name']} – Middle East & Africa | {SITE}", ro["answer"][:158], body, d, [ld, faqld(faq)], "Jobs")
+# post a job
+h, ld = hero(1, [("Home", "index.html"), ("Jobs", "jobs.html"), ("Post a job", "")], "Post a job or internship, free", "Reach surveyors, GIS analysts, BIM professionals and graduates across the Middle East and Africa. We check every post with the employer before publishing.")
+jobform = f'''<form class="sub panel" id="sub" novalidate data-endpoint="{e(SUBMIT_ENDPOINT)}" data-email="{e(EMAIL)}" data-mode="job">
+<label class="full">Job title *<input id="f-name" required placeholder="e.g. Land Surveyor, GIS Analyst, BIM Coordinator, GIS Intern"></label>
+<label>Employer *<input id="f-employer" required autocomplete="organization"></label>
+<label>Job type<select id="f-type"><option>Full-time</option><option>Part-time</option><option>Contract</option><option>Internship</option><option>Graduate programme</option></select></label>
+<label>Country *<input id="f-country" required list="countrylist"></label>
+<label>City<input id="f-city"></label>
+<label>Role area<select id="f-role">{"".join(f"<option>{e(x['short'])}</option>" for x in ROLES)}</select></label>
+<label>Closing date<input id="f-closes" type="date"></label>
+<label class="full">How to apply (link or email) *<input id="f-apply" required placeholder="https:// or careers@yourcompany.com"></label>
+<label class="full">Salary range (optional)<input id="f-salary"></label>
+<label class="full">Description (duties, requirements)<textarea id="f-desc" maxlength="2000"></textarea></label>
+<label class="full">Your work email (so we can confirm the post)<input id="f-email" type="email"></label>
+<div class="row" style="grid-column:1/-1"><button class="btn solid" type="submit">Send job post</button><span class="note" id="f-status" role="status"></span></div>
+<div class="out" id="out" hidden><pre id="out-text"></pre><div class="row"><button class="btn solid" type="button" id="copy">Copy</button><a class="btn ghost" id="mail" href="mailto:{EMAIL}">Open email</a></div></div>
+</form><datalist id="countrylist">{"".join(f"<option value='{e(c['country'])}'>" for c in COUNTRIES)}</datalist>'''
+example = '''<div class="example"><span class="ex-tag">Example layout, not a real vacancy</span><h3>GIS Analyst</h3><p class="meta">Example Engineering Consultancy · Dubai, United Arab Emirates · Full-time</p><p>Maintain the enterprise geodatabase, build ArcGIS dashboards for utility clients and support field data capture. Requires a degree in GIS or geomatics and two years of ArcGIS Pro experience.</p><p class="meta">Closes in 30 days · Apply on the employer's site</p></div>'''
+page("jobs/post-a-job.html", f"Post a Survey, GIS or BIM Job for Free | {SITE}", "Post survey, GIS, BIM, drone and hydrographic jobs and internships free to reach professionals across the Middle East and Africa.",
+     h + f'<div class="wrap detail">{jobform}<aside class="prose"><h2 style="margin-top:0">How posting works</h2><ol><li>Send the form, from your company email if you can.</li><li>We confirm the vacancy with you and publish it on the jobs pages, with Google-ready job markup so it can appear in Google job search.</li><li>It goes out in MEA Geospatial Jobs Weekly and is removed after the closing date.</li></ol><h2>How a post will look</h2>{example}</aside></div>', 1, [ld], "Jobs")
+# jobs hub
+h, ld = hero(0, [("Home", "index.html"), ("Jobs", "")], "Geospatial jobs and internships in the Middle East &amp; Africa", "Survey, GIS, BIM, drone, hydrographic and remote sensing vacancies, internships and graduate programmes, with the employers and training behind them.", "Jobs")
+hub_jobs = ('<div class="grid">' + "".join(job_card(j, 0) for j in sorted(JOBS, key=lambda j: j["date_posted"], reverse=True)[:12]) + "</div>") if JOBS else EMPTY_JOBS(0)
+JOBFAQ = [("Where can I find survey and GIS jobs in the Middle East?", f"This page lists survey, GIS, BIM, drone and hydrographic vacancies posted by employers across the Middle East and Africa, and MEA Geospatial Jobs Weekly sends new ones every week. The directory also lists {N} organisations you can approach directly."),
+          ("How do I find a GIS or surveying internship?", "Apply to consultancies, mapping agencies and municipalities early in the academic year with a CV, a small portfolio and your university's placement letter. Internship Watch lists open internships every month."),
+          ("Is posting a job free?", "Yes. Employers post jobs and internships free while the board launches. Every post is checked with the employer before it is published.")]
+page("jobs.html", f"Survey, GIS & BIM Jobs and Internships – Middle East & Africa | {SITE}", "Land surveyor, GIS analyst, BIM, drone pilot and hydrographic jobs, internships and graduate programmes across the Middle East and Africa. Employers post free.",
+     h + f'''<div class="wrap listing hub"><p><a class="btn primary" href="jobs/post-a-job.html">Post a job or internship</a> <a class="btn ghost" href="jobs/internships.html">Internships &amp; graduate programmes</a></p>
+<h2>Latest vacancies</h2>{hub_jobs}
+<h2>Browse by job type</h2><div class="learn-grid">{"".join(f'<a href="jobs/{x["slug"]}.html"><small>Jobs</small><b>{e(x["name"])}</b><span>{e(x["answer"][:120])}…</span></a>' for x in ROLES)}</div>
+<h2>Regular series</h2><p class="sub">Recurring roundups that bring new vacancies and career advice to readers on a fixed schedule.</p>{series_html()}
+<h2>Start your career</h2><div class="chips">{"".join(catlink(0, c) for c in ["Universities (Surveying, GIS & Geomatics)", "Training Centres", "Professional Bodies & Licensing Councils", "Recruitment & Staffing Agencies"] if CAT[c]["items"])}</div>
+<div class="prose">{faqhtml(JOBFAQ)}</div></div>''', 0, [ld, faqld(JOBFAQ)], "Jobs")
 
 # ------------------------------------------------------------------ trust & community pages
 def simple(path, name, h1, lede, inner, desc, ldx=(), current=""):
@@ -722,11 +845,12 @@ with open(out / "data/companies.csv", "w", newline="", encoding="utf-8") as f:
 for old in ("category",):
     for f in (out / old).glob("*.html"):
         if f.stem in OLDCAT: f.unlink()
-(out / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"<url><loc>{u}</loc><lastmod>{TODAY}</lastmod><priority>{'1.0' if p == 'index.html' else '0.8' if '/' not in p or p.startswith(('section/', 'guides/', 'bim/')) else '0.6'}</priority></url>\n" for u, p in SITEMAP) + "</urlset>\n", encoding="utf-8")
+(out / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"<url><loc>{u}</loc><lastmod>{TODAY}</lastmod><priority>{'1.0' if p == 'index.html' else '0.8' if '/' not in p or p.startswith(('section/', 'guides/', 'bim/', 'jobs/')) else '0.6'}</priority></url>\n" for u, p in SITEMAP) + "</urlset>\n", encoding="utf-8")
 (out / "robots.txt").write_text(f"# {SITE}: search engines and AI assistants are welcome to index and cite this directory.\nUser-agent: *\nAllow: /\n\n" + "".join(f"User-agent: {b}\nAllow: /\n\n" for b in ["Googlebot", "Bingbot", "GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "PerplexityBot", "Google-Extended", "Applebot-Extended"]) + f"Sitemap: {BASE_URL}/sitemap.xml\n", encoding="utf-8")
 llms = f"# {SITE}\n\n> {TAGLINE}. {N} survey firms, GIS and BIM consultancies, equipment manufacturers and dealers, software vendors, agencies, universities and professional bodies across {len(real_countries)} countries, in {len(DCATS)} categories and four sections. Free to search; data downloadable as CSV and JSON (CC BY 4.0).\n\n"
 llms += f"## Key pages\n- [Directory search]({url('directory.html')})\n- [Brands and where to buy]({url('brands.html')})\n- [Countries]({url('countries.html')})\n- [FAQ]({url('faq.html')})\n- [About & methodology]({url('about.html')})\n\n## Guides\n" + "".join(f"- [{a['title']}]({url(a['path'])}): {a['answer']}\n" for a in ART.values())
 llms += f"\n## Regulations\n- [Regulations, licensing and standards]({url('regulations.html')}): survey licensing bodies and authorities by country\n- [BIM Hub]({url('bim.html')}): ISO 19650, BEP, LOD, CDE, 4D/5D, FM, scan-to-BIM\n- [BIM mandates tracker]({url('bim/mandates.html')}): Dubai, Abu Dhabi and Saudi BIM requirements with verification status\n"
+llms += f"\n## Jobs\n- [Geospatial jobs and internships]({url('jobs.html')}): survey, GIS, BIM, drone and hydrographic vacancies; employers post free\n" + "".join(f"- [{x['name']}]({url('jobs/' + x['slug'] + '.html')}): {x['answer']}\n" for x in ROLES)
 llms += f"\n## Research\n- [State of MEA geospatial 2026]({url('research/state-of-mea-geospatial-2026.html')}): the directory in numbers\n- [Dataset (CSV)]({url('data/companies.csv')}) · [JSON]({url('data/companies.json')}) · [Brands JSON]({url('data/brands.json')})\n"
 llms += "\n## Sections\n" + "".join(f"- [{s[1]}]({url('section/' + s[2] + '.html')}): {s[3]}\n" for s in SECTIONS)
 llms += "\n## Categories\n" + "".join(f"- [{c['category']}]({url('category/' + c['slug'] + '.html')}): {len(c['items'])} listings\n" for c in LIVE)

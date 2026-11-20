@@ -225,3 +225,8 @@ pre.code{white-space:pre-wrap;word-break:break-all;font-size:12px;background:var
 .hub h2{margin-top:36px}
 footer.site .wrap{grid-template-columns:1.6fr repeat(4,1fr)}
 @media (max-width:960px){footer.site .wrap{grid-template-columns:1fr 1fr}footer.site .about{grid-column:1/-1}}
+
+.example{border:1px dashed var(--marker);border-radius:var(--r);padding:14px 16px;background:var(--surface)}
+.example h3{margin:6px 0 4px}.example p{margin:6px 0}
+.ex-tag{display:inline-block;font-family:var(--f-mono);font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--marker-ink);background:var(--marker);padding:2px 8px;border-radius:999px}
+@media (min-width:861px) and (max-width:1180px){.nav a.l{padding:6px 7px;font-size:13px}}

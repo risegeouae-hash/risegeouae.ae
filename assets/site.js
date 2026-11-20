@@ -28,14 +28,15 @@ const f=$("#sub");
 if(f){
   const pn=new URLSearchParams(location.search).get("n");if(pn&&$("#f-name"))$("#f-name").value=pn;
   f.addEventListener("submit",async ev=>{ev.preventDefault();
-    const v=id=>{const el=$("#f-"+id);return el?el.value.trim():""};
-    if(!v("name")||!v("country")||(f.dataset.mode==="claim"&&!v("person"))){$("#f-status").textContent="Add at least the organisation name, country"+(f.dataset.mode==="claim"?" and your name.":".");return}
-    const entry={type:f.dataset.mode,name:v("name"),person:v("person"),role:v("role"),category:v("cat"),more_categories:v("cats"),country:v("country"),city:v("city"),brands:v("brands"),brand_role:v("role2"),services:v("services"),website:v("web"),phone:v("phone"),email:v("email"),details:v("desc")};
-    Object.keys(entry).forEach(k=>{if(!entry[k])delete entry[k]});
+    const req=$$("#sub [required]").filter(el=>!el.value.trim());
+    if(req.length){$("#f-status").textContent="Fill in the fields marked *.";req[0].focus();return}
+    const entry={type:f.dataset.mode};
+    $$("#sub [id^='f-']").forEach(el=>{const val=el.value.trim();if(val)entry[el.id.slice(2)]=val});
+    if(f.dataset.mode==="job"){entry.job_title=entry.name;delete entry.name}
     if(f.dataset.endpoint){try{const r=await fetch(f.dataset.endpoint,{method:"POST",headers:{"Content-Type":"application/json",Accept:"application/json"},body:JSON.stringify(entry)});if(r.ok){$("#f-status").textContent="Received. We will check the details and reply by email.";f.reset();return}}catch(e){}}
     const text=Object.entries(entry).map(([k,x])=>k+": "+x).join("\n");
     $("#out-text").textContent=text;$("#out").hidden=false;
-    $("#mail").href="mailto:"+f.dataset.email+"?subject="+encodeURIComponent((f.dataset.mode==="claim"?"Claim profile: ":"New listing: ")+entry.name)+"&body="+encodeURIComponent(text);
+    $("#mail").href="mailto:"+f.dataset.email+"?subject="+encodeURIComponent(({claim:"Claim profile: ",job:"Job post: "}[f.dataset.mode]||"New listing: ")+(entry.name||entry.job_title))+"&body="+encodeURIComponent(text);
     $("#f-status").textContent="Ready. Open the email (or copy the text) and send it to "+f.dataset.email+".";
   });
   $("#copy").addEventListener("click",()=>{const t=$("#out-text").textContent;navigator.clipboard.writeText(t).then(()=>{$("#copy").textContent="Copied"},()=>{const r=document.createRange();r.selectNodeContents($("#out-text"));const s=getSelection();s.removeAllRanges();s.addRange(r)})});
