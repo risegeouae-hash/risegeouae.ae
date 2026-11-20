@@ -1,6 +1,6 @@
 # GeoAtlas MEA
 
-> The geospatial industry directory for the Middle East and Africa. 483 survey firms, GIS and BIM consultancies, equipment manufacturers and dealers, software vendors, agencies, universities and professional bodies across 49 countries, in 146 categories and four sections. Free to search; data downloadable as CSV and JSON (CC BY 4.0).
+> The geospatial industry directory for the Middle East and Africa. 737 survey firms, GIS and BIM consultancies, equipment manufacturers and dealers, software vendors, agencies, universities and professional bodies across 70 countries, in 146 categories and four sections. Free to search; data downloadable as CSV and JSON (CC BY 4.0).
 
 ## Key pages
 - [Directory search](https://risegeouae.ae/directory.html)
@@ -42,179 +42,205 @@
 - [Institutions & Community](https://risegeouae.ae/section/institutions-community.html): Agencies, registries, universities, training, professional bodies, events and NGOs.
 
 ## Categories
-- [Land Surveyors](https://risegeouae.ae/category/land-surveyors.html): 86 listings
-- [Cadastral & Boundary Surveyors](https://risegeouae.ae/category/cadastral-and-boundary-surveyors.html): 17 listings
-- [Real Estate & Building Surveyors](https://risegeouae.ae/category/real-estate-and-building-surveyors.html): 14 listings
-- [Topographic Surveyors](https://risegeouae.ae/category/topographic-surveyors.html): 60 listings
-- [Construction Setting-Out & As-Built Surveyors](https://risegeouae.ae/category/construction-setting-out-and-as-built-surveyors.html): 21 listings
+- [Land Surveyors](https://risegeouae.ae/category/land-surveyors.html): 131 listings
+- [Cadastral & Boundary Surveyors](https://risegeouae.ae/category/cadastral-and-boundary-surveyors.html): 18 listings
+- [Real Estate & Building Surveyors](https://risegeouae.ae/category/real-estate-and-building-surveyors.html): 16 listings
+- [Topographic Surveyors](https://risegeouae.ae/category/topographic-surveyors.html): 71 listings
+- [Construction Setting-Out & As-Built Surveyors](https://risegeouae.ae/category/construction-setting-out-and-as-built-surveyors.html): 22 listings
 - [Mining Surveyors](https://risegeouae.ae/category/mining-surveyors.html): 6 listings
-- [Geodetic & GNSS Survey Services](https://risegeouae.ae/category/geodetic-and-gnss-survey-services.html): 9 listings
-- [Monitoring & Deformation Surveys](https://risegeouae.ae/category/monitoring-and-deformation-surveys.html): 3 listings
-- [Utility Detection & GPR Surveys](https://risegeouae.ae/category/utility-detection-and-gpr-surveys.html): 4 listings
-- [Geophysical & Geotechnical Surveys](https://risegeouae.ae/category/geophysical-and-geotechnical-surveys.html): 2 listings
-- [Hydrographic & Bathymetric Surveys](https://risegeouae.ae/category/hydrographic-and-bathymetric-surveys.html): 16 listings
-- [Drone Survey & Mapping Companies](https://risegeouae.ae/category/drone-survey-and-mapping-companies.html): 41 listings
-- [Drone Inspection Services](https://risegeouae.ae/category/drone-inspection-services.html): 4 listings
-- [Aerial Survey & Photogrammetry Companies](https://risegeouae.ae/category/aerial-survey-and-photogrammetry-companies.html): 5 listings
-- [LiDAR Survey Companies](https://risegeouae.ae/category/lidar-survey-companies.html): 7 listings
-- [3D Laser Scanning Services](https://risegeouae.ae/category/3d-laser-scanning-services.html): 13 listings
+- [Geodetic & GNSS Survey Services](https://risegeouae.ae/category/geodetic-and-gnss-survey-services.html): 11 listings
+- [Monitoring & Deformation Surveys](https://risegeouae.ae/category/monitoring-and-deformation-surveys.html): 6 listings
+- [Utility Detection & GPR Surveys](https://risegeouae.ae/category/utility-detection-and-gpr-surveys.html): 6 listings
+- [Geophysical & Geotechnical Surveys](https://risegeouae.ae/category/geophysical-and-geotechnical-surveys.html): 9 listings
+- [Hydrographic & Bathymetric Surveys](https://risegeouae.ae/category/hydrographic-and-bathymetric-surveys.html): 32 listings
+- [Drone Survey & Mapping Companies](https://risegeouae.ae/category/drone-survey-and-mapping-companies.html): 47 listings
+- [Drone Inspection Services](https://risegeouae.ae/category/drone-inspection-services.html): 5 listings
+- [Aerial Survey & Photogrammetry Companies](https://risegeouae.ae/category/aerial-survey-and-photogrammetry-companies.html): 10 listings
+- [LiDAR Survey Companies](https://risegeouae.ae/category/lidar-survey-companies.html): 8 listings
+- [3D Laser Scanning Services](https://risegeouae.ae/category/3d-laser-scanning-services.html): 16 listings
 - [Mobile Mapping Services](https://risegeouae.ae/category/mobile-mapping-services.html): 2 listings
 - [360 Imaging & Virtual Tours](https://risegeouae.ae/category/360-imaging-and-virtual-tours.html): 1 listings
-- [GIS Consultants](https://risegeouae.ae/category/gis-consultants.html): 82 listings
-- [GIS Data Capture & Digitisation](https://risegeouae.ae/category/gis-data-capture-and-digitisation.html): 13 listings
-- [Mapping & Cartography Services](https://risegeouae.ae/category/mapping-and-cartography-services.html): 34 listings
-- [Custom GIS App Developers](https://risegeouae.ae/category/custom-gis-app-developers.html): 17 listings
+- [GIS Consultants](https://risegeouae.ae/category/gis-consultants.html): 99 listings
+- [GIS Data Capture & Digitisation](https://risegeouae.ae/category/gis-data-capture-and-digitisation.html): 15 listings
+- [Mapping & Cartography Services](https://risegeouae.ae/category/mapping-and-cartography-services.html): 43 listings
+- [Custom GIS App Developers](https://risegeouae.ae/category/custom-gis-app-developers.html): 19 listings
 - [Geospatial IT, Cloud & System Integrators](https://risegeouae.ae/category/geospatial-it-cloud-and-system-integrators.html): 6 listings
-- [Satellite Image Analysis & Remote Sensing Services](https://risegeouae.ae/category/satellite-image-analysis-and-remote-sensing-services.html): 23 listings
-- [Location Intelligence & GeoAI Companies](https://risegeouae.ae/category/location-intelligence-and-geoai-companies.html): 7 listings
+- [Satellite Image Analysis & Remote Sensing Services](https://risegeouae.ae/category/satellite-image-analysis-and-remote-sensing-services.html): 34 listings
+- [Location Intelligence & GeoAI Companies](https://risegeouae.ae/category/location-intelligence-and-geoai-companies.html): 8 listings
 - [BIM Consultants](https://risegeouae.ae/category/bim-consultants.html): 12 listings
-- [BIM Modelling & Coordination Services](https://risegeouae.ae/category/bim-modelling-and-coordination-services.html): 21 listings
+- [BIM Modelling & Coordination Services](https://risegeouae.ae/category/bim-modelling-and-coordination-services.html): 22 listings
 - [Scan-to-BIM Services](https://risegeouae.ae/category/scan-to-bim-services.html): 4 listings
 - [Digital Twin & Smart City Solutions](https://risegeouae.ae/category/digital-twin-and-smart-city-solutions.html): 19 listings
-- [Land Surveying Equipment Manufacturers](https://risegeouae.ae/category/land-surveying-equipment-manufacturers.html): 25 listings
+- [Land Surveying Equipment Manufacturers](https://risegeouae.ae/category/land-surveying-equipment-manufacturers.html): 27 listings
 - [Land Surveying Equipment Distributors](https://risegeouae.ae/category/land-surveying-equipment-distributors.html): 8 listings
-- [Land Surveying Equipment Dealers & Suppliers](https://risegeouae.ae/category/land-surveying-equipment-dealers-and-suppliers.html): 36 listings
+- [Land Surveying Equipment Dealers & Suppliers](https://risegeouae.ae/category/land-surveying-equipment-dealers-and-suppliers.html): 47 listings
 - [Land Surveying Equipment Rental](https://risegeouae.ae/category/land-surveying-equipment-rental.html): 5 listings
-- [Land Surveying Equipment Repair & Calibration](https://risegeouae.ae/category/land-surveying-equipment-repair-and-calibration.html): 6 listings
-- [GNSS Receiver Manufacturers](https://risegeouae.ae/category/gnss-receiver-manufacturers.html): 15 listings
+- [Land Surveying Equipment Repair & Calibration](https://risegeouae.ae/category/land-surveying-equipment-repair-and-calibration.html): 10 listings
+- [GNSS Receiver Manufacturers](https://risegeouae.ae/category/gnss-receiver-manufacturers.html): 16 listings
 - [GNSS Receiver Distributors](https://risegeouae.ae/category/gnss-receiver-distributors.html): 5 listings
-- [GNSS Receiver Dealers & Suppliers](https://risegeouae.ae/category/gnss-receiver-dealers-and-suppliers.html): 27 listings
+- [GNSS Receiver Dealers & Suppliers](https://risegeouae.ae/category/gnss-receiver-dealers-and-suppliers.html): 30 listings
 - [GNSS Receiver Rental](https://risegeouae.ae/category/gnss-receiver-rental.html): 3 listings
 - [GNSS Receiver Repair & Calibration](https://risegeouae.ae/category/gnss-receiver-repair-and-calibration.html): 4 listings
-- [Total Station Manufacturers](https://risegeouae.ae/category/total-station-manufacturers.html): 11 listings
+- [Total Station Manufacturers](https://risegeouae.ae/category/total-station-manufacturers.html): 12 listings
 - [Total Station Distributors](https://risegeouae.ae/category/total-station-distributors.html): 4 listings
-- [Total Station Dealers & Suppliers](https://risegeouae.ae/category/total-station-dealers-and-suppliers.html): 26 listings
+- [Total Station Dealers & Suppliers](https://risegeouae.ae/category/total-station-dealers-and-suppliers.html): 28 listings
 - [Total Station Rental](https://risegeouae.ae/category/total-station-rental.html): 3 listings
 - [Total Station Repair & Calibration](https://risegeouae.ae/category/total-station-repair-and-calibration.html): 3 listings
 - [Level & Construction Laser Manufacturers](https://risegeouae.ae/category/level-and-construction-laser-manufacturers.html): 2 listings
-- [3D Laser Scanner Manufacturers](https://risegeouae.ae/category/3d-laser-scanner-manufacturers.html): 12 listings
+- [3D Laser Scanner Manufacturers](https://risegeouae.ae/category/3d-laser-scanner-manufacturers.html): 13 listings
 - [3D Laser Scanner Distributors](https://risegeouae.ae/category/3d-laser-scanner-distributors.html): 1 listings
-- [3D Laser Scanner Dealers & Suppliers](https://risegeouae.ae/category/3d-laser-scanner-dealers-and-suppliers.html): 25 listings
+- [3D Laser Scanner Dealers & Suppliers](https://risegeouae.ae/category/3d-laser-scanner-dealers-and-suppliers.html): 26 listings
 - [Mobile Mapping System Manufacturers](https://risegeouae.ae/category/mobile-mapping-system-manufacturers.html): 3 listings
-- [Survey Drone Manufacturers](https://risegeouae.ae/category/survey-drone-manufacturers.html): 3 listings
+- [Survey Drone Manufacturers](https://risegeouae.ae/category/survey-drone-manufacturers.html): 4 listings
 - [Survey Drone Dealers & Suppliers](https://risegeouae.ae/category/survey-drone-dealers-and-suppliers.html): 2 listings
 - [Survey Drone Repair & Calibration](https://risegeouae.ae/category/survey-drone-repair-and-calibration.html): 1 listings
-- [Drone Sensor & LiDAR Payload Manufacturers](https://risegeouae.ae/category/drone-sensor-and-lidar-payload-manufacturers.html): 3 listings
+- [Drone Sensor & LiDAR Payload Manufacturers](https://risegeouae.ae/category/drone-sensor-and-lidar-payload-manufacturers.html): 4 listings
 - [Drone Sensor & LiDAR Payload Dealers & Suppliers](https://risegeouae.ae/category/drone-sensor-and-lidar-payload-dealers-and-suppliers.html): 1 listings
 - [Machine Control Manufacturers](https://risegeouae.ae/category/machine-control-manufacturers.html): 5 listings
 - [Machine Control Dealers & Suppliers](https://risegeouae.ae/category/machine-control-dealers-and-suppliers.html): 3 listings
 - [GPR & Utility Locator Manufacturers](https://risegeouae.ae/category/gpr-and-utility-locator-manufacturers.html): 2 listings
+- [GPR & Utility Locator Distributors](https://risegeouae.ae/category/gpr-and-utility-locator-distributors.html): 6 listings
 - [Hydrographic & Marine Equipment Manufacturers](https://risegeouae.ae/category/hydrographic-and-marine-equipment-manufacturers.html): 4 listings
 - [Monitoring Sensor Manufacturers](https://risegeouae.ae/category/monitoring-sensor-manufacturers.html): 1 listings
+- [Monitoring Sensor Distributors](https://risegeouae.ae/category/monitoring-sensor-distributors.html): 8 listings
 - [Survey Accessory & Field Controller Distributors](https://risegeouae.ae/category/survey-accessory-and-field-controller-distributors.html): 2 listings
 - [Survey Accessory & Field Controller Dealers & Suppliers](https://risegeouae.ae/category/survey-accessory-and-field-controller-dealers-and-suppliers.html): 1 listings
 - [GIS Software Vendors](https://risegeouae.ae/category/gis-software-vendors.html): 5 listings
-- [GIS Software Distributors & Resellers](https://risegeouae.ae/category/gis-software-distributors-and-resellers.html): 9 listings
-- [GIS Software Implementation Partners](https://risegeouae.ae/category/gis-software-implementation-partners.html): 28 listings
-- [Photogrammetry & Drone Mapping Software Vendors](https://risegeouae.ae/category/photogrammetry-and-drone-mapping-software-vendors.html): 2 listings
+- [GIS Software Distributors & Resellers](https://risegeouae.ae/category/gis-software-distributors-and-resellers.html): 10 listings
+- [GIS Software Implementation Partners](https://risegeouae.ae/category/gis-software-implementation-partners.html): 35 listings
+- [Photogrammetry & Drone Mapping Software Vendors](https://risegeouae.ae/category/photogrammetry-and-drone-mapping-software-vendors.html): 3 listings
 - [Photogrammetry & Drone Mapping Software Implementation Partners](https://risegeouae.ae/category/photogrammetry-and-drone-mapping-software-implementation-partners.html): 1 listings
 - [Survey CAD & Field Software Vendors](https://risegeouae.ae/category/survey-cad-and-field-software-vendors.html): 1 listings
 - [Survey CAD & Field Software Distributors & Resellers](https://risegeouae.ae/category/survey-cad-and-field-software-distributors-and-resellers.html): 1 listings
 - [BIM Software Vendors](https://risegeouae.ae/category/bim-software-vendors.html): 7 listings
 - [BIM Software Distributors & Resellers](https://risegeouae.ae/category/bim-software-distributors-and-resellers.html): 2 listings
 - [BIM Software Implementation Partners](https://risegeouae.ae/category/bim-software-implementation-partners.html): 3 listings
-- [Remote Sensing Software Vendors](https://risegeouae.ae/category/remote-sensing-software-vendors.html): 1 listings
+- [Remote Sensing Software Vendors](https://risegeouae.ae/category/remote-sensing-software-vendors.html): 2 listings
+- [Web Mapping & Map API Vendors](https://risegeouae.ae/category/web-mapping-and-map-api-vendors.html): 2 listings
 - [Digital Twin Platform Vendors](https://risegeouae.ae/category/digital-twin-platform-vendors.html): 1 listings
 - [Satellite Imagery Providers](https://risegeouae.ae/category/satellite-imagery-providers.html): 8 listings
-- [Satellite Imagery Resellers](https://risegeouae.ae/category/satellite-imagery-resellers.html): 1 listings
-- [Aerial Imagery & Archive Providers](https://risegeouae.ae/category/aerial-imagery-and-archive-providers.html): 1 listings
-- [Map, Street & Address Data Providers](https://risegeouae.ae/category/map-street-and-address-data-providers.html): 4 listings
-- [Elevation & 3D City Model Providers](https://risegeouae.ae/category/elevation-and-3d-city-model-providers.html): 1 listings
-- [National Mapping & Survey Agencies](https://risegeouae.ae/category/national-mapping-and-survey-agencies.html): 42 listings
-- [Land Registries & Cadastre Authorities](https://risegeouae.ae/category/land-registries-and-cadastre-authorities.html): 12 listings
-- [Municipal GIS Departments](https://risegeouae.ae/category/municipal-gis-departments.html): 7 listings
-- [Space Agencies](https://risegeouae.ae/category/space-agencies.html): 10 listings
-- [Geological Surveys](https://risegeouae.ae/category/geological-surveys.html): 2 listings
-- [Statistics & Census Bureaus](https://risegeouae.ae/category/statistics-and-census-bureaus.html): 1 listings
-- [Regional & International Bodies](https://risegeouae.ae/category/regional-and-international-bodies.html): 3 listings
-- [Research Institutes](https://risegeouae.ae/category/research-institutes.html): 4 listings
-- [Universities (Surveying, GIS & Geomatics)](https://risegeouae.ae/category/universities-surveying-gis-and-geomatics.html): 48 listings
+- [Satellite Imagery Resellers](https://risegeouae.ae/category/satellite-imagery-resellers.html): 2 listings
+- [Aerial Imagery & Archive Providers](https://risegeouae.ae/category/aerial-imagery-and-archive-providers.html): 3 listings
+- [Map, Street & Address Data Providers](https://risegeouae.ae/category/map-street-and-address-data-providers.html): 6 listings
+- [Elevation & 3D City Model Providers](https://risegeouae.ae/category/elevation-and-3d-city-model-providers.html): 3 listings
+- [National Mapping & Survey Agencies](https://risegeouae.ae/category/national-mapping-and-survey-agencies.html): 98 listings
+- [Land Registries & Cadastre Authorities](https://risegeouae.ae/category/land-registries-and-cadastre-authorities.html): 28 listings
+- [Municipal GIS Departments](https://risegeouae.ae/category/municipal-gis-departments.html): 8 listings
+- [Space Agencies](https://risegeouae.ae/category/space-agencies.html): 26 listings
+- [Geological Surveys](https://risegeouae.ae/category/geological-surveys.html): 7 listings
+- [Statistics & Census Bureaus](https://risegeouae.ae/category/statistics-and-census-bureaus.html): 3 listings
+- [Regional & International Bodies](https://risegeouae.ae/category/regional-and-international-bodies.html): 13 listings
+- [Research Institutes](https://risegeouae.ae/category/research-institutes.html): 17 listings
+- [Universities (Surveying, GIS & Geomatics)](https://risegeouae.ae/category/universities-surveying-gis-and-geomatics.html): 65 listings
 - [Technical Colleges & Vocational Institutes](https://risegeouae.ae/category/technical-colleges-and-vocational-institutes.html): 3 listings
-- [Training Centres](https://risegeouae.ae/category/training-centres.html): 32 listings
+- [Training Centres](https://risegeouae.ae/category/training-centres.html): 40 listings
 - [Vendor Academies & Certification](https://risegeouae.ae/category/vendor-academies-and-certification.html): 2 listings
-- [Professional Bodies & Licensing Councils](https://risegeouae.ae/category/professional-bodies-and-licensing-councils.html): 11 listings
-- [Industry Associations](https://risegeouae.ae/category/industry-associations.html): 4 listings
+- [Professional Bodies & Licensing Councils](https://risegeouae.ae/category/professional-bodies-and-licensing-councils.html): 34 listings
+- [Industry Associations](https://risegeouae.ae/category/industry-associations.html): 5 listings
 - [Recruitment & Staffing Agencies](https://risegeouae.ae/category/recruitment-and-staffing-agencies.html): 1 listings
-- [Conferences & Exhibitions](https://risegeouae.ae/category/conferences-and-exhibitions.html): 5 listings
+- [Conferences & Exhibitions](https://risegeouae.ae/category/conferences-and-exhibitions.html): 8 listings
 - [NGOs & Humanitarian Mapping](https://risegeouae.ae/category/ngos-and-humanitarian-mapping.html): 2 listings
 
 ## Countries
-- [United Arab Emirates](https://risegeouae.ae/country/united-arab-emirates.html): 78 listings
-- [Nigeria](https://risegeouae.ae/country/nigeria.html): 53 listings
-- [Kenya](https://risegeouae.ae/country/kenya.html): 46 listings
-- [South Africa](https://risegeouae.ae/country/south-africa.html): 37 listings
-- [Regional (MEA)](https://risegeouae.ae/country/regional-mea.html): 33 listings
-- [Saudi Arabia](https://risegeouae.ae/country/saudi-arabia.html): 31 listings
+- [United Arab Emirates](https://risegeouae.ae/country/united-arab-emirates.html): 107 listings
+- [Nigeria](https://risegeouae.ae/country/nigeria.html): 62 listings
+- [Kenya](https://risegeouae.ae/country/kenya.html): 48 listings
+- [South Africa](https://risegeouae.ae/country/south-africa.html): 46 listings
+- [Saudi Arabia](https://risegeouae.ae/country/saudi-arabia.html): 39 listings
+- [Regional (MEA)](https://risegeouae.ae/country/regional-mea.html): 38 listings
+- [Morocco](https://risegeouae.ae/country/morocco.html): 26 listings
 - [Guinea](https://risegeouae.ae/country/guinea.html): 25 listings
-- [Benin](https://risegeouae.ae/country/benin.html): 18 listings
-- [Morocco](https://risegeouae.ae/country/morocco.html): 17 listings
-- [Egypt](https://risegeouae.ae/country/egypt.html): 14 listings
-- [Uganda](https://risegeouae.ae/country/uganda.html): 11 listings
-- [Ghana](https://risegeouae.ae/country/ghana.html): 10 listings
-- [Bahrain](https://risegeouae.ae/country/bahrain.html): 8 listings
-- [Rwanda](https://risegeouae.ae/country/rwanda.html): 7 listings
-- [Qatar](https://risegeouae.ae/country/qatar.html): 6 listings
+- [Egypt](https://risegeouae.ae/country/egypt.html): 22 listings
+- [Israel](https://risegeouae.ae/country/israel.html): 21 listings
+- [Ghana](https://risegeouae.ae/country/ghana.html): 21 listings
+- [Benin](https://risegeouae.ae/country/benin.html): 19 listings
+- [Qatar](https://risegeouae.ae/country/qatar.html): 14 listings
+- [Turkey](https://risegeouae.ae/country/turkey.html): 14 listings
+- [Uganda](https://risegeouae.ae/country/uganda.html): 13 listings
+- [Lebanon](https://risegeouae.ae/country/lebanon.html): 11 listings
+- [Bahrain](https://risegeouae.ae/country/bahrain.html): 9 listings
+- [Senegal](https://risegeouae.ae/country/senegal.html): 9 listings
+- [Rwanda](https://risegeouae.ae/country/rwanda.html): 8 listings
+- [Iraq](https://risegeouae.ae/country/iraq.html): 8 listings
+- [Iran](https://risegeouae.ae/country/iran.html): 8 listings
+- [Cyprus](https://risegeouae.ae/country/cyprus.html): 8 listings
+- [Côte d'Ivoire](https://risegeouae.ae/country/c-te-d-ivoire.html): 7 listings
+- [Ethiopia](https://risegeouae.ae/country/ethiopia.html): 7 listings
+- [Botswana](https://risegeouae.ae/country/botswana.html): 6 listings
+- [Cameroon](https://risegeouae.ae/country/cameroon.html): 6 listings
+- [Tanzania](https://risegeouae.ae/country/tanzania.html): 6 listings
+- [Zimbabwe](https://risegeouae.ae/country/zimbabwe.html): 6 listings
 - [Kuwait](https://risegeouae.ae/country/kuwait.html): 6 listings
-- [Lebanon](https://risegeouae.ae/country/lebanon.html): 5 listings
+- [Democratic Republic of the Congo](https://risegeouae.ae/country/democratic-republic-of-the-congo.html): 5 listings
+- [Zambia](https://risegeouae.ae/country/zambia.html): 5 listings
 - [Madagascar](https://risegeouae.ae/country/madagascar.html): 5 listings
 - [Oman](https://risegeouae.ae/country/oman.html): 5 listings
-- [Ethiopia](https://risegeouae.ae/country/ethiopia.html): 4 listings
-- [Senegal](https://risegeouae.ae/country/senegal.html): 4 listings
-- [Tanzania](https://risegeouae.ae/country/tanzania.html): 4 listings
-- [Cyprus](https://risegeouae.ae/country/cyprus.html): 4 listings
-- [Turkey](https://risegeouae.ae/country/turkey.html): 4 listings
-- [Botswana](https://risegeouae.ae/country/botswana.html): 3 listings
-- [Côte d'Ivoire](https://risegeouae.ae/country/c-te-d-ivoire.html): 3 listings
+- [Somalia](https://risegeouae.ae/country/somalia.html): 5 listings
+- [Tunisia](https://risegeouae.ae/country/tunisia.html): 5 listings
+- [Angola](https://risegeouae.ae/country/angola.html): 4 listings
+- [Burkina Faso](https://risegeouae.ae/country/burkina-faso.html): 4 listings
+- [Jordan](https://risegeouae.ae/country/jordan.html): 4 listings
+- [Sierra Leone](https://risegeouae.ae/country/sierra-leone.html): 4 listings
+- [Namibia](https://risegeouae.ae/country/namibia.html): 4 listings
+- [Algeria](https://risegeouae.ae/country/algeria.html): 4 listings
+- [Gabon](https://risegeouae.ae/country/gabon.html): 3 listings
 - [Mozambique](https://risegeouae.ae/country/mozambique.html): 3 listings
-- [Zambia](https://risegeouae.ae/country/zambia.html): 3 listings
-- [Zimbabwe](https://risegeouae.ae/country/zimbabwe.html): 3 listings
-- [Jordan](https://risegeouae.ae/country/jordan.html): 3 listings
-- [Algeria](https://risegeouae.ae/country/algeria.html): 3 listings
-- [Iran](https://risegeouae.ae/country/iran.html): 3 listings
-- [Tunisia](https://risegeouae.ae/country/tunisia.html): 3 listings
-- [Cameroon](https://risegeouae.ae/country/cameroon.html): 2 listings
-- [Sierra Leone](https://risegeouae.ae/country/sierra-leone.html): 2 listings
-- [Iraq](https://risegeouae.ae/country/iraq.html): 2 listings
-- [Namibia](https://risegeouae.ae/country/namibia.html): 2 listings
-- [Angola](https://risegeouae.ae/country/angola.html): 1 listings
-- [Burkina Faso](https://risegeouae.ae/country/burkina-faso.html): 1 listings
-- [Democratic Republic of the Congo](https://risegeouae.ae/country/democratic-republic-of-the-congo.html): 1 listings
-- [Gabon](https://risegeouae.ae/country/gabon.html): 1 listings
-- [Mauritania](https://risegeouae.ae/country/mauritania.html): 1 listings
-- [Togo](https://risegeouae.ae/country/togo.html): 1 listings
-- [Libya](https://risegeouae.ae/country/libya.html): 1 listings
-- [Sudan](https://risegeouae.ae/country/sudan.html): 1 listings
-- [Mali](https://risegeouae.ae/country/mali.html): 1 listings
-- [Liberia](https://risegeouae.ae/country/liberia.html): 1 listings
-- [Palestine](https://risegeouae.ae/country/palestine.html): 1 listings
-- [Eswatini](https://risegeouae.ae/country/eswatini.html): 1 listings
-- [Malawi](https://risegeouae.ae/country/malawi.html): 1 listings
+- [Libya](https://risegeouae.ae/country/libya.html): 3 listings
+- [Mali](https://risegeouae.ae/country/mali.html): 3 listings
+- [Yemen](https://risegeouae.ae/country/yemen.html): 3 listings
+- [Palestine](https://risegeouae.ae/country/palestine.html): 3 listings
+- [Eritrea](https://risegeouae.ae/country/eritrea.html): 3 listings
+- [Lesotho](https://risegeouae.ae/country/lesotho.html): 3 listings
+- [Malawi](https://risegeouae.ae/country/malawi.html): 3 listings
+- [Syria](https://risegeouae.ae/country/syria.html): 3 listings
+- [South Sudan](https://risegeouae.ae/country/south-sudan.html): 2 listings
+- [Mauritania](https://risegeouae.ae/country/mauritania.html): 2 listings
+- [Togo](https://risegeouae.ae/country/togo.html): 2 listings
+- [Sudan](https://risegeouae.ae/country/sudan.html): 2 listings
+- [Liberia](https://risegeouae.ae/country/liberia.html): 2 listings
+- [Djibouti](https://risegeouae.ae/country/djibouti.html): 2 listings
+- [Eswatini](https://risegeouae.ae/country/eswatini.html): 2 listings
+- [Gambia](https://risegeouae.ae/country/gambia.html): 2 listings
+- [Mauritius](https://risegeouae.ae/country/mauritius.html): 2 listings
+- [Niger](https://risegeouae.ae/country/niger.html): 2 listings
+- [Seychelles](https://risegeouae.ae/country/seychelles.html): 2 listings
+- [Central African Republic](https://risegeouae.ae/country/central-african-republic.html): 2 listings
+- [Guinea-Bissau](https://risegeouae.ae/country/guinea-bissau.html): 2 listings
+- [Chad](https://risegeouae.ae/country/chad.html): 1 listings
+- [Comoros](https://risegeouae.ae/country/comoros.html): 1 listings
+- [Burundi](https://risegeouae.ae/country/burundi.html): 1 listings
+- [Cabo Verde](https://risegeouae.ae/country/cabo-verde.html): 1 listings
+- [Congo](https://risegeouae.ae/country/congo.html): 1 listings
+- [Equatorial Guinea](https://risegeouae.ae/country/equatorial-guinea.html): 1 listings
+- [São Tomé and Príncipe](https://risegeouae.ae/country/s-o-tom-and-pr-ncipe.html): 1 listings
 
 ## Brands
+- [GeoTexon](https://risegeouae.ae/brand/geotexon.html): GNSS receivers and antennas; Field controllers and data collectors; Total stations and robotic total stations (in development); Levels (in development); LiDAR systems (in development); Field software | 1 MEA partners
 - [Leica Geosystems](https://risegeouae.ae/brand/leica-geosystems.html): Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Theodolites and levels; Machine control and guidance; Aerial cameras and airborne LiDAR systems; Monitoring sensors (tilt | 30 MEA partners
-- [Esri](https://risegeouae.ae/brand/esri.html): Desktop and enterprise GIS; Web mapping and map APIs; Cloud geospatial platforms; Asset and network management GIS | 28 MEA partners
+- [Esri](https://risegeouae.ae/brand/esri.html): Desktop and enterprise GIS; Web mapping and map APIs; Cloud geospatial platforms; Asset and network management GIS | 29 MEA partners
 - [Trimble](https://risegeouae.ae/brand/trimble.html): Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Mobile and handheld (SLAM) scanners; Machine control and guidance; Rugged field controllers and tablets; Survey CAD and field software | 5 MEA partners
 - [Brunton](https://risegeouae.ae/brand/brunton.html): Survey accessories (compasses and field instruments) | 2 MEA partners
+- [Emlid](https://risegeouae.ae/brand/emlid.html): GNSS receivers and antennas | 2 MEA partners
+- [GeoMax](https://risegeouae.ae/brand/geomax.html): Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels; Construction and rotating lasers | 2 MEA partners
+- [Sokkia](https://risegeouae.ae/brand/sokkia.html): Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels | 2 MEA partners
+- [Tekla](https://risegeouae.ae/brand/tekla.html): BIM software (structural modelling) | 2 MEA partners
 - [Topcon](https://risegeouae.ae/brand/topcon.html): Total stations and robotic total stations; GNSS receivers and antennas; Machine control and guidance; Terrestrial laser scanners; Theodolites and levels | 2 MEA partners
 - [Asite](https://risegeouae.ae/brand/asite.html): Common data environments (CDE) | 1 MEA partners
 - [DJI Enterprise](https://risegeouae.ae/brand/dji-enterprise.html): Survey and mapping drones; Drone sensors and payloads | 1 MEA partners
-- [GeoMax](https://risegeouae.ae/brand/geomax.html): Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels; Construction and rotating lasers | 1 MEA partners
 - [Hexagon Geospatial](https://risegeouae.ae/brand/hexagon-geospatial.html): Remote sensing and image processing; Desktop and enterprise GIS | 1 MEA partners
 - [Muya](https://risegeouae.ae/brand/muya.html): Survey equipment (product lines not verified) | 1 MEA partners
 - [Nikon (survey instruments)](https://risegeouae.ae/brand/nikon-survey-instruments.html): Total stations and robotic total stations; Theodolites and levels | 1 MEA partners
 - [Revizto](https://risegeouae.ae/brand/revizto.html): BIM coordination and clash detection software | 1 MEA partners
 - [SatLab](https://risegeouae.ae/brand/satlab.html): GNSS receivers and antennas; Total stations and robotic total stations; Sonar | 1 MEA partners
 - [SinoGNSS](https://risegeouae.ae/brand/sinognss.html): GNSS receivers and antennas | 1 MEA partners
-- [Sokkia](https://risegeouae.ae/brand/sokkia.html): Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels | 1 MEA partners
 - [Spectra Geospatial](https://risegeouae.ae/brand/spectra-geospatial.html): GNSS receivers and antennas; Total stations and robotic total stations; Rugged field controllers and tablets | 1 MEA partners
-- [Tekla](https://risegeouae.ae/brand/tekla.html): BIM software (structural modelling) | 1 MEA partners
+- [Stonex](https://risegeouae.ae/brand/stonex.html): GNSS receivers and antennas; Total stations and robotic total stations; Terrestrial laser scanners | 1 MEA partners
 - [Toknav](https://risegeouae.ae/brand/toknav.html): Survey equipment (product lines not verified) | 1 MEA partners
 - [Agisoft](https://risegeouae.ae/brand/agisoft.html): Photogrammetry and drone processing | 0 MEA partners
 - [Airbus Defence and Space](https://risegeouae.ae/brand/airbus-defence-and-space.html): Optical satellite imagery; SAR imagery | 0 MEA partners
 - [Autodesk](https://risegeouae.ae/brand/autodesk.html): Survey CAD and field software; BIM software (design and CDE) | 0 MEA partners
 - [Bentley Systems](https://risegeouae.ae/brand/bentley-systems.html): BIM software (infrastructure); Point cloud and LiDAR processing; Digital twin platforms | 0 MEA partners
 - [CHC Navigation](https://risegeouae.ae/brand/chc-navigation.html): GNSS receivers and antennas; Mobile and handheld (SLAM) scanners; Sonar | 0 MEA partners
-- [Emlid](https://risegeouae.ae/brand/emlid.html): GNSS receivers and antennas | 0 MEA partners
 - [FARO](https://risegeouae.ae/brand/faro.html): Terrestrial laser scanners; Mobile and handheld (SLAM) scanners | 0 MEA partners
 - [Graphisoft](https://risegeouae.ae/brand/graphisoft.html): BIM software (Archicad) | 0 MEA partners
 - [Hi-Target](https://risegeouae.ae/brand/hi-target.html): GNSS receivers and antennas; Total stations and robotic total stations; Sonar | 0 MEA partners
@@ -230,12 +256,13 @@
 - [Radiodetection](https://risegeouae.ae/brand/radiodetection.html): GPR and utility locators | 0 MEA partners
 - [Septentrio](https://risegeouae.ae/brand/septentrio.html): GNSS receivers and antennas | 0 MEA partners
 - [South Surveying & Mapping](https://risegeouae.ae/brand/south-surveying-and-mapping.html): GNSS receivers and antennas; Total stations and robotic total stations; Theodolites and levels; Sonar | 0 MEA partners
-- [Stonex](https://risegeouae.ae/brand/stonex.html): GNSS receivers and antennas; Total stations and robotic total stations; Terrestrial laser scanners | 0 MEA partners
 - [Teledyne Marine](https://risegeouae.ae/brand/teledyne-marine.html): Sonar | 0 MEA partners
+- [Top Tech](https://risegeouae.ae/brand/top-tech.html): Survey instruments (product lines to be confirmed) | 0 MEA partners
 - [Wingtra](https://risegeouae.ae/brand/wingtra.html): Survey and mapping drones | 0 MEA partners
 
 ## All listings
-- [SatLab Geosolutions](https://risegeouae.ae/company/satlab-geosolutions.html) | Land Surveying Equipment Manufacturers | Dubai, United Arab Emirates | no website listed
+- [Rise Geo Control Systems Trading LLC](https://risegeouae.ae/company/rise-geo-control-systems-trading-llc.html) | Land Surveying Equipment Dealers & Suppliers | Dubai, United Arab Emirates | https://rise-geo.com
+- [VisionMap](https://risegeouae.ae/company/visionmap.html) | Aerial Survey & Photogrammetry Companies | Tel Aviv, Israel | https://www.linkedin.com/company/visionmap-ltd/
 - [CHC Navigation](https://risegeouae.ae/company/chc-navigation.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.chcnav.com
 - [DJI Enterprise](https://risegeouae.ae/company/dji-enterprise.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://enterprise.dji.com
 - [Emlid](https://risegeouae.ae/company/emlid.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://emlid.com
@@ -244,44 +271,64 @@
 - [Hi-Target](https://risegeouae.ae/company/hi-target.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://en.hi-target.com.cn
 - [ICEYE](https://risegeouae.ae/company/iceye.html) | Satellite Imagery Providers | Regional (MEA) | https://www.iceye.com
 - [IDS GeoRadar](https://risegeouae.ae/company/ids-georadar.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://idsgeoradar.com
-- [Kongsberg Discovery](https://risegeouae.ae/company/kongsberg-discovery.html) | Geodetic & GNSS Survey Services | Regional (MEA) | https://www.kongsberg.com
 - [Leica Geosystems (Hexagon)](https://risegeouae.ae/company/leica-geosystems-hexagon.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://leica-geosystems.com
 - [Maxar Intelligence (Vantor)](https://risegeouae.ae/company/maxar-intelligence-vantor.html) | Satellite Imagery Providers | Regional (MEA) | https://www.maxar.com
 - [NavVis](https://risegeouae.ae/company/navvis.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.navvis.com
-- [Quantum Systems](https://risegeouae.ae/company/quantum-systems.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://quantum-systems.com
-- [Radiodetection](https://risegeouae.ae/company/radiodetection.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.radiodetection.com
 - [RIEGL](https://risegeouae.ae/company/riegl.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.riegl.com
 - [Septentrio](https://risegeouae.ae/company/septentrio.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.septentrio.com
-- [South Surveying & Mapping Technology](https://risegeouae.ae/company/south-surveying-and-mapping-technology.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.southsurvey.com
-- [Stonex](https://risegeouae.ae/company/stonex.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.stonex.it
 - [Tekla (Trimble)](https://risegeouae.ae/company/tekla-trimble.html) | BIM Modelling & Coordination Services | Regional (MEA) | https://www.tekla.com
-- [Teledyne Marine](https://risegeouae.ae/company/teledyne-marine.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.teledynemarine.com
-- [Topcon Positioning Systems](https://risegeouae.ae/company/topcon-positioning-systems.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.topconpositioning.com
 - [Trimble](https://risegeouae.ae/company/trimble.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.trimble.com
 - [Wingtra](https://risegeouae.ae/company/wingtra.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://wingtra.com
+- [SatLab Geosolutions](https://risegeouae.ae/company/satlab-geosolutions.html) | Land Surveying Equipment Manufacturers | Dubai, United Arab Emirates | no website listed
+- [Airobotics](https://risegeouae.ae/company/airobotics.html) | Survey Drone Manufacturers | Drom HaSharon, Israel | no website listed
+- [Kongsberg Discovery](https://risegeouae.ae/company/kongsberg-discovery.html) | Geodetic & GNSS Survey Services | Regional (MEA) | https://www.kongsberg.com
+- [Quantum Systems](https://risegeouae.ae/company/quantum-systems.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://quantum-systems.com
+- [Radiodetection](https://risegeouae.ae/company/radiodetection.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.radiodetection.com
+- [South Surveying & Mapping Technology](https://risegeouae.ae/company/south-surveying-and-mapping-technology.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.southsurvey.com
+- [Stonex](https://risegeouae.ae/company/stonex.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.stonex.it
+- [Teledyne Marine](https://risegeouae.ae/company/teledyne-marine.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.teledynemarine.com
+- [Topcon Positioning Systems](https://risegeouae.ae/company/topcon-positioning-systems.html) | Land Surveying Equipment Manufacturers | Regional (MEA) | https://www.topconpositioning.com
 - [Leica Geosystems SARL](https://risegeouae.ae/company/leica-geosystems-sarl.html) | Land Surveying Equipment Manufacturers | Casablanca, Morocco | no website listed
+- [Hexagon (Leica Geosystems) South Africa](https://risegeouae.ae/company/hexagon-leica-geosystems-south-africa.html) | Land Surveying Equipment Manufacturers | Johannesburg, South Africa | https://leica-geosystems.com
+- [Leica Geosystems SA](https://risegeouae.ae/company/leica-geosystems-sa.html) | Land Surveying Equipment Manufacturers | Midrand, South Africa | no website listed
+- [Leica Geosystems (Hexagon) Middle East](https://risegeouae.ae/company/leica-geosystems-hexagon-middle-east.html) | Land Surveying Equipment Manufacturers | Dubai, United Arab Emirates | https://leica-geosystems.com
+- [Leica Geosystems FZCO](https://risegeouae.ae/company/leica-geosystems-fzco.html) | Land Surveying Equipment Manufacturers | Dubai, United Arab Emirates | no website listed
 - [Tekla Middle East office](https://risegeouae.ae/company/tekla-middle-east-office.html) | BIM Modelling & Coordination Services | Dubai, United Arab Emirates | https://www.tekla.com/ae
 - [Trimble Middle East](https://risegeouae.ae/company/trimble-middle-east.html) | Land Surveying Equipment Manufacturers | Dubai, United Arab Emirates | https://geospatial.trimble.com
-- [Hexagon (Leica Geosystems) South Africa](https://risegeouae.ae/company/hexagon-leica-geosystems-south-africa.html) | Land Surveying Equipment Manufacturers | Johannesburg, South Africa | https://leica-geosystems.com
-- [Leica Geosystems (Hexagon) Middle East](https://risegeouae.ae/company/leica-geosystems-hexagon-middle-east.html) | Land Surveying Equipment Manufacturers | Dubai, United Arab Emirates | https://leica-geosystems.com
 - [Topcon Positioning Middle East & Africa](https://risegeouae.ae/company/topcon-positioning-middle-east-and-africa.html) | Land Surveying Equipment Manufacturers | Dubai, United Arab Emirates | https://www.topconpositioning.com
 - [MicroCenter](https://risegeouae.ae/company/microcenter.html) | Land Surveying Equipment Distributors | Al Janabiyah, Bahrain | https://microcentergulf.com
+- [Aridus Hydro-Geotechnik](https://risegeouae.ae/company/aridus-hydro-geotechnik.html) | Monitoring Sensor Distributors | Gaborone, Botswana | https://aridus.co.bw
+- [Progrès SARL](https://risegeouae.ae/company/progr-s-sarl.html) | GPR & Utility Locator Distributors | Lubumbashi, Democratic Republic of the Congo | no website listed
 - [Esri North Africa](https://risegeouae.ae/company/esri-north-africa.html) | GIS Software Distributors & Resellers | Cairo, Egypt | no website listed
 - [Leica Geosystems Guinée](https://risegeouae.ae/company/leica-geosystems-guin-e.html) | Land Surveying Equipment Distributors | Conakry, Guinea | no website listed
+- [ElTrap Systems Ltd.](https://risegeouae.ae/company/eltrap-systems-ltd.html) | Monitoring Sensor Distributors | Tel Aviv, Israel | https://eltrap.co.il
+- [Systematics](https://risegeouae.ae/company/systematics.html) | GIS Software Distributors & Resellers | Tel Aviv, Israel | https://www.systematics.co.il/en/
 - [Esri Eastern Africa](https://risegeouae.ae/company/esri-eastern-africa.html) | GIS Software Distributors & Resellers | Nairobi, Kenya | https://www.esriea.com
 - [Measurement Systems Limited](https://risegeouae.ae/company/measurement-systems-limited.html) | Land Surveying Equipment Distributors | Nairobi, Kenya | no website listed
+- [Edrafor](https://risegeouae.ae/company/edrafor.html) | Monitoring Sensor Distributors | Beirut, Lebanon | https://edrafor.com
+- [Strainstall WLL](https://risegeouae.ae/company/strainstall-wll.html) | Monitoring Sensor Distributors | Doha, Qatar | https://strainstall.com
+- [Al Moryat Trading Company](https://risegeouae.ae/company/al-moryat-trading-company.html) | GPR & Utility Locator Distributors | Jeddah, Saudi Arabia | https://almoryat.com
 - [Boksomatti](https://risegeouae.ae/company/boksomatti.html) | Land Surveying Equipment Distributors | Riyadh, Saudi Arabia | https://boksomatti.com
 - [Esri Saudi Arabia](https://risegeouae.ae/company/esri-saudi-arabia.html) | GIS Software Distributors & Resellers | Riyadh, Saudi Arabia | no website listed
 - [Khatib & Alami](https://risegeouae.ae/company/khatib-and-alami.html) | BIM Modelling & Coordination Services | Riyadh, Saudi Arabia | https://www.khatibalami.com
 - [Tamstar Trading Est.](https://risegeouae.ae/company/tamstar-trading-est.html) | Land Surveying Equipment Distributors | Dammam, Saudi Arabia | https://www.tamstar.com.sa
+- [Esri South Africa](https://risegeouae.ae/company/esri-south-africa.html) | GIS Software Distributors & Resellers | Johannesburg, South Africa | https://www.esri-southafrica.com
+- [Kamarossi 22 (Pty) Ltd](https://risegeouae.ae/company/kamarossi-22-pty-ltd.html) | Monitoring Sensor Distributors | Silverton, Pretoria, South Africa | https://kamarossi.co.za
+- [Kazambu Consulting](https://risegeouae.ae/company/kazambu-consulting.html) | GPR & Utility Locator Distributors | Pretoria, South Africa | no website listed
+- [United General Trading & Engineering Co. Ltd](https://risegeouae.ae/company/united-general-trading-and-engineering-co-ltd.html) | GPR & Utility Locator Distributors | Juba, South Sudan | https://unitedengr.com
+- [Belirti Engineering & Consulting](https://risegeouae.ae/company/belirti-engineering-and-consulting.html) | Monitoring Sensor Distributors | Istanbul, Turkey | https://belirti.com
+- [ELCONSE (Electronic Consulting Service)](https://risegeouae.ae/company/elconse-electronic-consulting-service.html) | GPR & Utility Locator Distributors | Ankara, Turkey | no website listed
 - [AllTerra Gulf](https://risegeouae.ae/company/allterra-gulf.html) | Land Surveying Equipment Distributors | Dubai, United Arab Emirates | https://www.allterragulf.com
 - [GISTEC](https://risegeouae.ae/company/gistec.html) | GIS Software Distributors & Resellers | Dubai, United Arab Emirates | https://www.gistec.com
 - [Gulf Minetech LLC](https://risegeouae.ae/company/gulf-minetech-llc.html) | Land Surveying Equipment Distributors | Dubai, United Arab Emirates | https://gulfminetech.com
+- [North Enterprises](https://risegeouae.ae/company/north-enterprises.html) | GPR & Utility Locator Distributors | Dubai, United Arab Emirates | https://northuae.com
+- [Strainstall Middle East LLC](https://risegeouae.ae/company/strainstall-middle-east-llc.html) | Monitoring Sensor Distributors | Dubai, United Arab Emirates | https://strainstall.ae
 - [Esri Lebanon](https://risegeouae.ae/company/esri-lebanon.html) | GIS Software Distributors & Resellers | Beirut, Lebanon | no website listed
 - [Esri Rwanda](https://risegeouae.ae/company/esri-rwanda.html) | GIS Software Distributors & Resellers | Kigali, Rwanda | no website listed
-- [Esri South Africa](https://risegeouae.ae/company/esri-south-africa.html) | GIS Software Distributors & Resellers | Johannesburg, South Africa | https://www.esri-southafrica.com
 - [Optron](https://risegeouae.ae/company/optron.html) | Land Surveying Equipment Distributors | Johannesburg, South Africa | https://www.optron.com
 - [SurvSystems](https://risegeouae.ae/company/survsystems.html) | Land Surveying Equipment Dealers & Suppliers | Luanda, Angola | https://www.survsystems.co
+- [Manaf Hamza Engineering and Surveying Company WLL](https://risegeouae.ae/company/manaf-hamza-engineering-and-surveying-company-wll.html) | Land Surveyors | A'ali, Bahrain | https://manafhamza.com
+- [Surtek](https://risegeouae.ae/company/surtek.html) | Land Surveying Equipment Dealers & Suppliers | Gaborone, Botswana | https://surtekbotswana.com/
 - [Surtek Botswana](https://risegeouae.ae/company/surtek-botswana.html) | Land Surveying Equipment Dealers & Suppliers | Gaborone, Botswana | https://surtekbotswana.com
 - [Africa Geomatic](https://risegeouae.ae/company/africa-geomatic.html) | Land Surveying Equipment Dealers & Suppliers | Ouagadougou, Burkina Faso | no website listed
 - [Geospace Africa](https://risegeouae.ae/company/geospace-africa.html) | Land Surveying Equipment Dealers & Suppliers | Cameroon | no website listed
@@ -298,28 +345,36 @@
 - [Axiel Technologies Limited](https://risegeouae.ae/company/axiel-technologies-limited.html) | Land Surveying Equipment Dealers & Suppliers | Port Harcourt, Nigeria | http://www.axieltechnologies.com
 - [Global Pro Services Limited (mamtus)](https://risegeouae.ae/company/global-pro-services-limited-mamtus.html) | Land Surveying Equipment Dealers & Suppliers | Lagos, Nigeria | https://www.mamtus.ng
 - [Industrial Commercial Projects Nigeria Limited (ICP)](https://risegeouae.ae/company/industrial-commercial-projects-nigeria-limited-icp.html) | Land Surveying Equipment Dealers & Suppliers | Lagos, Nigeria | https://icp-leica.com
+- [Sokkia Survey Instrument Sales & Services (Qatar)](https://risegeouae.ae/company/sokkia-survey-instrument-sales-and-services-qatar.html) | Land Surveying Equipment Dealers & Suppliers | Doha, Qatar | no website listed
+- [SITECH KSA](https://risegeouae.ae/company/sitech-ksa.html) | Land Surveying Equipment Dealers & Suppliers | Saudi Arabia | no website listed
 - [Saredica](https://risegeouae.ae/company/saredica.html) | Land Surveying Equipment Dealers & Suppliers | Dakar, Senegal | http://www.saredica.com
+- [Bendi 3D](https://risegeouae.ae/company/bendi-3d.html) | 3D Laser Scanner Dealers & Suppliers | Pretoria, South Africa | https://bendi3d.com/
 - [NTG Solutions](https://risegeouae.ae/company/ntg-solutions.html) | Land Surveying Equipment Dealers & Suppliers | Johannesburg, South Africa | https://ntgsolutions.co.za
 - [Ronin System Solutions](https://risegeouae.ae/company/ronin-system-solutions.html) | Land Surveying Equipment Dealers & Suppliers | Modderfontein, South Africa | https://www.roninconstructionmachinecontrolsystems.com
+- [SOM Survey Instruments](https://risegeouae.ae/company/som-survey-instruments.html) | GNSS Receiver Dealers & Suppliers | Pretoria, South Africa | https://somsurveyinstruments.com
 - [WiPo Wireless Power](https://risegeouae.ae/company/wipo-wireless-power.html) | Land Surveying Equipment Dealers & Suppliers | Pretoria, South Africa | https://www.wipo-wirelesspower.com
 - [Achelis (Tanganyika) Limited](https://risegeouae.ae/company/achelis-tanganyika-limited.html) | Land Surveying Equipment Dealers & Suppliers | Dar es Salaam, Tanzania | http://www.achelis.co.tz
 - [KAD7](https://risegeouae.ae/company/kad7.html) | Land Surveying Equipment Dealers & Suppliers | Lomé, Togo | http://www.kad7.net
 - [Achelis (Uganda) Limited](https://risegeouae.ae/company/achelis-uganda-limited.html) | Land Surveying Equipment Dealers & Suppliers | Kampala, Uganda | http://www.achelis.net
 - [GNSS.AE](https://risegeouae.ae/company/gnss-ae.html) | Land Surveying Equipment Dealers & Suppliers | Dubai, United Arab Emirates | https://gnss.ae
+- [SITECH Gulf](https://risegeouae.ae/company/sitech-gulf.html) | Land Surveying Equipment Dealers & Suppliers | United Arab Emirates | https://www.sitech-construction.com
+- [Topotrade](https://risegeouae.ae/company/topotrade.html) | GNSS Receiver Dealers & Suppliers | Dubai, United Arab Emirates | https://www.topotrade.com
 - [GMX Systems Zambia](https://risegeouae.ae/company/gmx-systems-zambia.html) | Land Surveying Equipment Dealers & Suppliers | Lusaka, Zambia | https://gmxzm.com
 - [Identity Tech](https://risegeouae.ae/company/identity-tech.html) | Land Surveying Equipment Dealers & Suppliers | Harare, Zimbabwe | https://www.identitytech.co.zw
-- [SITECH KSA](https://risegeouae.ae/company/sitech-ksa.html) | Land Surveying Equipment Dealers & Suppliers | Saudi Arabia | no website listed
-- [SITECH Gulf](https://risegeouae.ae/company/sitech-gulf.html) | Land Surveying Equipment Dealers & Suppliers | United Arab Emirates | https://www.sitech-construction.com
+- [Giga Systems for Hydrology & Environmental Consulting](https://risegeouae.ae/company/giga-systems-for-hydrology-and-environmental-consulting.html) | Monitoring Sensor Distributors | Cairo, Egypt | no website listed
 - [Middle East for Surveying Technology](https://risegeouae.ae/company/middle-east-for-surveying-technology.html) | Land Surveying Equipment Dealers & Suppliers | Cairo, Egypt | no website listed
 - [BECETT Sarlu](https://risegeouae.ae/company/becett-sarlu.html) | Topographic Surveyors | Conakry, Guinea | no website listed
 - [Geoid Technologies Ltd](https://risegeouae.ae/company/geoid-technologies-ltd.html) | Land Surveying Equipment Dealers & Suppliers | Kitengela, Kenya | no website listed
 - [Skymap LiDAR Drone and Topographical Survey Services](https://risegeouae.ae/company/skymap-lidar-drone-and-topographical-survey-services.html) | Drone Survey & Mapping Companies | Nairobi, Kenya | no website listed
+- [Al Mustafawi Trading & Engineering Co WLL](https://risegeouae.ae/company/al-mustafawi-trading-and-engineering-co-wll.html) | Land Surveying Equipment Dealers & Suppliers | Doha, Qatar | no website listed
 - [Ideal Solutions Company](https://risegeouae.ae/company/ideal-solutions-company.html) | Custom GIS App Developers | Doha, Qatar | https://www.idealsolutions.com
+- [Teyseer Industrial Supplies & Services (TISSCO)](https://risegeouae.ae/company/teyseer-industrial-supplies-and-services-tissco.html) | Land Surveying Equipment Dealers & Suppliers | Doha, Qatar | no website listed
 - [Datagrid Africa Centre](https://risegeouae.ae/company/datagrid-africa-centre.html) | Training Centres | Entebbe, Uganda | no website listed
 - [Metrisys Uganda Limited](https://risegeouae.ae/company/metrisys-uganda-limited.html) | Land Surveying Equipment Dealers & Suppliers | Kampala, Uganda | no website listed
 - [Oklan Consultant Surveyors](https://risegeouae.ae/company/oklan-consultant-surveyors.html) | Land Surveyors | Uganda | no website listed
 - [Vifaru Geospatial and Pipeline Services](https://risegeouae.ae/company/vifaru-geospatial-and-pipeline-services.html) | GIS Consultants | Kampala, Uganda | no website listed
-- [Rise Geo Control Systems Trading](https://risegeouae.ae/company/rise-geo-control-systems-trading.html) | Land Surveying Equipment Dealers & Suppliers | Dubai, United Arab Emirates | https://rise-geo.com
+- [Bee Hive Measurement and Control Equipment Devices Trading LLC](https://risegeouae.ae/company/bee-hive-measurement-and-control-equipment-devices-trading-llc.html) | Land Surveying Equipment Dealers & Suppliers | Abu Dhabi, United Arab Emirates | no website listed
+- [Geotech System Ghana Ltd](https://risegeouae.ae/company/geotech-system-ghana-ltd.html) | Land Surveying Equipment Dealers & Suppliers | Accra, Ghana | no website listed
 - [Geotop Engineering](https://risegeouae.ae/company/geotop-engineering.html) | Land Surveying Equipment Dealers & Suppliers | Conakry, Guinea | no website listed
 - [TEKLABZ (Technology Labs for Software Industry)](https://risegeouae.ae/company/teklabz-technology-labs-for-software-industry.html) | Custom GIS App Developers | Amman, Jordan | https://www.teklabz.com
 - [Agizo Africa Ltd](https://risegeouae.ae/company/agizo-africa-ltd.html) | GIS Consultants | Nairobi, Kenya | no website listed
@@ -339,6 +394,7 @@
 - [Gravity GIS](https://risegeouae.ae/company/gravity-gis.html) | Drone Survey & Mapping Companies | Riyadh, Saudi Arabia | https://www.gravitygis.com
 - [Map Dev](https://risegeouae.ae/company/map-dev.html) | Drone Survey & Mapping Companies | Jeddah, Saudi Arabia | https://mapdev.sa
 - [NOVAsat](https://risegeouae.ae/company/novasat.html) | GIS Consultants | Riyadh, Saudi Arabia | https://www.novasat.com.sa
+- [AfriGIS](https://risegeouae.ae/company/afrigis.html) | GIS Consultants | Pretoria, South Africa | https://www.afrigis.co.za
 - [GeoAfrika Technologies](https://risegeouae.ae/company/geoafrika-technologies.html) | GIS Consultants | Durban, South Africa | no website listed
 - [Direction Integrated Systems](https://risegeouae.ae/company/direction-integrated-systems.html) | GIS Consultants | Khartoum, Sudan | https://www.direction-sd.com
 - [Global GeoMapping Solutions](https://risegeouae.ae/company/global-geomapping-solutions.html) | Utility Detection & GPR Surveys | Abu Dhabi, United Arab Emirates | https://globalgeomap.com
@@ -346,34 +402,43 @@
 - [iSpatial Techno Solutions (IST)](https://risegeouae.ae/company/ispatial-techno-solutions-ist.html) | GIS Consultants | Abu Dhabi, United Arab Emirates | https://ispatialtec.com
 - [MicroMAP](https://risegeouae.ae/company/micromap.html) | Custom GIS App Developers | Abu Dhabi, United Arab Emirates | https://micromap.ae
 - [Surety Computer Systems](https://risegeouae.ae/company/surety-computer-systems.html) | GIS Consultants | Dubai, United Arab Emirates | https://www.surety-cs.com
-- [AfriGIS](https://risegeouae.ae/company/afrigis.html) | GIS Consultants | Pretoria, South Africa | https://www.afrigis.co.za
+- [Riwaq Al-Madina](https://risegeouae.ae/company/riwaq-al-madina.html) | GIS Consultants | Iraq | no website listed
+- [Islem Geographic Information Systems](https://risegeouae.ae/company/islem-geographic-information-systems.html) | GIS Consultants | Ankara, Turkey | no website listed
+- [MEP Sistem Bilişim Teknolojileri](https://risegeouae.ae/company/mep-sistem-bili-im-teknolojileri.html) | GIS Consultants | Turkey | no website listed
+- [ReMap Teknoloji Çözümleri](https://risegeouae.ae/company/remap-teknoloji-z-mleri.html) | GIS Consultants | Turkey | no website listed
 - [MAYDAY](https://risegeouae.ae/company/mayday.html) | GIS Consultants | Cairo, Egypt | http://getmayday.io
+- [AtlasCT (Atlas Cartographic Technologies)](https://risegeouae.ae/company/atlasct-atlas-cartographic-technologies.html) | Web Mapping & Map API Vendors | Ramat Gan, Israel | https://developers.atlasct.com/
+- [Tiltan](https://risegeouae.ae/company/tiltan.html) | Remote Sensing Software Vendors | Bnei Brak, Israel | https://tiltan-se.com/
 - [Apollo Agriculture](https://risegeouae.ae/company/apollo-agriculture.html) | Satellite Image Analysis & Remote Sensing Services | Nairobi, Kenya | https://www.apolloagriculture.com
 - [Lentera Africa](https://risegeouae.ae/company/lentera-africa.html) | Satellite Image Analysis & Remote Sensing Services | Nairobi, Kenya | https://lenterafrica.com
 - [Oakar Geospatial Solutions](https://risegeouae.ae/company/oakar-geospatial-solutions.html) | Custom GIS App Developers | Nairobi, Kenya | https://www.osl.co.ke
 - [Sim Lab Geosolutions](https://risegeouae.ae/company/sim-lab-geosolutions.html) | Custom GIS App Developers | Nairobi, Kenya | https://www.simlabgeosolutions.co.ke
 - [Map Action](https://risegeouae.ae/company/map-action.html) | GIS Consultants | Bamako, Mali | https://map-action.com
 - [AgriEdge](https://risegeouae.ae/company/agriedge.html) | Satellite Image Analysis & Remote Sensing Services | Ben Guerir, Morocco | https://agriedge.um6p.ma
+- [Agisoft](https://risegeouae.ae/company/agisoft.html) | Photogrammetry & Drone Mapping Software Vendors | Regional (MEA) | https://www.agisoft.com
+- [Airbus Defence and Space – Intelligence](https://risegeouae.ae/company/airbus-defence-and-space-intelligence.html) | Satellite Imagery Providers | Regional (MEA) | https://space-solutions.airbus.com
 - [Autodesk](https://risegeouae.ae/company/autodesk.html) | BIM Software Vendors | Riyadh, Regional (MEA) | https://www.autodesk.com
 - [Bentley Systems](https://risegeouae.ae/company/bentley-systems.html) | BIM Software Vendors | Regional (MEA) | https://www.bentley.com
+- [Hexagon Geospatial](https://risegeouae.ae/company/hexagon-geospatial.html) | GIS Software Vendors | Regional (MEA) | https://hexagon.com
+- [Planet Labs](https://risegeouae.ae/company/planet-labs.html) | Satellite Imagery Providers | Regional (MEA) | https://www.planet.com
+- [Revizto](https://risegeouae.ae/company/revizto.html) | BIM Modelling & Coordination Services | Regional (MEA) | https://revizto.com
 - [DMM.HeHe](https://risegeouae.ae/company/dmm-hehe.html) | GIS Software Vendors | Kigali, Rwanda | https://about.hehe.rw
 - [NIMA Codes](https://risegeouae.ae/company/nima-codes.html) | Map, Street & Address Data Providers | Dakar, Senegal | https://nima.codes
 - [JenMaa Data Consulting](https://risegeouae.ae/company/jenmaa-data-consulting.html) | Custom GIS App Developers | Freetown, Sierra Leone | no website listed
 - [VoiceMap](https://risegeouae.ae/company/voicemap.html) | GIS Consultants | Cape Town, South Africa | https://voicemap.me
 - [Bexel Gulf Consulting](https://risegeouae.ae/company/bexel-gulf-consulting.html) | BIM Modelling & Coordination Services | Abu Dhabi, United Arab Emirates | no website listed
 - [Esri (Middle East & Africa)](https://risegeouae.ae/company/esri-middle-east-and-africa.html) | GIS Software Vendors | Dubai, United Arab Emirates | https://www.esri.com/en-us/about/about-esri/mea-central-asia
-- [Agisoft](https://risegeouae.ae/company/agisoft.html) | Photogrammetry & Drone Mapping Software Vendors | Regional (MEA) | https://www.agisoft.com
-- [Airbus Defence and Space – Intelligence](https://risegeouae.ae/company/airbus-defence-and-space-intelligence.html) | Satellite Imagery Providers | Regional (MEA) | https://space-solutions.airbus.com
-- [Hexagon Geospatial](https://risegeouae.ae/company/hexagon-geospatial.html) | GIS Software Vendors | Regional (MEA) | https://hexagon.com
+- [High Lander](https://risegeouae.ae/company/high-lander.html) | Photogrammetry & Drone Mapping Software Vendors | Ra'anana, Israel | no website listed
+- [Mapme](https://risegeouae.ae/company/mapme.html) | Web Mapping & Map API Vendors | Herzliya, Israel | no website listed
+- [Tupaia Positioning Solutions](https://risegeouae.ae/company/tupaia-positioning-solutions.html) | Geodetic & GNSS Survey Services | Tel Aviv, Israel | no website listed
 - [Pix4D](https://risegeouae.ae/company/pix4d.html) | Photogrammetry & Drone Mapping Software Vendors | Regional (MEA) | https://www.pix4d.com
-- [Planet Labs](https://risegeouae.ae/company/planet-labs.html) | Satellite Imagery Providers | Regional (MEA) | https://www.planet.com
-- [Revizto](https://risegeouae.ae/company/revizto.html) | BIM Modelling & Coordination Services | Regional (MEA) | https://revizto.com
 - [Asite](https://risegeouae.ae/company/asite.html) | BIM Modelling & Coordination Services | Dubai, United Arab Emirates | https://www.asite.com
 - [Condor Gulf Technologies](https://risegeouae.ae/company/condor-gulf-technologies.html) | Digital Twin & Smart City Solutions | Manama, Bahrain | https://condorgulf.com
 - [Spatial Technology Solutions (STS)](https://risegeouae.ae/company/spatial-technology-solutions-sts.html) | Map, Street & Address Data Providers | Manama, Bahrain | https://sts-int.net
 - [AGF Topo](https://risegeouae.ae/company/agf-topo.html) | Cadastral & Boundary Surveyors | Cotonou, Benin | no website listed
 - [BECT – Bureau d'Etudes et de Conseils Topographiques](https://risegeouae.ae/company/bect-bureau-d-etudes-et-de-conseils-topographiques.html) | Topographic Surveyors | Abomey-Calavi, Benin | no website listed
 - [ERA-Team](https://risegeouae.ae/company/era-team.html) | Topographic Surveyors | Cotonou, Benin | no website listed
+- [Société d'Etudes Topographiques et d'Ingénierie Conseils BTP](https://risegeouae.ae/company/soci-t-d-etudes-topographiques-et-d-ing-nierie-conseils-btp.html) | Topographic Surveyors | Cotonou, Benin | no website listed
 - [Two Spatial](https://risegeouae.ae/company/two-spatial.html) | GIS Consultants | Cairo, Egypt | https://www.twospatial.com
 - [Tenth Generation Technology Systems](https://risegeouae.ae/company/tenth-generation-technology-systems.html) | GIS Consultants | Accra, Ghana | https://www.tgtsafrica.com
 - [Cabinet d'Etudes de Topographies et d'Ingénieries](https://risegeouae.ae/company/cabinet-d-etudes-de-topographies-et-d-ing-nieries.html) | Topographic Surveyors | Conakry, Guinea | no website listed
@@ -413,6 +478,7 @@
 - [GISTECH Consultants Ltd](https://risegeouae.ae/company/gistech-consultants-ltd.html) | GIS Consultants | Kigali, Rwanda | https://www.gistechafrica.com
 - [Immense Spatial Based Engineering and Consultancy](https://risegeouae.ae/company/immense-spatial-based-engineering-and-consultancy.html) | Cadastral & Boundary Surveyors | Kigali, Rwanda | https://www.immense.co.rw
 - [AtkinsRéalis](https://risegeouae.ae/company/atkinsr-alis.html) | BIM Modelling & Coordination Services | Riyadh, Saudi Arabia | https://www.atkinsrealis.com
+- [Basmat Al Riyada Engineering Consulting Office](https://risegeouae.ae/company/basmat-al-riyada-engineering-consulting-office.html) | Land Surveyors | Riyadh, Saudi Arabia | https://be-cons.com
 - [Parsons Middle East](https://risegeouae.ae/company/parsons-middle-east.html) | Digital Twin & Smart City Solutions | Riyadh, Saudi Arabia | https://www.parsons.com
 - [GeoData SL](https://risegeouae.ae/company/geodata-sl.html) | GIS Consultants | Freetown, Sierra Leone | no website listed
 - [Techno-Environment Investment Co](https://risegeouae.ae/company/techno-environment-investment-co.html) | Satellite Image Analysis & Remote Sensing Services | Dar es Salaam, Tanzania | https://technoenvironment.com
@@ -428,28 +494,49 @@
 - [Mott MacDonald Middle East](https://risegeouae.ae/company/mott-macdonald-middle-east.html) | BIM Consultants | Dubai, United Arab Emirates | https://www.mottmac.com
 - [TES Consultancy](https://risegeouae.ae/company/tes-consultancy.html) | BIM Modelling & Coordination Services | Ras Al Khaimah, United Arab Emirates | no website listed
 - [WSP Middle East](https://risegeouae.ae/company/wsp-middle-east.html) | BIM Modelling & Coordination Services | Dubai, United Arab Emirates | https://www.wsp.com
-- [Société d'Etudes Topographiques et d'Ingénierie Conseils BTP](https://risegeouae.ae/company/soci-t-d-etudes-topographiques-et-d-ing-nierie-conseils-btp.html) | Topographic Surveyors | Cotonou, Benin | no website listed
+- [Farazamin Consulting Engineers](https://risegeouae.ae/company/farazamin-consulting-engineers.html) | GIS Consultants | Iran | no website listed
+- [Sazab Pardazan Consulting Engineers](https://risegeouae.ae/company/sazab-pardazan-consulting-engineers.html) | GIS Consultants | Iran | no website listed
+- [Al Sudoof Co. for General Trading, Designs, Engineering Consultations and Digital Mapping](https://risegeouae.ae/company/al-sudoof-co-for-general-trading-designs-engineering-consultations-and-digital-mapping.html) | Mapping & Cartography Services | Iraq | no website listed
+- [Dar Al-Handasah (Shair & Partners)](https://risegeouae.ae/company/dar-al-handasah-shair-and-partners.html) | GIS Consultants | Beirut, Lebanon | no website listed
+- [Khatib & Alami](https://risegeouae.ae/company/khatib-and-alami-2.html) | GIS Consultants | Beirut, Lebanon | no website listed
+- [Hydro Yemen](https://risegeouae.ae/company/hydro-yemen.html) | Hydrographic & Bathymetric Surveys | Yemen | no website listed
 - [Aeromap Technology Systems](https://risegeouae.ae/company/aeromap-technology-systems.html) | Aerial Survey & Photogrammetry Companies | Manama, Bahrain | https://www.aeromapss.com
 - [East View Geospatial (Bahrain)](https://risegeouae.ae/company/east-view-geospatial-bahrain.html) | Map, Street & Address Data Providers | Manama, Bahrain | https://geospatial.com
 - [Agence Topographique](https://risegeouae.ae/company/agence-topographique.html) | Land Surveyors | Abomey-Calavi, Benin | no website listed
 - [All In Sarl](https://risegeouae.ae/company/all-in-sarl.html) | Topographic Surveyors | Abomey-Calavi, Benin | no website listed
+- [Atlas-GIS Sarl](https://risegeouae.ae/company/atlas-gis-sarl.html) | GIS Consultants | Cotonou, Benin | no website listed
 - [BE-ITCA](https://risegeouae.ae/company/be-itca.html) | Topographic Surveyors | Cotonou, Benin | no website listed
+- [BETRET – Bureau d'Etude Technique et Réalisation des Travaux Topographiques](https://risegeouae.ae/company/betret-bureau-d-etude-technique-et-r-alisation-des-travaux-topographiques.html) | Topographic Surveyors | Cotonou, Benin | no website listed
+- [Ets Arc-en-Ciel Topo](https://risegeouae.ae/company/ets-arc-en-ciel-topo.html) | Land Surveyors | Cotonou, Benin | no website listed
 - [Geo Surveys Tech (GST)](https://risegeouae.ae/company/geo-surveys-tech-gst.html) | Cadastral & Boundary Surveyors | Abomey-Calavi, Benin | no website listed
 - [GTSD Topographie Stars](https://risegeouae.ae/company/gtsd-topographie-stars.html) | Land Surveyors | Abomey, Benin | no website listed
 - [Idrisstopo](https://risegeouae.ae/company/idrisstopo.html) | Land Surveyors | Abomey-Calavi, Benin | no website listed
+- [Service Topo](https://risegeouae.ae/company/service-topo.html) | Land Surveyors | Ouidah, Benin | no website listed
 - [Société Bascule O Adeye Sarl](https://risegeouae.ae/company/soci-t-bascule-o-adeye-sarl.html) | Cadastral & Boundary Surveyors | Porto-Novo, Benin | no website listed
 - [Topo Solo](https://risegeouae.ae/company/topo-solo.html) | Land Surveyors | Cotonou, Benin | no website listed
+- [Topo-Star](https://risegeouae.ae/company/topo-star.html) | Land Surveyors | Cotonou, Benin | no website listed
 - [P.A.L. Land Surveying & GIS](https://risegeouae.ae/company/p-a-l-land-surveying-and-gis.html) | Cadastral & Boundary Surveyors | Larnaca, Cyprus | https://palsurveying.com
 - [Surverial Ltd](https://risegeouae.ae/company/surverial-ltd.html) | Drone Survey & Mapping Companies | Paphos, Cyprus | https://aerialcyprusdrone.com
 - [TopoCAD Engineering](https://risegeouae.ae/company/topocad-engineering.html) | Land Surveyors | Nicosia, Cyprus | https://topocadeng.com
+- [Abou Salama for Measurement & Land Division](https://risegeouae.ae/company/abou-salama-for-measurement-and-land-division.html) | Land Surveyors | Giza, Egypt | no website listed
+- [Ahl Egyptian Surveying Office](https://risegeouae.ae/company/ahl-egyptian-surveying-office.html) | Land Surveyors | Giza, Egypt | no website listed
+- [Amiaal for Measuring Work](https://risegeouae.ae/company/amiaal-for-measuring-work.html) | Land Surveyors | Giza, Egypt | no website listed
 - [Axcotech Integrated Work Survey](https://risegeouae.ae/company/axcotech-integrated-work-survey.html) | Land Surveyors | Alexandria, Egypt | no website listed
 - [Compu Survey for Topographic Survey & Mapping](https://risegeouae.ae/company/compu-survey-for-topographic-survey-and-mapping.html) | Topographic Surveyors | Cairo, Egypt | no website listed
 - [Delta Survey](https://risegeouae.ae/company/delta-survey.html) | Land Surveyors | Mansoura, Egypt | no website listed
 - [Egyptian Surveying & Mapping Engineering Bureau](https://risegeouae.ae/company/egyptian-surveying-and-mapping-engineering-bureau.html) | Land Surveyors | Cairo, Egypt | no website listed
+- [El Emlak Surveying](https://risegeouae.ae/company/el-emlak-surveying.html) | Land Surveyors | Cairo, Egypt | no website listed
+- [TSO Total Surveying Office](https://risegeouae.ae/company/tso-total-surveying-office.html) | Land Surveyors | Cairo, Egypt | https://total-surveying.com
 - [A & D Survey Consult Limited](https://risegeouae.ae/company/a-and-d-survey-consult-limited.html) | Topographic Surveyors | Ghana | no website listed
 - [Axis Drone Surveys](https://risegeouae.ae/company/axis-drone-surveys.html) | Drone Survey & Mapping Companies | Accra, Ghana | https://www.axisdronesurveys.com
+- [Drone Hub Ghana](https://risegeouae.ae/company/drone-hub-ghana.html) | Drone Survey & Mapping Companies | Accra, Ghana | http://www.dronehubgh.com/
 - [Geo-Tech Surveys Limited](https://risegeouae.ae/company/geo-tech-surveys-limited.html) | Land Surveyors | Accra, Ghana | no website listed
+- [GeoQode Ghana](https://risegeouae.ae/company/geoqode-ghana.html) | GIS Consultants | Accra, Ghana | https://geoqode.com/contact
+- [BEPST – Bureau d'Etude et de Prestation des Services Topographiques](https://risegeouae.ae/company/bepst-bureau-d-etude-et-de-prestation-des-services-topographiques.html) | Topographic Surveyors | Conakry, Guinea | no website listed
+- [BET – Bureau d'Etudes Topographiques](https://risegeouae.ae/company/bet-bureau-d-etudes-topographiques.html) | Topographic Surveyors | Conakry, Guinea | no website listed
+- [BETEC – Bureau d'Etude des Travaux Topographiques, Cartographiques et de Construction](https://risegeouae.ae/company/betec-bureau-d-etude-des-travaux-topographiques-cartographiques-et-de-construction.html) | Topographic Surveyors | Conakry, Guinea | no website listed
 - [BTT – Bureau des Travaux Topographiques](https://risegeouae.ae/company/btt-bureau-des-travaux-topographiques.html) | Land Surveyors | Conakry, Guinea | no website listed
+- [Bureau d'Etudes Contrôle et Exécution des Travaux de Topographies](https://risegeouae.ae/company/bureau-d-etudes-contr-le-et-ex-cution-des-travaux-de-topographies.html) | Topographic Surveyors | Conakry, Guinea | no website listed
 - [Cabinet Komah Betec](https://risegeouae.ae/company/cabinet-komah-betec.html) | Topographic Surveyors | Conakry, Guinea | no website listed
 - [CAGEOFI – Cabinet Alpha d'Aéro-Géodésie du Foncier et d'Ingénierie](https://risegeouae.ae/company/cageofi-cabinet-alpha-d-a-ro-g-od-sie-du-foncier-et-d-ing-nierie.html) | Aerial Survey & Photogrammetry Companies | Conakry, Guinea | no website listed
 - [CETT – Cabinet d'Etudes et des Travaux Topographiques](https://risegeouae.ae/company/cett-cabinet-d-etudes-et-des-travaux-topographiques.html) | Land Surveyors | Conakry, Guinea | no website listed
@@ -458,8 +545,14 @@
 - [Geo Ingénierie Services](https://risegeouae.ae/company/geo-ing-nierie-services.html) | Topographic Surveyors | Conakry, Guinea | no website listed
 - [GPS-Topographie](https://risegeouae.ae/company/gps-topographie.html) | Topographic Surveyors | Kamsar, Guinea | no website listed
 - [LEEG](https://risegeouae.ae/company/leeg.html) | Topographic Surveyors | Conakry, Guinea | no website listed
+- [SOGUITEG – Société Guinéenne de Topographie et d'Entreprise Générale](https://risegeouae.ae/company/soguiteg-soci-t-guin-enne-de-topographie-et-d-entreprise-g-n-rale.html) | Topographic Surveyors | Conakry, Guinea | no website listed
+- [Topographie Ingénierie Guinée](https://risegeouae.ae/company/topographie-ing-nierie-guin-e.html) | Topographic Surveyors | Conakry, Guinea | no website listed
 - [Tropic Plus](https://risegeouae.ae/company/tropic-plus.html) | Topographic Surveyors | Kamsar, Guinea | no website listed
 - [Wonkifong BTP Multiservices](https://risegeouae.ae/company/wonkifong-btp-multiservices.html) | Land Surveyors | Coyah, Guinea | no website listed
+- [Carta](https://risegeouae.ae/company/carta.html) | Mapping & Cartography Services | Jerusalem, Israel | https://carta.co.il/
+- [Hetz Hazafon Mapping & Engineering Ltd](https://risegeouae.ae/company/hetz-hazafon-mapping-and-engineering-ltd.html) | Aerial Survey & Photogrammetry Companies | Tirat Carmel, Israel | http://www.hetz-hazafon.co.il/english
+- [Orgad Maps](https://risegeouae.ae/company/orgad-maps.html) | Mapping & Cartography Services | Tel Aviv, Israel | https://orgadmaps.co.il/
+- [Simplex Mapping](https://risegeouae.ae/company/simplex-mapping.html) | Aerial Survey & Photogrammetry Companies | Herzliya, Israel | https://www.simplex-mapping.com/
 - [Astral Aerial Solutions](https://risegeouae.ae/company/astral-aerial-solutions.html) | Drone Survey & Mapping Companies | Nairobi, Kenya | https://astral-aerial.com
 - [Beam Positioning Systems Surveyors](https://risegeouae.ae/company/beam-positioning-systems-surveyors.html) | Topographic Surveyors | Nairobi, Kenya | no website listed
 - [Geo-Cart Surveys & Engineering Ltd](https://risegeouae.ae/company/geo-cart-surveys-and-engineering-ltd.html) | Drone Survey & Mapping Companies | Nairobi, Kenya | no website listed
@@ -475,7 +568,18 @@
 - [DERKS Surveying Solutions (DSS)](https://risegeouae.ae/company/derks-surveying-solutions-dss.html) | Land Surveyors | Monrovia, Liberia | no website listed
 - [Artemis Topo](https://risegeouae.ae/company/artemis-topo.html) | Topographic Surveyors | Antananarivo, Madagascar | no website listed
 - [Build Sight Topo](https://risegeouae.ae/company/build-sight-topo.html) | Topographic Surveyors | Antananarivo, Madagascar | no website listed
+- [ILS Ingénierie Océan Indien](https://risegeouae.ae/company/ils-ing-nierie-oc-an-indien.html) | Topographic Surveyors | Antananarivo, Madagascar | no website listed
 - [Sary Tany (Sintegra)](https://risegeouae.ae/company/sary-tany-sintegra.html) | Aerial Survey & Photogrammetry Companies | Antananarivo, Madagascar | http://sarytany.sintegra.fr
+- [2a Survey](https://risegeouae.ae/company/2a-survey.html) | Land Surveyors | Tiznit, Morocco | no website listed
+- [3c Ingenierie](https://risegeouae.ae/company/3c-ingenierie.html) | Land Surveyors | Guelmim, Morocco | no website listed
+- [4d Survey](https://risegeouae.ae/company/4d-survey.html) | Land Surveyors | Mohammedia, Morocco | no website listed
+- [Abbi Topo](https://risegeouae.ae/company/abbi-topo.html) | Land Surveyors | Casablanca, Morocco | no website listed
+- [Adam De Topographie](https://risegeouae.ae/company/adam-de-topographie.html) | Land Surveyors | Casablanca, Morocco | no website listed
+- [Adetop](https://risegeouae.ae/company/adetop.html) | Land Surveyors | Ouarzazate, Morocco | no website listed
+- [Aerodelta](https://risegeouae.ae/company/aerodelta.html) | Land Surveyors | Casablanca, Morocco | no website listed
+- [Afak De La Topographie](https://risegeouae.ae/company/afak-de-la-topographie.html) | Land Surveyors | Marrakech, Morocco | no website listed
+- [Afra Top](https://risegeouae.ae/company/afra-top.html) | Land Surveyors | Guelmim, Morocco | no website listed
+- [Afric Topo Ingenierie](https://risegeouae.ae/company/afric-topo-ingenierie.html) | Land Surveyors | Rabat, Morocco | no website listed
 - [Ahmed Jalal (topographe)](https://risegeouae.ae/company/ahmed-jalal-topographe.html) | Cadastral & Boundary Surveyors | Rabat, Morocco | no website listed
 - [Medsurvey](https://risegeouae.ae/company/medsurvey.html) | Hydrographic & Bathymetric Surveys | Casablanca, Morocco | no website listed
 - [Aerialdrones Technologies](https://risegeouae.ae/company/aerialdrones-technologies.html) | Drone Survey & Mapping Companies | Enugu, Nigeria | no website listed
@@ -489,6 +593,7 @@
 - [Eagle Eye Geographics](https://risegeouae.ae/company/eagle-eye-geographics.html) | Land Surveyors | Jos, Nigeria | no website listed
 - [Geo-Rinox Consults](https://risegeouae.ae/company/geo-rinox-consults.html) | GIS Consultants | Ibadan, Nigeria | no website listed
 - [Geoinfotech](https://risegeouae.ae/company/geoinfotech.html) | Drone Survey & Mapping Companies | Lagos, Nigeria | no website listed
+- [Geospatial Data Solutions Ltd](https://risegeouae.ae/company/geospatial-data-solutions-ltd.html) | GIS Consultants | Lagos, Nigeria | https://geospatialsolutionsng.com/
 - [GISPlus Connect](https://risegeouae.ae/company/gisplus-connect.html) | GIS Consultants | Akure, Nigeria | no website listed
 - [Interspatial Technologies](https://risegeouae.ae/company/interspatial-technologies.html) | Drone Survey & Mapping Companies | Lagos, Nigeria | no website listed
 - [Ishaq Surveys and Mapping Services](https://risegeouae.ae/company/ishaq-surveys-and-mapping-services.html) | GIS Consultants | Minna, Nigeria | no website listed
@@ -500,16 +605,24 @@
 - [Vestnergy Global](https://risegeouae.ae/company/vestnergy-global.html) | Drone Survey & Mapping Companies | Lagos, Nigeria | no website listed
 - [Wisdom Surveys & Consultancy](https://risegeouae.ae/company/wisdom-surveys-and-consultancy.html) | Land Surveyors | Lagos, Nigeria | no website listed
 - [BIM Design LLC](https://risegeouae.ae/company/bim-design-llc.html) | BIM Modelling & Coordination Services | Doha, Qatar | https://www.bimdesignllc.com
+- [Fugro Peninsular Services WLL](https://risegeouae.ae/company/fugro-peninsular-services-wll.html) | Hydrographic & Bathymetric Surveys | Doha, Qatar | no website listed
+- [Gridscan WLL](https://risegeouae.ae/company/gridscan-wll.html) | Hydrographic & Bathymetric Surveys | Doha, Qatar | no website listed
+- [Marisol Qatar](https://risegeouae.ae/company/marisol-qatar.html) | Hydrographic & Bathymetric Surveys | Doha, Qatar | no website listed
 - [Surtech Middle East Technology](https://risegeouae.ae/company/surtech-middle-east-technology.html) | Aerial Survey & Photogrammetry Companies | Doha, Qatar | no website listed
 - [Aerial Imaging Saudi Arabia (AISA)](https://risegeouae.ae/company/aerial-imaging-saudi-arabia-aisa.html) | Drone Survey & Mapping Companies | Saudi Arabia | no website listed
 - [Al Qotr Surveying Company](https://risegeouae.ae/company/al-qotr-surveying-company.html) | Land Surveyors | Saudi Arabia | no website listed
+- [Al-Tatwir Ultiknia](https://risegeouae.ae/company/al-tatwir-ultiknia.html) | Land Surveyors | Riyadh, Saudi Arabia | https://ttgeo.sa
 - [Arabian Space Imaging](https://risegeouae.ae/company/arabian-space-imaging.html) | Satellite Imagery Providers | Saudi Arabia | no website listed
 - [GeoCodes](https://risegeouae.ae/company/geocodes.html) | Topographic Surveyors | Riyadh, Saudi Arabia | https://geocodesltd.com
+- [Geospatial Solutions](https://risegeouae.ae/company/geospatial-solutions.html) | Land Surveyors | Riyadh, Saudi Arabia | https://gsolutions.com.sa
 - [GeoSystems](https://risegeouae.ae/company/geosystems.html) | Topographic Surveyors | Tabuk, Saudi Arabia | https://www.geosystems.tech
+- [KSA Land Surveyors](https://risegeouae.ae/company/ksa-land-surveyors.html) | Land Surveyors | Al Jubail, Saudi Arabia | https://ksalandsurveyors.com
+- [Land Measurement Office](https://risegeouae.ae/company/land-measurement-office.html) | Land Surveyors | Taif, Saudi Arabia | https://saudilandsurvey.com
 - [Neo Space Group](https://risegeouae.ae/company/neo-space-group.html) | Geodetic & GNSS Survey Services | Riyadh, Saudi Arabia | https://neospacegroup.com
 - [Precision Geospatial Engineering Consultancy](https://risegeouae.ae/company/precision-geospatial-engineering-consultancy.html) | Land Surveyors | Saudi Arabia | no website listed
 - [SARsatX](https://risegeouae.ae/company/sarsatx.html) | Satellite Imagery Providers | Jeddah, Saudi Arabia | https://sarsatx.com
 - [Terra Drone Arabia](https://risegeouae.ae/company/terra-drone-arabia.html) | Drone Survey & Mapping Companies | Riyadh, Saudi Arabia | https://terra-drone.com.sa
+- [Nova Technologies](https://risegeouae.ae/company/nova-technologies.html) | GIS Consultants | Mogadishu, Somalia | no website listed
 - [AAM (a Woolpert company)](https://risegeouae.ae/company/aam-a-woolpert-company.html) | Drone Survey & Mapping Companies | Johannesburg, South Africa | no website listed
 - [African Consulting Surveyors](https://risegeouae.ae/company/african-consulting-surveyors.html) | Land Surveyors | Cape Town, South Africa | http://www.africansurveyors.com
 - [Align Survey](https://risegeouae.ae/company/align-survey.html) | Topographic Surveyors | Durban, South Africa | no website listed
@@ -529,24 +642,45 @@
 - [Ramani Geosystems Ltd](https://risegeouae.ae/company/ramani-geosystems-ltd.html) | Land Surveyors | Kampala, Uganda | no website listed
 - [ABC Surveys](https://risegeouae.ae/company/abc-surveys.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
 - [Accurate Point Survey Services](https://risegeouae.ae/company/accurate-point-survey-services.html) | Land Surveyors | Dubai, United Arab Emirates | https://accuratepoint-ae.com
+- [Accurate Survey Engineering](https://risegeouae.ae/company/accurate-survey-engineering.html) | Land Surveyors | Sharjah, United Arab Emirates | no website listed
 - [Advenser](https://risegeouae.ae/company/advenser.html) | BIM Modelling & Coordination Services | Dubai, United Arab Emirates | https://www.advenser.ae
+- [Al Amana Engineering Services](https://risegeouae.ae/company/al-amana-engineering-services.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
+- [Al Hai and Al Mukkaddam for Geotechnical Works LLC](https://risegeouae.ae/company/al-hai-and-al-mukkaddam-for-geotechnical-works-llc.html) | Geophysical & Geotechnical Surveys | Jebel Ali, United Arab Emirates | no website listed
+- [Al Jazeera Topographic & Hydro Surveys](https://risegeouae.ae/company/al-jazeera-topographic-and-hydro-surveys.html) | Topographic Surveyors | Sharjah, United Arab Emirates | no website listed
+- [Al Nujoom Al Khamsa Survey](https://risegeouae.ae/company/al-nujoom-al-khamsa-survey.html) | Land Surveyors | Fujairah, United Arab Emirates | no website listed
+- [Al Warqa Surveying Engineering](https://risegeouae.ae/company/al-warqa-surveying-engineering.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
 - [Al Yamama Real Estate Survey Services](https://risegeouae.ae/company/al-yamama-real-estate-survey-services.html) | Land Surveyors | Dubai, United Arab Emirates | https://alyamama-uae.com
 - [Alwarqa Survey Engineering](https://risegeouae.ae/company/alwarqa-survey-engineering.html) | Land Surveyors | Dubai, United Arab Emirates | https://www.alwarqasurvey.com
+- [ARD Geographics LLC](https://risegeouae.ae/company/ard-geographics-llc.html) | Land Surveyors | Sharjah, United Arab Emirates | no website listed
 - [Bazilt Real Estate Survey Services](https://risegeouae.ae/company/bazilt-real-estate-survey-services.html) | Land Surveyors | Dubai, United Arab Emirates | https://www.baziltsurvey.com
 - [Beehive Engineering Consultancy](https://risegeouae.ae/company/beehive-engineering-consultancy.html) | Land Surveyors | Abu Dhabi, United Arab Emirates | no website listed
 - [BIM Middle East](https://risegeouae.ae/company/bim-middle-east.html) | Scan-to-BIM Services | Dubai, United Arab Emirates | https://www.bim-middleeast.com
+- [Bin Salman Survey Engineering](https://risegeouae.ae/company/bin-salman-survey-engineering.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
 - [Canadian Geo Parkland](https://risegeouae.ae/company/canadian-geo-parkland.html) | Topographic Surveyors | Abu Dhabi, United Arab Emirates | no website listed
 - [Capital Surveys](https://risegeouae.ae/company/capital-surveys.html) | Land Surveyors | Abu Dhabi, United Arab Emirates | no website listed
+- [CGG (Compagnie Générale de Géophysique) Jebel Ali](https://risegeouae.ae/company/cgg-compagnie-g-n-rale-de-g-ophysique-jebel-ali.html) | Geophysical & Geotechnical Surveys | Jebel Ali, United Arab Emirates | no website listed
 - [Conserve Technical Services](https://risegeouae.ae/company/conserve-technical-services.html) | BIM Modelling & Coordination Services | Dubai, United Arab Emirates | no website listed
 - [Digital Reality](https://risegeouae.ae/company/digital-reality.html) | Land Surveyors | Dubai, United Arab Emirates | https://www.drc.co
+- [Elite Survey Services](https://risegeouae.ae/company/elite-survey-services.html) | Land Surveyors | Abu Dhabi, United Arab Emirates | no website listed
 - [Emarat Survey Services](https://risegeouae.ae/company/emarat-survey-services.html) | Land Surveyors | Dubai, United Arab Emirates | http://www.emaratsurvey.com
+- [Emirates Nortech Surveys LLC](https://risegeouae.ae/company/emirates-nortech-surveys-llc.html) | Land Surveyors | Sharjah, United Arab Emirates | no website listed
 - [Engisoft Engineering](https://risegeouae.ae/company/engisoft-engineering.html) | BIM Modelling & Coordination Services | Dubai, United Arab Emirates | https://engisoftengineering.com
 - [Falcon Geomatics](https://risegeouae.ae/company/falcon-geomatics.html) | Topographic Surveyors | Dubai, United Arab Emirates | https://falconsurveyme.com
+- [Falcon Survey Engineering Consultants](https://risegeouae.ae/company/falcon-survey-engineering-consultants.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
+- [Fugro Middle East](https://risegeouae.ae/company/fugro-middle-east.html) | Land Surveyors | Dubai, United Arab Emirates | https://www.fugro.com
+- [Fujian Survey and Geo Research](https://risegeouae.ae/company/fujian-survey-and-geo-research.html) | Land Surveyors | Abu Dhabi, United Arab Emirates | no website listed
+- [Geodesy Surveying Engineering LLC](https://risegeouae.ae/company/geodesy-surveying-engineering-llc.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
 - [Geoestate Survey Services](https://risegeouae.ae/company/geoestate-survey-services.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
 - [Geoimage Survey](https://risegeouae.ae/company/geoimage-survey.html) | Land Surveyors | Dubai, United Arab Emirates | http://www.geoimagedubai.com
+- [Geomatics Survey](https://risegeouae.ae/company/geomatics-survey.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
+- [GEOTECH 3D Scanning & Surveying](https://risegeouae.ae/company/geotech-3d-scanning-and-surveying.html) | 3D Laser Scanning Services | Dubai, United Arab Emirates | no website listed
+- [Geoworks Arabia Limited](https://risegeouae.ae/company/geoworks-arabia-limited.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
 - [Global Maps Survey Services](https://risegeouae.ae/company/global-maps-survey-services.html) | Topographic Surveyors | Abu Dhabi, United Arab Emirates | no website listed
 - [Hectare Real Estate Survey Services](https://risegeouae.ae/company/hectare-real-estate-survey-services.html) | Land Surveyors | Dubai, United Arab Emirates | https://www.hectareuae.com
+- [Landmark Survey](https://risegeouae.ae/company/landmark-survey.html) | Land Surveyors | Abu Dhabi, United Arab Emirates | no website listed
+- [Lonestar Technical and Industrial Services LLC](https://risegeouae.ae/company/lonestar-technical-and-industrial-services-llc.html) | Land Surveyors | Abu Dhabi, United Arab Emirates | no website listed
 - [Lonestar Technical Services](https://risegeouae.ae/company/lonestar-technical-services.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
+- [Lyca Surveying Engineering Services LLC](https://risegeouae.ae/company/lyca-surveying-engineering-services-llc.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
 - [Middle East Survey Engineering](https://risegeouae.ae/company/middle-east-survey-engineering.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
 - [Northern Engineering Surveys (NES)](https://risegeouae.ae/company/northern-engineering-surveys-nes.html) | Land Surveyors | Dubai, United Arab Emirates | https://nesdubai.com
 - [Orbit International Survey Services](https://risegeouae.ae/company/orbit-international-survey-services.html) | Topographic Surveyors | Sharjah, United Arab Emirates | no website listed
@@ -557,41 +691,36 @@
 - [Siteview Real Estate Survey Services](https://risegeouae.ae/company/siteview-real-estate-survey-services.html) | Land Surveyors | Dubai, United Arab Emirates | https://siteviewsurvey.com
 - [Space Imaging Middle East (SIME)](https://risegeouae.ae/company/space-imaging-middle-east-sime.html) | Satellite Imagery Providers | Dubai, United Arab Emirates | https://www.spaceimagingme.com
 - [Space42 (formerly Bayanat)](https://risegeouae.ae/company/space42-formerly-bayanat.html) | Location Intelligence & GeoAI Companies | Abu Dhabi, United Arab Emirates | https://space42.ai
+- [Takhteet Survey](https://risegeouae.ae/company/takhteet-survey.html) | Land Surveyors | Sharjah, United Arab Emirates | no website listed
 - [The Arabian Surveying Engineering](https://risegeouae.ae/company/the-arabian-surveying-engineering.html) | Land Surveyors | Dubai, United Arab Emirates | no website listed
 - [Ultimate Accuracy Surveying Engineering Services](https://risegeouae.ae/company/ultimate-accuracy-surveying-engineering-services.html) | Topographic Surveyors | Dubai, United Arab Emirates | no website listed
 - [XS CAD](https://risegeouae.ae/company/xs-cad.html) | BIM Modelling & Coordination Services | Dubai, United Arab Emirates | https://www.xscad.com
-- [Atlas-GIS Sarl](https://risegeouae.ae/company/atlas-gis-sarl.html) | GIS Consultants | Cotonou, Benin | no website listed
-- [BETRET – Bureau d'Etude Technique et Réalisation des Travaux Topographiques](https://risegeouae.ae/company/betret-bureau-d-etude-technique-et-r-alisation-des-travaux-topographiques.html) | Topographic Surveyors | Cotonou, Benin | no website listed
-- [Ets Arc-en-Ciel Topo](https://risegeouae.ae/company/ets-arc-en-ciel-topo.html) | Land Surveyors | Cotonou, Benin | no website listed
-- [Service Topo](https://risegeouae.ae/company/service-topo.html) | Land Surveyors | Ouidah, Benin | no website listed
-- [Topo-Star](https://risegeouae.ae/company/topo-star.html) | Land Surveyors | Cotonou, Benin | no website listed
-- [BEPST – Bureau d'Etude et de Prestation des Services Topographiques](https://risegeouae.ae/company/bepst-bureau-d-etude-et-de-prestation-des-services-topographiques.html) | Topographic Surveyors | Conakry, Guinea | no website listed
-- [BET – Bureau d'Etudes Topographiques](https://risegeouae.ae/company/bet-bureau-d-etudes-topographiques.html) | Topographic Surveyors | Conakry, Guinea | no website listed
-- [BETEC – Bureau d'Etude des Travaux Topographiques, Cartographiques et de Construction](https://risegeouae.ae/company/betec-bureau-d-etude-des-travaux-topographiques-cartographiques-et-de-construction.html) | Topographic Surveyors | Conakry, Guinea | no website listed
-- [Bureau d'Etudes Contrôle et Exécution des Travaux de Topographies](https://risegeouae.ae/company/bureau-d-etudes-contr-le-et-ex-cution-des-travaux-de-topographies.html) | Topographic Surveyors | Conakry, Guinea | no website listed
-- [SOGUITEG – Société Guinéenne de Topographie et d'Entreprise Générale](https://risegeouae.ae/company/soguiteg-soci-t-guin-enne-de-topographie-et-d-entreprise-g-n-rale.html) | Topographic Surveyors | Conakry, Guinea | no website listed
-- [Topographie Ingénierie Guinée](https://risegeouae.ae/company/topographie-ing-nierie-guin-e.html) | Topographic Surveyors | Conakry, Guinea | no website listed
-- [ILS Ingénierie Océan Indien](https://risegeouae.ae/company/ils-ing-nierie-oc-an-indien.html) | Topographic Surveyors | Antananarivo, Madagascar | no website listed
-- [2a Survey](https://risegeouae.ae/company/2a-survey.html) | Land Surveyors | Tiznit, Morocco | no website listed
-- [3c Ingenierie](https://risegeouae.ae/company/3c-ingenierie.html) | Land Surveyors | Guelmim, Morocco | no website listed
-- [4d Survey](https://risegeouae.ae/company/4d-survey.html) | Land Surveyors | Mohammedia, Morocco | no website listed
-- [Abbi Topo](https://risegeouae.ae/company/abbi-topo.html) | Land Surveyors | Casablanca, Morocco | no website listed
-- [Adam De Topographie](https://risegeouae.ae/company/adam-de-topographie.html) | Land Surveyors | Casablanca, Morocco | no website listed
-- [Adetop](https://risegeouae.ae/company/adetop.html) | Land Surveyors | Ouarzazate, Morocco | no website listed
-- [Aerodelta](https://risegeouae.ae/company/aerodelta.html) | Land Surveyors | Casablanca, Morocco | no website listed
-- [Afak De La Topographie](https://risegeouae.ae/company/afak-de-la-topographie.html) | Land Surveyors | Marrakech, Morocco | no website listed
-- [Afra Top](https://risegeouae.ae/company/afra-top.html) | Land Surveyors | Guelmim, Morocco | no website listed
-- [Afric Topo Ingenierie](https://risegeouae.ae/company/afric-topo-ingenierie.html) | Land Surveyors | Rabat, Morocco | no website listed
+- [Surveying Systems](https://risegeouae.ae/company/surveying-systems.html) | Land Surveyors | Egypt | no website listed
+- [Geodata Engineering Limited](https://risegeouae.ae/company/geodata-engineering-limited.html) | Land Surveyors | Ghana | no website listed
+- [Rudan Engineering Limited](https://risegeouae.ae/company/rudan-engineering-limited.html) | Land Surveyors | Ghana | no website listed
+- [Aseman Negar Tin Agricultural Engineering and Surveying Company](https://risegeouae.ae/company/aseman-negar-tin-agricultural-engineering-and-surveying-company.html) | Land Surveyors | Iran | no website listed
+- [ALBait ALIraqi for Engineering & Digital Maps](https://risegeouae.ae/company/albait-aliraqi-for-engineering-and-digital-maps.html) | Mapping & Cartography Services | Baghdad, Iraq | no website listed
+- [Map Group for Engineering Services Ltd](https://risegeouae.ae/company/map-group-for-engineering-services-ltd.html) | Land Surveyors | Iraq | no website listed
+- [MapCom Company](https://risegeouae.ae/company/mapcom-company.html) | Mapping & Cartography Services | Iraq | no website listed
+- [Agrimapic](https://risegeouae.ae/company/agrimapic.html) | Drone Survey & Mapping Companies | Holon, Israel | no website listed
+- [GeoDrones](https://risegeouae.ae/company/geodrones.html) | Drone Survey & Mapping Companies | Even Yehuda, Israel | no website listed
+- [Geophysical Institute of Israel (GII)](https://risegeouae.ae/company/geophysical-institute-of-israel-gii.html) | Geophysical & Geotechnical Surveys | Lod, Israel | no website listed
+- [Ofek Aerial Photography](https://risegeouae.ae/company/ofek-aerial-photography.html) | Aerial Survey & Photogrammetry Companies | Netanya, Israel | no website listed
+- [The Intel Lab](https://risegeouae.ae/company/the-intel-lab.html) | Satellite Image Analysis & Remote Sensing Services | Jerusalem, Israel | no website listed
+- [Cabinet Mekkaoui](https://risegeouae.ae/company/cabinet-mekkaoui.html) | Topographic Surveyors | Témara, Morocco | no website listed
+- [Les Associés Géomètres Topographes du Maroc (AGTM)](https://risegeouae.ae/company/les-associ-s-g-om-tres-topographes-du-maroc-agtm.html) | Topographic Surveyors | Mohammedia, Morocco | no website listed
+- [Maghreb Mapping](https://risegeouae.ae/company/maghreb-mapping.html) | Topographic Surveyors | Témara, Morocco | no website listed
+- [METIC](https://risegeouae.ae/company/metic.html) | Topographic Surveyors | Aït Melloul, Morocco | no website listed
+- [Sud Mapping](https://risegeouae.ae/company/sud-mapping.html) | Topographic Surveyors | Témara, Morocco | no website listed
+- [Topotec Ingénierie](https://risegeouae.ae/company/topotec-ing-nierie.html) | Topographic Surveyors | Casablanca, Morocco | no website listed
+- [Al Edari Engineering Services](https://risegeouae.ae/company/al-edari-engineering-services.html) | Land Surveyors | Doha, Qatar | no website listed
+- [Twozan Surveys](https://risegeouae.ae/company/twozan-surveys.html) | Land Surveyors | Saudi Arabia | no website listed
 - [Southern Mapping](https://risegeouae.ae/company/southern-mapping.html) | Drone Survey & Mapping Companies | Johannesburg, South Africa | https://www.southernmapping.com
+- [AZM Harita Jeoloji İnşaat](https://risegeouae.ae/company/azm-harita-jeoloji-i-n-aat.html) | Land Surveyors | Turkey | no website listed
+- [Sümer Harita (Sumer Map)](https://risegeouae.ae/company/s-mer-harita-sumer-map.html) | Mapping & Cartography Services | Turkey | no website listed
 - [Falcon Eye Drones](https://risegeouae.ae/company/falcon-eye-drones.html) | Drone Survey & Mapping Companies | Dubai, United Arab Emirates | https://www.falconeyedrones.com
-- [Fugro Middle East](https://risegeouae.ae/company/fugro-middle-east.html) | Land Surveyors | Dubai, United Arab Emirates | https://www.fugro.com
-- [Indepth Research Services](https://risegeouae.ae/company/indepth-research-services.html) | Training Centres | Nairobi, Kenya | https://www.indepthresearch.org
-- [Prince Sattam bin Abdulaziz University – Applied College](https://risegeouae.ae/company/prince-sattam-bin-abdulaziz-university-applied-college.html) | Universities (Surveying, GIS & Geomatics) | Al-Kharj, Saudi Arabia | https://www.psau.edu.sa
-- [École Supérieure de Génie Civil / Centre des Techniques Spatiales (CTS)](https://risegeouae.ae/company/cole-sup-rieure-de-g-nie-civil-centre-des-techniques-spatiales-cts.html) | Research Institutes | Arzew, Algeria | https://www.cts.asal.dz
 - [Arabian Gulf University](https://risegeouae.ae/company/arabian-gulf-university.html) | Universities (Surveying, GIS & Geomatics) | Manama, Bahrain | https://www.agu.edu.bh
 - [University of Bahrain](https://risegeouae.ae/company/university-of-bahrain.html) | Universities (Surveying, GIS & Geomatics) | Sakhir, Bahrain | https://www.uob.edu.bh
-- [University of Botswana – Environmental Science](https://risegeouae.ae/company/university-of-botswana-environmental-science.html) | Universities (Surveying, GIS & Geomatics) | Gaborone, Botswana | https://www.ub.bw
-- [Université Félix Houphouët-Boigny – CURAT](https://risegeouae.ae/company/universit-f-lix-houphou-t-boigny-curat.html) | Research Institutes | Abidjan, Côte d'Ivoire | https://www.univ-fhb.edu.ci
 - [Ain Shams University – Faculty of Engineering](https://risegeouae.ae/company/ain-shams-university-faculty-of-engineering.html) | Universities (Surveying, GIS & Geomatics) | Cairo, Egypt | https://www.asu.edu.eg
 - [Benha University – Shoubra Faculty of Engineering (Surveying Engineering)](https://risegeouae.ae/company/benha-university-shoubra-faculty-of-engineering-surveying-engineering.html) | Universities (Surveying, GIS & Geomatics) | Cairo, Egypt | https://bu.edu.eg
 - [Cairo University – Faculty of Engineering (Public Works / Surveying)](https://risegeouae.ae/company/cairo-university-faculty-of-engineering-public-works-surveying.html) | Universities (Surveying, GIS & Geomatics) | Giza, Egypt | https://cu.edu.eg
@@ -599,29 +728,25 @@
 - [Kwame Nkrumah University of Science and Technology – Geomatic Engineering](https://risegeouae.ae/company/kwame-nkrumah-university-of-science-and-technology-geomatic-engineering.html) | Universities (Surveying, GIS & Geomatics) | Kumasi, Ghana | https://www.knust.edu.gh
 - [University of Mines and Technology – Geomatic Engineering](https://risegeouae.ae/company/university-of-mines-and-technology-geomatic-engineering.html) | Universities (Surveying, GIS & Geomatics) | Tarkwa, Ghana | https://umat.edu.gh
 - [ESIYA – Ecole Supérieure d'Ingénierie de Yattaya](https://risegeouae.ae/company/esiya-ecole-sup-rieure-d-ing-nierie-de-yattaya.html) | Universities (Surveying, GIS & Geomatics) | Conakry, Guinea | no website listed
-- [K. N. Toosi University of Technology – Geodesy and Geomatics](https://risegeouae.ae/company/k-n-toosi-university-of-technology-geodesy-and-geomatics.html) | Universities (Surveying, GIS & Geomatics) | Tehran, Iran | https://www.kntu.ac.ir
-- [University of Tehran – Surveying and Geospatial Engineering](https://risegeouae.ae/company/university-of-tehran-surveying-and-geospatial-engineering.html) | Universities (Surveying, GIS & Geomatics) | Tehran, Iran | https://ut.ac.ir
 - [University of Baghdad – Surveying Engineering](https://risegeouae.ae/company/university-of-baghdad-surveying-engineering.html) | Universities (Surveying, GIS & Geomatics) | Baghdad, Iraq | https://uobaghdad.edu.iq
 - [Al-Balqa Applied University – Surveying and Geomatics Engineering](https://risegeouae.ae/company/al-balqa-applied-university-surveying-and-geomatics-engineering.html) | Universities (Surveying, GIS & Geomatics) | Salt, Jordan | https://www.bau.edu.jo
+- [Indepth Research Services](https://risegeouae.ae/company/indepth-research-services.html) | Training Centres | Nairobi, Kenya | https://www.indepthresearch.org
 - [Jomo Kenyatta University of Agriculture and Technology – Geomatic Engineering](https://risegeouae.ae/company/jomo-kenyatta-university-of-agriculture-and-technology-geomatic-engineering.html) | Universities (Surveying, GIS & Geomatics) | Juja, Kenya | https://www.jkuat.ac.ke
 - [Technical University of Kenya – Geospatial Engineering](https://risegeouae.ae/company/technical-university-of-kenya-geospatial-engineering.html) | Universities (Surveying, GIS & Geomatics) | Nairobi, Kenya | https://www.tukenya.ac.ke
 - [University of Nairobi – Geospatial and Space Technology](https://risegeouae.ae/company/university-of-nairobi-geospatial-and-space-technology.html) | Universities (Surveying, GIS & Geomatics) | Nairobi, Kenya | https://www.uonbi.ac.ke
-- [Kuwait University](https://risegeouae.ae/company/kuwait-university.html) | Universities (Surveying, GIS & Geomatics) | Kuwait City, Kuwait | https://www.ku.edu.kw
 - [American University of Beirut](https://risegeouae.ae/company/american-university-of-beirut.html) | Research Institutes | Beirut, Lebanon | https://www.aub.edu.lb
 - [Institut Agronomique et Vétérinaire Hassan II – School of Geomatic Sciences](https://risegeouae.ae/company/institut-agronomique-et-v-t-rinaire-hassan-ii-school-of-geomatic-sciences.html) | Universities (Surveying, GIS & Geomatics) | Rabat, Morocco | https://www.iav.ac.ma
-- [Eduardo Mondlane University](https://risegeouae.ae/company/eduardo-mondlane-university.html) | Universities (Surveying, GIS & Geomatics) | Maputo, Mozambique | https://www.uem.mz
 - [Namibia University of Science and Technology – Land and Spatial Sciences](https://risegeouae.ae/company/namibia-university-of-science-and-technology-land-and-spatial-sciences.html) | Universities (Surveying, GIS & Geomatics) | Windhoek, Namibia | https://www.nust.na
 - [AFRIGIST (formerly RECTAS)](https://risegeouae.ae/company/afrigist-formerly-rectas.html) | Universities (Surveying, GIS & Geomatics) | Ile-Ife, Nigeria | https://afrigist.org
-- [Federal School of Surveying, Oyo](https://risegeouae.ae/company/federal-school-of-surveying-oyo.html) | Universities (Surveying, GIS & Geomatics) | Oyo, Nigeria | no website listed
 - [Federal University of Technology Minna – Surveying and Geoinformatics](https://risegeouae.ae/company/federal-university-of-technology-minna-surveying-and-geoinformatics.html) | Universities (Surveying, GIS & Geomatics) | Minna, Nigeria | https://futminna.edu.ng
 - [University of Lagos – Surveying and Geoinformatics](https://risegeouae.ae/company/university-of-lagos-surveying-and-geoinformatics.html) | Universities (Surveying, GIS & Geomatics) | Lagos, Nigeria | https://unilag.edu.ng
 - [Sultan Qaboos University](https://risegeouae.ae/company/sultan-qaboos-university.html) | Universities (Surveying, GIS & Geomatics) | Muscat, Oman | https://www.squ.edu.om
 - [An-Najah National University – Geomatics and Aerial Surveying](https://risegeouae.ae/company/an-najah-national-university-geomatics-and-aerial-surveying.html) | Universities (Surveying, GIS & Geomatics) | Nablus, Palestine | https://www.najah.edu
 - [Qatar University](https://risegeouae.ae/company/qatar-university.html) | Universities (Surveying, GIS & Geomatics) | Doha, Qatar | https://www.qu.edu.qa
-- [University of Rwanda – Surveying and Geomatics Engineering / CGIS](https://risegeouae.ae/company/university-of-rwanda-surveying-and-geomatics-engineering-cgis.html) | Universities (Surveying, GIS & Geomatics) | Kigali, Rwanda | https://ur.ac.rw
 - [Imam Abdulrahman Bin Faisal University](https://risegeouae.ae/company/imam-abdulrahman-bin-faisal-university.html) | Universities (Surveying, GIS & Geomatics) | Dammam, Saudi Arabia | https://www.iau.edu.sa
 - [King Abdulaziz University – Geomatics Department](https://risegeouae.ae/company/king-abdulaziz-university-geomatics-department.html) | Universities (Surveying, GIS & Geomatics) | Jeddah, Saudi Arabia | https://www.kau.edu.sa
 - [King Saud University – Civil Engineering (Surveying)](https://risegeouae.ae/company/king-saud-university-civil-engineering-surveying.html) | Universities (Surveying, GIS & Geomatics) | Riyadh, Saudi Arabia | https://www.ksu.edu.sa
+- [Prince Sattam bin Abdulaziz University – Applied College](https://risegeouae.ae/company/prince-sattam-bin-abdulaziz-university-applied-college.html) | Universities (Surveying, GIS & Geomatics) | Al-Kharj, Saudi Arabia | https://www.psau.edu.sa
 - [Université Cheikh Anta Diop](https://risegeouae.ae/company/universit-cheikh-anta-diop.html) | Universities (Surveying, GIS & Geomatics) | Dakar, Senegal | https://www.ucad.sn
 - [Stellenbosch University – Geography and Environmental Studies](https://risegeouae.ae/company/stellenbosch-university-geography-and-environmental-studies.html) | Universities (Surveying, GIS & Geomatics) | Stellenbosch, South Africa | https://www.sun.ac.za
 - [Tshwane University of Technology – Geomatics](https://risegeouae.ae/company/tshwane-university-of-technology-geomatics.html) | Universities (Surveying, GIS & Geomatics) | Pretoria, South Africa | https://www.tut.ac.za
@@ -629,7 +754,6 @@
 - [University of KwaZulu-Natal – Land Surveying](https://risegeouae.ae/company/university-of-kwazulu-natal-land-surveying.html) | Universities (Surveying, GIS & Geomatics) | Durban, South Africa | https://ukzn.ac.za
 - [University of Pretoria – Geography, Geoinformatics and Meteorology](https://risegeouae.ae/company/university-of-pretoria-geography-geoinformatics-and-meteorology.html) | Universities (Surveying, GIS & Geomatics) | Pretoria, South Africa | https://www.up.ac.za
 - [Ardhi University](https://risegeouae.ae/company/ardhi-university.html) | Universities (Surveying, GIS & Geomatics) | Dar es Salaam, Tanzania | https://www.aru.ac.tz
-- [University of Carthage – École Supérieure des Ingénieurs de l'Équipement Rural](https://risegeouae.ae/company/university-of-carthage-cole-sup-rieure-des-ing-nieurs-de-l-quipement-rural.html) | Universities (Surveying, GIS & Geomatics) | Medjez el Bab, Tunisia | https://www.ucar.rnu.tn
 - [Istanbul Technical University – Geomatics Engineering](https://risegeouae.ae/company/istanbul-technical-university-geomatics-engineering.html) | Universities (Surveying, GIS & Geomatics) | Istanbul, Turkey | https://www.itu.edu.tr
 - [Yildiz Technical University – Geomatic Engineering](https://risegeouae.ae/company/yildiz-technical-university-geomatic-engineering.html) | Universities (Surveying, GIS & Geomatics) | Istanbul, Turkey | https://www.yildiz.edu.tr
 - [Makerere University – Geomatics and Land Management](https://risegeouae.ae/company/makerere-university-geomatics-and-land-management.html) | Universities (Surveying, GIS & Geomatics) | Kampala, Uganda | https://www.mak.ac.ug
@@ -637,84 +761,240 @@
 - [UAE University – Geography and Urban Sustainability](https://risegeouae.ae/company/uae-university-geography-and-urban-sustainability.html) | Universities (Surveying, GIS & Geomatics) | Al Ain, United Arab Emirates | https://www.uaeu.ac.ae
 - [University of Sharjah](https://risegeouae.ae/company/university-of-sharjah.html) | Universities (Surveying, GIS & Geomatics) | Sharjah, United Arab Emirates | https://www.sharjah.ac.ae
 - [University of Zambia – Geomatic Engineering](https://risegeouae.ae/company/university-of-zambia-geomatic-engineering.html) | Universities (Surveying, GIS & Geomatics) | Lusaka, Zambia | https://www.unza.zm
+- [École Supérieure de Génie Civil / Centre des Techniques Spatiales (CTS)](https://risegeouae.ae/company/cole-sup-rieure-de-g-nie-civil-centre-des-techniques-spatiales-cts.html) | Research Institutes | Arzew, Algeria | https://www.cts.asal.dz
+- [University of Botswana – Environmental Science](https://risegeouae.ae/company/university-of-botswana-environmental-science.html) | Universities (Surveying, GIS & Geomatics) | Gaborone, Botswana | https://www.ub.bw
+- [Université Félix Houphouët-Boigny – CURAT](https://risegeouae.ae/company/universit-f-lix-houphou-t-boigny-curat.html) | Research Institutes | Abidjan, Côte d'Ivoire | https://www.univ-fhb.edu.ci
+- [K. N. Toosi University of Technology – Geodesy and Geomatics](https://risegeouae.ae/company/k-n-toosi-university-of-technology-geodesy-and-geomatics.html) | Universities (Surveying, GIS & Geomatics) | Tehran, Iran | https://www.kntu.ac.ir
+- [University of Tehran – Surveying and Geospatial Engineering](https://risegeouae.ae/company/university-of-tehran-surveying-and-geospatial-engineering.html) | Universities (Surveying, GIS & Geomatics) | Tehran, Iran | https://ut.ac.ir
+- [Kuwait University](https://risegeouae.ae/company/kuwait-university.html) | Universities (Surveying, GIS & Geomatics) | Kuwait City, Kuwait | https://www.ku.edu.kw
+- [Eduardo Mondlane University](https://risegeouae.ae/company/eduardo-mondlane-university.html) | Universities (Surveying, GIS & Geomatics) | Maputo, Mozambique | https://www.uem.mz
+- [Federal School of Surveying, Oyo](https://risegeouae.ae/company/federal-school-of-surveying-oyo.html) | Universities (Surveying, GIS & Geomatics) | Oyo, Nigeria | no website listed
+- [University of Rwanda – Surveying and Geomatics Engineering / CGIS](https://risegeouae.ae/company/university-of-rwanda-surveying-and-geomatics-engineering-cgis.html) | Universities (Surveying, GIS & Geomatics) | Kigali, Rwanda | https://ur.ac.rw
+- [University of Carthage – École Supérieure des Ingénieurs de l'Équipement Rural](https://risegeouae.ae/company/university-of-carthage-cole-sup-rieure-des-ing-nieurs-de-l-quipement-rural.html) | Universities (Surveying, GIS & Geomatics) | Medjez el Bab, Tunisia | https://www.ucar.rnu.tn
 - [University of Zimbabwe – Geomatics](https://risegeouae.ae/company/university-of-zimbabwe-geomatics.html) | Universities (Surveying, GIS & Geomatics) | Harare, Zimbabwe | https://www.uz.ac.zw
-- [Department of Lands and Surveys (Cyprus) – Survey Sector](https://risegeouae.ae/company/department-of-lands-and-surveys-cyprus-survey-sector.html) | National Mapping & Survey Agencies | Nicosia, Cyprus | https://portal.dls.moi.gov.cy
-- [Surveyor General's Department (Eswatini)](https://risegeouae.ae/company/surveyor-general-s-department-eswatini.html) | National Mapping & Survey Agencies | Mbabane, Eswatini | https://www.gov.sz
-- [Department of Surveys (Malawi)](https://risegeouae.ae/company/department-of-surveys-malawi.html) | National Mapping & Survey Agencies | Lilongwe, Malawi | https://lands.gov.mw
-- [Abuja Geographic Information Systems (AGIS)](https://risegeouae.ae/company/abuja-geographic-information-systems-agis.html) | Municipal GIS Departments | Abuja, Nigeria | no website listed
-- [Nasarawa Geographic Information Service (NAGIS)](https://risegeouae.ae/company/nasarawa-geographic-information-service-nagis.html) | Municipal GIS Departments | Lafia, Nigeria | no website listed
-- [Niger State Geographic Information System (NIGIS)](https://risegeouae.ae/company/niger-state-geographic-information-system-nigis.html) | Municipal GIS Departments | Minna, Nigeria | no website listed
-- [General Authority for Survey and Geospatial Information (GEOSA)](https://risegeouae.ae/company/general-authority-for-survey-and-geospatial-information-geosa.html) | National Mapping & Survey Agencies | Riyadh, Saudi Arabia | https://geosa.gov.sa
-- [Saudi Geological Survey](https://risegeouae.ae/company/saudi-geological-survey.html) | Geological Surveys | Jeddah, Saudi Arabia | https://sgs.gov.sa
-- [Dubai Land Department](https://risegeouae.ae/company/dubai-land-department.html) | Land Registries & Cadastre Authorities | Dubai, United Arab Emirates | https://dubailand.gov.ae
-- [Dubai Municipality GIS Centre](https://risegeouae.ae/company/dubai-municipality-gis-centre.html) | Municipal GIS Departments | Dubai, United Arab Emirates | https://www.dm.gov.ae
-- [Mohammed Bin Rashid Space Centre (MBRSC)](https://risegeouae.ae/company/mohammed-bin-rashid-space-centre-mbrsc.html) | Space Agencies | Dubai, United Arab Emirates | https://www.mbrsc.ae
-- [UAE Space Agency](https://risegeouae.ae/company/uae-space-agency.html) | Space Agencies | Abu Dhabi, United Arab Emirates | https://space.gov.ae
 - [Agence Spatiale Algérienne (ASAL)](https://risegeouae.ae/company/agence-spatiale-alg-rienne-asal.html) | Space Agencies | Algiers, Algeria | https://www.asal.dz
 - [Institut National de Cartographie et de Télédétection (INCT)](https://risegeouae.ae/company/institut-national-de-cartographie-et-de-t-l-d-tection-inct.html) | National Mapping & Survey Agencies | Algiers, Algeria | https://www.inct.mdn.dz
+- [Order of Land Expert Surveyors (OGEF)](https://risegeouae.ae/company/order-of-land-expert-surveyors-ogef.html) | Professional Bodies & Licensing Councils | Algeria | http://www.ogef.dz
+- [Gabinete de Gestão do Programa Espacial Nacional (GGPEN)](https://risegeouae.ae/company/gabinete-de-gest-o-do-programa-espacial-nacional-ggpen.html) | Space Agencies | Angola | no website listed
+- [Instituto Geográfico e Cadastral de Angola (IGCA)](https://risegeouae.ae/company/instituto-geogr-fico-e-cadastral-de-angola-igca.html) | National Mapping & Survey Agencies | Angola | no website listed
 - [Survey and Land Registration Bureau](https://risegeouae.ae/company/survey-and-land-registration-bureau.html) | National Mapping & Survey Agencies | Manama, Bahrain | https://www.slrb.gov.bh
 - [Institut Géographique National du Bénin (IGN)](https://risegeouae.ae/company/institut-g-ographique-national-du-b-nin-ign.html) | National Mapping & Survey Agencies | Abomey-Calavi, Benin | no website listed
+- [Order of the Expert Geometricians of Benin](https://risegeouae.ae/company/order-of-the-expert-geometricians-of-benin.html) | Professional Bodies & Licensing Councils | Benin | http://www.geometre-expert.bj
+- [Botswana Institute of Geomatics](https://risegeouae.ae/company/botswana-institute-of-geomatics.html) | Professional Bodies & Licensing Councils | Botswana | http://www.big.co.bw/home.html
 - [Department of Surveys and Mapping (Botswana)](https://risegeouae.ae/company/department-of-surveys-and-mapping-botswana.html) | National Mapping & Survey Agencies | Gaborone, Botswana | no website listed
+- [Association des Géomètres et Topographes du Burkina (AGT-B)](https://risegeouae.ae/company/association-des-g-om-tres-et-topographes-du-burkina-agt-b.html) | Professional Bodies & Licensing Councils | Burkina Faso | no website listed
+- [CILSS](https://risegeouae.ae/company/cilss.html) | Regional & International Bodies | Burkina Faso | no website listed
+- [Institut Géographique du Burkina (IGB)](https://risegeouae.ae/company/institut-g-ographique-du-burkina-igb.html) | National Mapping & Survey Agencies | Burkina Faso | no website listed
+- [Centre de Recherches en Imagerie Spatiale (CRIS)](https://risegeouae.ae/company/centre-de-recherches-en-imagerie-spatiale-cris.html) | Research Institutes | Cameroon | no website listed
+- [Institut de Recherches Géologiques et Minières (IRGM)](https://risegeouae.ae/company/institut-de-recherches-g-ologiques-et-mini-res-irgm.html) | Geological Surveys | Cameroon | no website listed
 - [Institut National de Cartographie (Cameroon)](https://risegeouae.ae/company/institut-national-de-cartographie-cameroon.html) | National Mapping & Survey Agencies | Yaoundé, Cameroon | no website listed
-- [Bureau National d'Études Techniques et de Développement (BNETD) – Cartography](https://risegeouae.ae/company/bureau-national-d-tudes-techniques-et-de-d-veloppement-bnetd-cartography.html) | National Mapping & Survey Agencies | Abidjan, Côte d'Ivoire | https://www.bnetd.ci
+- [National Order of Cameroon Surveyors (NOCS)](https://risegeouae.ae/company/national-order-of-cameroon-surveyors-nocs.html) | Professional Bodies & Licensing Councils | Cameroon | http://www.ogecnocs.com
+- [Observatoire des Forêts d'Afrique Centrale (OFAC)](https://risegeouae.ae/company/observatoire-des-for-ts-d-afrique-centrale-ofac.html) | Regional & International Bodies | Cameroon | no website listed
+- [Service de la Cartographie, Direction du Cadastre (Chad)](https://risegeouae.ae/company/service-de-la-cartographie-direction-du-cadastre-chad.html) | Land Registries & Cadastre Authorities | N'Djamena, Chad | no website listed
+- [Cellule Cartographie de la DATUH](https://risegeouae.ae/company/cellule-cartographie-de-la-datuh.html) | National Mapping & Survey Agencies | Comoros | no website listed
+- [Cyprus Association of Rural and Surveying Engineers](https://risegeouae.ae/company/cyprus-association-of-rural-and-surveying-engineers.html) | Professional Bodies & Licensing Councils | Cyprus | http://www.topocy.org
+- [Cyprus Department of Lands and Surveys](https://risegeouae.ae/company/cyprus-department-of-lands-and-surveys.html) | National Mapping & Survey Agencies | Cyprus | http://www.moi.gov.cy/moi/dls
+- [Cyprus University of Technology (Civil Engineering and Geomatics)](https://risegeouae.ae/company/cyprus-university-of-technology-civil-engineering-and-geomatics.html) | Universities (Surveying, GIS & Geomatics) | Cyprus | https://www.cut.ac.cy/faculties/fet/ceg/?languageId=1
+- [Department of Lands and Surveys (Cyprus) – Survey Sector](https://risegeouae.ae/company/department-of-lands-and-surveys-cyprus-survey-sector.html) | National Mapping & Survey Agencies | Nicosia, Cyprus | https://portal.dls.moi.gov.cy
+- [Centre d'Information Géographique et du Numérique (CIGN)](https://risegeouae.ae/company/centre-d-information-g-ographique-et-du-num-rique-cign.html) | National Mapping & Survey Agencies | Côte d'Ivoire | no website listed
+- [Centre National d'Etude en Territoire et Cartographie](https://risegeouae.ae/company/centre-national-d-etude-en-territoire-et-cartographie.html) | National Mapping & Survey Agencies | Côte d'Ivoire | no website listed
+- [Ordre des Géomètres Experts de Côte d'Ivoire (OGECI)](https://risegeouae.ae/company/ordre-des-g-om-tres-experts-de-c-te-d-ivoire-ogeci.html) | Professional Bodies & Licensing Councils | Côte d'Ivoire | http://www.geometre-expert.ci
+- [Cadastre of DRC (Ministère des Affaires Foncières)](https://risegeouae.ae/company/cadastre-of-drc-minist-re-des-affaires-fonci-res.html) | Land Registries & Cadastre Authorities | Democratic Republic of the Congo | no website listed
+- [Federation of Surveying Engineers and Geomatics Professionals of the DR Congo](https://risegeouae.ae/company/federation-of-surveying-engineers-and-geomatics-professionals-of-the-dr-congo.html) | Professional Bodies & Licensing Councils | Democratic Republic of the Congo | no website listed
+- [Centre d'Études et de Recherche de Djibouti (CERD)](https://risegeouae.ae/company/centre-d-tudes-et-de-recherche-de-djibouti-cerd.html) | Research Institutes | Djibouti | no website listed
 - [Egyptian Space Agency](https://risegeouae.ae/company/egyptian-space-agency.html) | Space Agencies | Cairo, Egypt | https://www.egsa.gov.eg
-- [Egyptian Survey Authority](https://risegeouae.ae/company/egyptian-survey-authority.html) | National Mapping & Survey Agencies | Giza, Egypt | no website listed
 - [National Authority for Remote Sensing and Space Sciences (NARSS)](https://risegeouae.ae/company/national-authority-for-remote-sensing-and-space-sciences-narss.html) | National Mapping & Survey Agencies | Cairo, Egypt | http://www.narss.sci.eg
-- [Ethiopian Space Science and Geospatial Institute](https://risegeouae.ae/company/ethiopian-space-science-and-geospatial-institute.html) | National Mapping & Survey Agencies | Addis Ababa, Ethiopia | https://essgi.gov.et
-- [UN-GGIM: Africa](https://risegeouae.ae/company/un-ggim-africa.html) | Regional & International Bodies | Addis Ababa, Ethiopia | no website listed
-- [Ghana Institution of Surveyors](https://risegeouae.ae/company/ghana-institution-of-surveyors.html) | Professional Bodies & Licensing Councils | Accra, Ghana | no website listed
+- [National Research Institute of Astronomy and Geophysics (NRIAG)](https://risegeouae.ae/company/national-research-institute-of-astronomy-and-geophysics-nriag.html) | Research Institutes | Egypt | no website listed
+- [Cadastral Office, Ministry of Land, Water and Environment (Eritrea)](https://risegeouae.ae/company/cadastral-office-ministry-of-land-water-and-environment-eritrea.html) | Land Registries & Cadastre Authorities | Asmara, Eritrea | no website listed
+- [Eritrean Institute of Technology, Department of Civil Engineering](https://risegeouae.ae/company/eritrean-institute-of-technology-department-of-civil-engineering.html) | Universities (Surveying, GIS & Geomatics) | Mai Nefhi, Eritrea | no website listed
+- [Ministry of Land, Water and Environment (Eritrea)](https://risegeouae.ae/company/ministry-of-land-water-and-environment-eritrea.html) | Land Registries & Cadastre Authorities | Eritrea | no website listed
+- [Department of Geological Survey and Mines (Eswatini)](https://risegeouae.ae/company/department-of-geological-survey-and-mines-eswatini.html) | Geological Surveys | Eswatini | no website listed
+- [Surveyor General's Department (Eswatini)](https://risegeouae.ae/company/surveyor-general-s-department-eswatini.html) | National Mapping & Survey Agencies | Mbabane, Eswatini | https://www.gov.sz
+- [Bahir Dar University, Institute of Land Administration](https://risegeouae.ae/company/bahir-dar-university-institute-of-land-administration.html) | Universities (Surveying, GIS & Geomatics) | Ethiopia | http://www.ila.edu.et/
+- [Ethiopian Geospatial Information Institute (EGII)](https://risegeouae.ae/company/ethiopian-geospatial-information-institute-egii.html) | National Mapping & Survey Agencies | Ethiopia | no website listed
+- [Ethiopian Space Science and Technology Institute (ESSTI)](https://risegeouae.ae/company/ethiopian-space-science-and-technology-institute-essti.html) | Space Agencies | Ethiopia | no website listed
+- [Agence Gabonaise d'Etudes et d'Observations Spatiales (AGEOS)](https://risegeouae.ae/company/agence-gabonaise-d-etudes-et-d-observations-spatiales-ageos.html) | Space Agencies | Gabon | no website listed
+- [Department of Lands and Surveys (Gambia)](https://risegeouae.ae/company/department-of-lands-and-surveys-gambia.html) | National Mapping & Survey Agencies | Banjul, Gambia | no website listed
+- [Ghana Geological Survey Authority (GGSA)](https://risegeouae.ae/company/ghana-geological-survey-authority-ggsa.html) | Geological Surveys | Ghana | no website listed
+- [Ghana Institution of Surveyors](https://risegeouae.ae/company/ghana-institution-of-surveyors.html) | Professional Bodies & Licensing Councils | Accra, Ghana | http://www.ghis.org.gh/
 - [Ghana Space Science and Technology Institute](https://risegeouae.ae/company/ghana-space-science-and-technology-institute.html) | Space Agencies | Accra, Ghana | no website listed
+- [Licensed Surveyors Association of Ghana (LiSAG)](https://risegeouae.ae/company/licensed-surveyors-association-of-ghana-lisag.html) | Professional Bodies & Licensing Councils | Ghana | http://www.lisagh.org
+- [Remote Sensing and Climate Center (RSCC)](https://risegeouae.ae/company/remote-sensing-and-climate-center-rscc.html) | Research Institutes | Ghana | no website listed
 - [Survey and Mapping Division – Ghana Lands Commission](https://risegeouae.ae/company/survey-and-mapping-division-ghana-lands-commission.html) | National Mapping & Survey Agencies | Accra, Ghana | https://lc.gov.gh
+- [University of Environment and Sustainable Development](https://risegeouae.ae/company/university-of-environment-and-sustainable-development.html) | Universities (Surveying, GIS & Geomatics) | Ghana | https://www.uesd.edu.gh/
+- [University of Ghana](https://risegeouae.ae/company/university-of-ghana.html) | Universities (Surveying, GIS & Geomatics) | Accra, Ghana | https://www.ug.edu.gh/
+- [WASCAL](https://risegeouae.ae/company/wascal.html) | Regional & International Bodies | Ghana | no website listed
 - [Institut Géographique National de Guinée (IGN)](https://risegeouae.ae/company/institut-g-ographique-national-de-guin-e-ign.html) | National Mapping & Survey Agencies | Conakry, Guinea | no website listed
-- [National Cartographic Center of Iran](https://risegeouae.ae/company/national-cartographic-center-of-iran.html) | National Mapping & Survey Agencies | Tehran, Iran | https://www.ncc.gov.ir
-- [Iraq State Commission of Survey](https://risegeouae.ae/company/iraq-state-commission-of-survey.html) | National Mapping & Survey Agencies | Baghdad, Iraq | no website listed
-- [Royal Jordanian Geographic Centre](https://risegeouae.ae/company/royal-jordanian-geographic-centre.html) | National Mapping & Survey Agencies | Amman, Jordan | https://www.rjgc.gov.jo
+- [Iranian Professional Society of Surveying Engineers (ISS)](https://risegeouae.ae/company/iranian-professional-society-of-surveying-engineers-iss.html) | Professional Bodies & Licensing Councils | Iran | http://www.issiran.net/
+- [Association of Licensed Surveyors in Israel](https://risegeouae.ae/company/association-of-licensed-surveyors-in-israel.html) | Professional Bodies & Licensing Councils | Israel | http://www.agudat-hamodedim.org.il
+- [Survey of Israel](https://risegeouae.ae/company/survey-of-israel.html) | National Mapping & Survey Agencies | Israel | no website listed
+- [Technion – Israel Institute of Technology](https://risegeouae.ae/company/technion-israel-institute-of-technology.html) | Universities (Surveying, GIS & Geomatics) | Israel | http://www.technion.ac.il/en
+- [Department of Lands and Survey (Jordan)](https://risegeouae.ae/company/department-of-lands-and-survey-jordan.html) | Land Registries & Cadastre Authorities | Jordan | http://www.dls.gov.jo
+- [Directorate of Resource Surveys and Remote Sensing (DRSRS)](https://risegeouae.ae/company/directorate-of-resource-surveys-and-remote-sensing-drsrs.html) | National Mapping & Survey Agencies | Kenya | no website listed
 - [Engineers Board of Kenya](https://risegeouae.ae/company/engineers-board-of-kenya.html) | Professional Bodies & Licensing Councils | Nairobi, Kenya | https://ebk.go.ke
 - [Humanitarian OpenStreetMap Team (HOT) – Eastern and Southern Africa Hub](https://risegeouae.ae/company/humanitarian-openstreetmap-team-hot-eastern-and-southern-africa-hub.html) | NGOs & Humanitarian Mapping | Nairobi, Kenya | https://www.hotosm.org
+- [IGAD Climate Prediction and Applications Centre (ICPAC)](https://risegeouae.ae/company/igad-climate-prediction-and-applications-centre-icpac.html) | Regional & International Bodies | Kenya | no website listed
 - [Institution of Surveyors of Kenya](https://risegeouae.ae/company/institution-of-surveyors-of-kenya.html) | Professional Bodies & Licensing Councils | Nairobi, Kenya | https://isk.or.ke
 - [Kenya Space Agency](https://risegeouae.ae/company/kenya-space-agency.html) | Space Agencies | Nairobi, Kenya | https://ksa.go.ke
 - [Regional Centre for Mapping of Resources for Development (RCMRD)](https://risegeouae.ae/company/regional-centre-for-mapping-of-resources-for-development-rcmrd.html) | Regional & International Bodies | Nairobi, Kenya | https://rcmrd.org
+- [Order of Surveyors of Lebanon (OGTL)](https://risegeouae.ae/company/order-of-surveyors-of-lebanon-ogtl.html) | Professional Bodies & Licensing Councils | Lebanon | http://www.ogtl.org
+- [Department of Geological Survey (Lesotho)](https://risegeouae.ae/company/department-of-geological-survey-lesotho.html) | Geological Surveys | Lesotho | no website listed
+- [Department of Lands, Surveys and Physical Planning (Lesotho)](https://risegeouae.ae/company/department-of-lands-surveys-and-physical-planning-lesotho.html) | National Mapping & Survey Agencies | Maseru, Lesotho | no website listed
+- [Land Administration Authority (Lesotho)](https://risegeouae.ae/company/land-administration-authority-lesotho.html) | Land Registries & Cadastre Authorities | Lesotho | http://www.laa.org.ls
+- [Association of Professional Land Surveyors of Liberia (APSUL)](https://risegeouae.ae/company/association-of-professional-land-surveyors-of-liberia-apsul.html) | Professional Bodies & Licensing Councils | Liberia | no website listed
+- [Libyan Centre for Remote Sensing and Space Sciences (LCRSSS)](https://risegeouae.ae/company/libyan-centre-for-remote-sensing-and-space-sciences-lcrsss.html) | Space Agencies | Libya | no website listed
+- [Department of Surveys (Malawi)](https://risegeouae.ae/company/department-of-surveys-malawi.html) | National Mapping & Survey Agencies | Lilongwe, Malawi | https://lands.gov.mw
+- [Malawi Space Agency](https://risegeouae.ae/company/malawi-space-agency.html) | Space Agencies | Malawi | no website listed
+- [Ordre des Géomètres Experts du Mali (OGE)](https://risegeouae.ae/company/ordre-des-g-om-tres-experts-du-mali-oge.html) | Professional Bodies & Licensing Councils | Mali | http://www.ogemli.org.ml
+- [Mauritius Research and Innovation Council (MRIC)](https://risegeouae.ae/company/mauritius-research-and-innovation-council-mric.html) | Research Institutes | Mauritius | no website listed
+- [Ministry of Housing and Lands, Survey Division](https://risegeouae.ae/company/ministry-of-housing-and-lands-survey-division.html) | National Mapping & Survey Agencies | Ebène, Mauritius | https://housing.govmu.org/SitePages/Index.aspx
+- [Centre Royal d'Études et de Recherches Spatiales (CRERS)](https://risegeouae.ae/company/centre-royal-d-tudes-et-de-recherches-spatiales-crers.html) | Space Agencies | Morocco | no website listed
+- [CRASTE-LF](https://risegeouae.ae/company/craste-lf.html) | Training Centres | Morocco | no website listed
+- [Ordre National des Ingénieurs Géomètres Topographes (ONIGT)](https://risegeouae.ae/company/ordre-national-des-ing-nieurs-g-om-tres-topographes-onigt.html) | Professional Bodies & Licensing Councils | Morocco | http://www.onigt.org
+- [SASSCAL](https://risegeouae.ae/company/sasscal.html) | Regional & International Bodies | Namibia | no website listed
+- [Centre Régional AGRHYMET](https://risegeouae.ae/company/centre-r-gional-agrhymet.html) | Regional & International Bodies | Niger | no website listed
+- [Abuja Geographic Information Systems (AGIS)](https://risegeouae.ae/company/abuja-geographic-information-systems-agis.html) | Municipal GIS Departments | Abuja, Nigeria | no website listed
+- [Centre for Geodesy and Geodynamics (CGG)](https://risegeouae.ae/company/centre-for-geodesy-and-geodynamics-cgg.html) | Research Institutes | Nigeria | no website listed
+- [Centre for Satellite Technology Development (CSTD)](https://risegeouae.ae/company/centre-for-satellite-technology-development-cstd.html) | Space Agencies | Nigeria | no website listed
+- [Centre for Space Science and Technology Education (CSSTE)](https://risegeouae.ae/company/centre-for-space-science-and-technology-education-csste.html) | Training Centres | Nigeria | no website listed
+- [Defence Space Administration (Nigeria)](https://risegeouae.ae/company/defence-space-administration-nigeria.html) | Space Agencies | Nigeria | no website listed
+- [GEONigeria](https://risegeouae.ae/company/geonigeria.html) | National Mapping & Survey Agencies | Nigeria | no website listed
+- [Nasarawa Geographic Information Service (NAGIS)](https://risegeouae.ae/company/nasarawa-geographic-information-service-nagis.html) | Municipal GIS Departments | Lafia, Nigeria | no website listed
+- [National Centre for Remote Sensing (NCRS) Jos](https://risegeouae.ae/company/national-centre-for-remote-sensing-ncrs-jos.html) | Research Institutes | Nigeria | no website listed
+- [Niger State Geographic Information System (NIGIS)](https://risegeouae.ae/company/niger-state-geographic-information-system-nigis.html) | Municipal GIS Departments | Minna, Nigeria | no website listed
+- [Nigerian Institution of Surveyors](https://risegeouae.ae/company/nigerian-institution-of-surveyors.html) | Professional Bodies & Licensing Councils | Abuja, Nigeria | https://nis.org.ng
+- [Office of the Surveyor-General of the Federation (OSGoF)](https://risegeouae.ae/company/office-of-the-surveyor-general-of-the-federation-osgof.html) | National Mapping & Survey Agencies | Abuja, Nigeria | https://osgof.gov.ng
+- [Surveyors Council of Nigeria (SURCON)](https://risegeouae.ae/company/surveyors-council-of-nigeria-surcon.html) | National Mapping & Survey Agencies | Abuja, Nigeria | https://surcon.gov.ng
+- [AfricaGIS Conference](https://risegeouae.ae/company/africagis-conference.html) | Conferences & Exhibitions | Regional (MEA) | https://www.eis.africa/africagis-2025/
+- [African Space Agency (AfSA)](https://risegeouae.ae/company/african-space-agency-afsa.html) | Space Agencies | Regional (MEA) | no website listed
+- [EIS-Africa (Environmental Information Systems Africa)](https://risegeouae.ae/company/eis-africa-environmental-information-systems-africa.html) | Industry Associations | Pretoria, Regional (MEA) | https://www.eis.africa/
+- [Geospatial World Forum](https://risegeouae.ae/company/geospatial-world-forum.html) | Conferences & Exhibitions | Regional (MEA) | https://geospatialworld.net/gwf/2026/
+- [UN-GGIM: Africa](https://risegeouae.ae/company/un-ggim-africa-2.html) | Regional & International Bodies | Addis Ababa, Regional (MEA) | no website listed
+- [Rwanda Space Agency](https://risegeouae.ae/company/rwanda-space-agency.html) | Space Agencies | Kigali, Rwanda | https://space.gov.rw
+- [Eastern Province Municipality (Saudi Arabia)](https://risegeouae.ae/company/eastern-province-municipality-saudi-arabia.html) | Municipal GIS Departments | Dammam, Saudi Arabia | no website listed
+- [General Authority for Survey and Geospatial Information (GEOSA)](https://risegeouae.ae/company/general-authority-for-survey-and-geospatial-information-geosa.html) | National Mapping & Survey Agencies | Riyadh, Saudi Arabia | https://geosa.gov.sa
+- [Saudi Council of Engineers](https://risegeouae.ae/company/saudi-council-of-engineers.html) | Professional Bodies & Licensing Councils | Riyadh, Saudi Arabia | https://www.saudieng.sa
+- [Agence Nationale de l'Aménagement du Territoire (ANAT)](https://risegeouae.ae/company/agence-nationale-de-l-am-nagement-du-territoire-anat.html) | National Mapping & Survey Agencies | Senegal | no website listed
+- [Agence Sénégalaise d'Études Spatiales (ASES)](https://risegeouae.ae/company/agence-s-n-galaise-d-tudes-spatiales-ases.html) | Space Agencies | Senegal | no website listed
+- [Centre de Suivi Ecologique (CSE)](https://risegeouae.ae/company/centre-de-suivi-ecologique-cse.html) | Research Institutes | Senegal | no website listed
+- [SatNav Africa Joint Programme Office](https://risegeouae.ae/company/satnav-africa-joint-programme-office.html) | Regional & International Bodies | Senegal | no website listed
+- [Centre for Geographic Information Systems (Seychelles)](https://risegeouae.ae/company/centre-for-geographic-information-systems-seychelles.html) | National Mapping & Survey Agencies | Victoria, Seychelles | http://www.luh.gov.sc/default.aspx?PageId=20
+- [Ministry of Land and Housing, Survey Division (Seychelles)](https://risegeouae.ae/company/ministry-of-land-and-housing-survey-division-seychelles.html) | National Mapping & Survey Agencies | Victoria, Seychelles | no website listed
+- [SIMAD University, Institute of Climate and Environment](https://risegeouae.ae/company/simad-university-institute-of-climate-and-environment.html) | Universities (Surveying, GIS & Geomatics) | Mogadishu, Somalia | https://simad.edu.so
+- [African Space Leadership Institute (ASLI)](https://risegeouae.ae/company/african-space-leadership-institute-asli.html) | Training Centres | South Africa | no website listed
+- [Council for Geoscience](https://risegeouae.ae/company/council-for-geoscience.html) | Geological Surveys | Pretoria, South Africa | https://www.geoscience.org.za
+- [CSIR (Council for Scientific and Industrial Research)](https://risegeouae.ae/company/csir-council-for-scientific-and-industrial-research.html) | Research Institutes | South Africa | no website listed
+- [Digital Earth South Africa (DESA)](https://risegeouae.ae/company/digital-earth-south-africa-desa.html) | Research Institutes | South Africa | no website listed
+- [Geo-Information Society of South Africa (GISSA)](https://risegeouae.ae/company/geo-information-society-of-south-africa-gissa.html) | Conferences & Exhibitions | South Africa | https://www.gissa.org.za
+- [National Earth Observations and Space Secretariat (NEOSS)](https://risegeouae.ae/company/national-earth-observations-and-space-secretariat-neoss.html) | Space Agencies | South Africa | no website listed
+- [South African Geomatics Council (SAGC)](https://risegeouae.ae/company/south-african-geomatics-council-sagc.html) | Professional Bodies & Licensing Councils | Pretoria, South Africa | https://www.sagc.org.za
+- [South African Geomatics Institute (SAGI)](https://risegeouae.ae/company/south-african-geomatics-institute-sagi.html) | Professional Bodies & Licensing Councils | South Africa | https://www.sagi.co.za
+- [South African National Space Agency (SANSA)](https://risegeouae.ae/company/south-african-national-space-agency-sansa.html) | Space Agencies | Pretoria, South Africa | https://www.sansa.org.za
+- [Department of GIS, Remote Sensing and Cartography, National Bureau of Statistics](https://risegeouae.ae/company/department-of-gis-remote-sensing-and-cartography-national-bureau-of-statistics.html) | Statistics & Census Bureaus | South Sudan | no website listed
+- [Faculty of Surveying and Geomatic Engineering, Latakia University](https://risegeouae.ae/company/faculty-of-surveying-and-geomatic-engineering-latakia-university.html) | Universities (Surveying, GIS & Geomatics) | Latakia, Syria | https://latakia-univ.edu.sy
+- [General Organization of Remote Sensing (GORS)](https://risegeouae.ae/company/general-organization-of-remote-sensing-gors.html) | Space Agencies | Damascus, Syria | http://gors.sy
+- [Centre National de la Cartographie et de la Télédétection (CNCT)](https://risegeouae.ae/company/centre-national-de-la-cartographie-et-de-la-t-l-d-tection-cnct.html) | National Mapping & Survey Agencies | Tunis, Tunisia | no website listed
+- [Centre Régional de Télédétection des Etats de l'Afrique du Nord (CRTEAN)](https://risegeouae.ae/company/centre-r-gional-de-t-l-d-tection-des-etats-de-l-afrique-du-nord-crtean.html) | Regional & International Bodies | Tunisia | no website listed
+- [Observatoire du Sahara et du Sahel (OSS)](https://risegeouae.ae/company/observatoire-du-sahara-et-du-sahel-oss.html) | Regional & International Bodies | Tunisia | no website listed
+- [Department of Aeronautics and Space Science, STI Secretariat (Uganda)](https://risegeouae.ae/company/department-of-aeronautics-and-space-science-sti-secretariat-uganda.html) | Space Agencies | Uganda | no website listed
+- [Big 5 Global](https://risegeouae.ae/company/big-5-global.html) | Conferences & Exhibitions | Dubai, United Arab Emirates | https://www.big5global.com
+- [Department of Municipalities and Transport – Abu Dhabi (ADSDI)](https://risegeouae.ae/company/department-of-municipalities-and-transport-abu-dhabi-adsdi.html) | Municipal GIS Departments | Abu Dhabi, United Arab Emirates | https://www.dmt.gov.ae
+- [Dubai Land Department](https://risegeouae.ae/company/dubai-land-department.html) | Land Registries & Cadastre Authorities | Dubai, United Arab Emirates | https://dubailand.gov.ae
+- [Dubai Municipality GIS Centre](https://risegeouae.ae/company/dubai-municipality-gis-centre.html) | Municipal GIS Departments | Dubai, United Arab Emirates | https://www.dm.gov.ae
+- [Federal Geographic Information Center (FGIC)](https://risegeouae.ae/company/federal-geographic-information-center-fgic.html) | National Mapping & Survey Agencies | Abu Dhabi, United Arab Emirates | no website listed
+- [National Space Science and Technology Center (NSSTC)](https://risegeouae.ae/company/national-space-science-and-technology-center-nsstc.html) | Space Agencies | Al Ain, United Arab Emirates | no website listed
+- [RICS Middle East and Africa](https://risegeouae.ae/company/rics-middle-east-and-africa.html) | Professional Bodies & Licensing Councils | Dubai, United Arab Emirates | https://www.rics.org
+- [National Remote Sensing Centre (Zambia)](https://risegeouae.ae/company/national-remote-sensing-centre-zambia.html) | Research Institutes | Zambia | no website listed
+- [Zimbabwe National Geospatial and Space Agency (ZINGSA)](https://risegeouae.ae/company/zimbabwe-national-geospatial-and-space-agency-zingsa.html) | Space Agencies | Zimbabwe | no website listed
+- [Angolan Geographic and Cadastral Institute (IGCA)](https://risegeouae.ae/company/angolan-geographic-and-cadastral-institute-igca.html) | National Mapping & Survey Agencies | Angola | no website listed
+- [Institut Géographique du Burundi (IGEBU)](https://risegeouae.ae/company/institut-g-ographique-du-burundi-igebu.html) | National Mapping & Survey Agencies | Burundi | no website listed
+- [Serviço Nacional de Cartografia e Cadastro](https://risegeouae.ae/company/servi-o-nacional-de-cartografia-e-cadastro.html) | National Mapping & Survey Agencies | Cabo Verde | no website listed
+- [Bureau National de Pédologie et de Conservation des Sols (BNPCS)](https://risegeouae.ae/company/bureau-national-de-p-dologie-et-de-conservation-des-sols-bnpcs.html) | National Mapping & Survey Agencies | Bangui, Central African Republic | no website listed
+- [Direction des Mines et de la Géologie (Centrafrique)](https://risegeouae.ae/company/direction-des-mines-et-de-la-g-ologie-centrafrique.html) | Geological Surveys | Bangui, Central African Republic | no website listed
+- [Centre National de Cartographie (Congo)](https://risegeouae.ae/company/centre-national-de-cartographie-congo.html) | National Mapping & Survey Agencies | Congo | no website listed
+- [Cyprus Permanent Committee for the Standardization of Geographical Names](https://risegeouae.ae/company/cyprus-permanent-committee-for-the-standardization-of-geographical-names.html) | National Mapping & Survey Agencies | Cyprus | no website listed
+- [Bureau National d'Études Techniques et de Développement (BNETD) – Cartography](https://risegeouae.ae/company/bureau-national-d-tudes-techniques-et-de-d-veloppement-bnetd-cartography.html) | National Mapping & Survey Agencies | Abidjan, Côte d'Ivoire | https://www.bnetd.ci
+- [Centre National de Télédétection et d'Information Géographique (CNTIG)](https://risegeouae.ae/company/centre-national-de-t-l-d-tection-et-d-information-g-ographique-cntig.html) | National Mapping & Survey Agencies | Côte d'Ivoire | no website listed
+- [Institut Géographique du Congo (IGC)](https://risegeouae.ae/company/institut-g-ographique-du-congo-igc.html) | National Mapping & Survey Agencies | Democratic Republic of the Congo | no website listed
+- [Division Topographique de la République de Djibouti](https://risegeouae.ae/company/division-topographique-de-la-r-publique-de-djibouti.html) | National Mapping & Survey Agencies | Djibouti | no website listed
+- [Egyptian Survey Authority](https://risegeouae.ae/company/egyptian-survey-authority.html) | National Mapping & Survey Agencies | Giza, Egypt | no website listed
+- [Servicio Geográfico (Guinea Ecuatorial)](https://risegeouae.ae/company/servicio-geogr-fico-guinea-ecuatorial.html) | National Mapping & Survey Agencies | Malabo, Equatorial Guinea | no website listed
+- [Ethiopian Space Science and Geospatial Institute](https://risegeouae.ae/company/ethiopian-space-science-and-geospatial-institute.html) | National Mapping & Survey Agencies | Addis Ababa, Ethiopia | https://essgi.gov.et
+- [UN-GGIM: Africa](https://risegeouae.ae/company/un-ggim-africa.html) | Regional & International Bodies | Addis Ababa, Ethiopia | no website listed
+- [Institut National de Cartographie (Gabon)](https://risegeouae.ae/company/institut-national-de-cartographie-gabon.html) | National Mapping & Survey Agencies | Gabon | no website listed
+- [National Environment Agency GIS Unit (Gambia)](https://risegeouae.ae/company/national-environment-agency-gis-unit-gambia.html) | National Mapping & Survey Agencies | Banjul, Gambia | no website listed
+- [Centro de Cartografia e Teledetecção (CCT)](https://risegeouae.ae/company/centro-de-cartografia-e-teledetec-o-cct.html) | National Mapping & Survey Agencies | Bissau, Guinea-Bissau | no website listed
+- [Direcção de Topografia e Cadastro (Guinea-Bissau)](https://risegeouae.ae/company/direc-o-de-topografia-e-cadastro-guinea-bissau.html) | National Mapping & Survey Agencies | Bissau, Guinea-Bissau | no website listed
+- [National Cartographic Center of Iran](https://risegeouae.ae/company/national-cartographic-center-of-iran.html) | National Mapping & Survey Agencies | Tehran, Iran | https://www.ncc.gov.ir
+- [National Geographical Organization of Iran](https://risegeouae.ae/company/national-geographical-organization-of-iran.html) | National Mapping & Survey Agencies | Tehran, Iran | no website listed
+- [Iraq State Commission of Survey](https://risegeouae.ae/company/iraq-state-commission-of-survey.html) | National Mapping & Survey Agencies | Baghdad, Iraq | no website listed
+- [Tishk International University, Surveying and Geomatics Engineering](https://risegeouae.ae/company/tishk-international-university-surveying-and-geomatics-engineering.html) | Universities (Surveying, GIS & Geomatics) | Erbil, Iraq | https://engineering.tiu.edu.iq/surveying-and-geomatics/
+- [Royal Jordanian Geographic Centre](https://risegeouae.ae/company/royal-jordanian-geographic-centre.html) | National Mapping & Survey Agencies | Amman, Jordan | https://www.rjgc.gov.jo
 - [Survey of Kenya](https://risegeouae.ae/company/survey-of-kenya.html) | National Mapping & Survey Agencies | Nairobi, Kenya | no website listed
 - [Kuwait Institute for Scientific Research](https://risegeouae.ae/company/kuwait-institute-for-scientific-research.html) | National Mapping & Survey Agencies | Kuwait City, Kuwait | https://www.kisr.edu.kw
 - [Kuwait Municipality – GIS Centre](https://risegeouae.ae/company/kuwait-municipality-gis-centre.html) | Municipal GIS Departments | Kuwait City, Kuwait | no website listed
 - [PACI – Public Authority for Civil Information (Kuwait)](https://risegeouae.ae/company/paci-public-authority-for-civil-information-kuwait.html) | Statistics & Census Bureaus | Kuwait City, Kuwait | https://www.paci.gov.kw
+- [Direction des Affaires Géographiques (DAG)](https://risegeouae.ae/company/direction-des-affaires-g-ographiques-dag.html) | National Mapping & Survey Agencies | Lebanon | no website listed
 - [Lebanese Army Directorate of Geographic Affairs](https://risegeouae.ae/company/lebanese-army-directorate-of-geographic-affairs.html) | National Mapping & Survey Agencies | Beirut, Lebanon | no website listed
+- [University of Balamand GIS Centre](https://risegeouae.ae/company/university-of-balamand-gis-centre.html) | Universities (Surveying, GIS & Geomatics) | Koura, Lebanon | https://www.balamand.edu.lb/GIS/
+- [Survey Department of Libya](https://risegeouae.ae/company/survey-department-of-libya.html) | National Mapping & Survey Agencies | Libya | no website listed
+- [Central Christian University](https://risegeouae.ae/company/central-christian-university.html) | Universities (Surveying, GIS & Geomatics) | Malawi | http://www.ccunmw.com
+- [Institut Géographique du Mali](https://risegeouae.ae/company/institut-g-ographique-du-mali.html) | National Mapping & Survey Agencies | Mali | no website listed
+- [Direction de la Cartographie et de l'Information Géographique (DCIG)](https://risegeouae.ae/company/direction-de-la-cartographie-et-de-l-information-g-ographique-dcig.html) | National Mapping & Survey Agencies | Mauritania | no website listed
 - [ANCFCC](https://risegeouae.ae/company/ancfcc.html) | National Mapping & Survey Agencies | Rabat, Morocco | https://www.ancfcc.gov.ma
 - [Royal Centre for Remote Sensing (CRTS)](https://risegeouae.ae/company/royal-centre-for-remote-sensing-crts.html) | National Mapping & Survey Agencies | Rabat, Morocco | https://www.crts.gov.ma
 - [Mozambique National Directorate of Geography and Cadastre (DINAGECA)](https://risegeouae.ae/company/mozambique-national-directorate-of-geography-and-cadastre-dinageca.html) | National Mapping & Survey Agencies | Maputo, Mozambique | no website listed
+- [Directorate of Survey and Mapping (Namibia)](https://risegeouae.ae/company/directorate-of-survey-and-mapping-namibia.html) | National Mapping & Survey Agencies | Namibia | no website listed
 - [Namibia Surveyor-General](https://risegeouae.ae/company/namibia-surveyor-general.html) | National Mapping & Survey Agencies | Windhoek, Namibia | no website listed
+- [Institut Géographique National du Niger (IGNN)](https://risegeouae.ae/company/institut-g-ographique-national-du-niger-ignn.html) | National Mapping & Survey Agencies | Niger | no website listed
+- [Federal Surveys of Nigeria](https://risegeouae.ae/company/federal-surveys-of-nigeria.html) | National Mapping & Survey Agencies | Nigeria | no website listed
 - [National Space Research and Development Agency (NASRDA)](https://risegeouae.ae/company/national-space-research-and-development-agency-nasrda.html) | Space Agencies | Abuja, Nigeria | https://nasrda.gov.ng
-- [Nigerian Institution of Surveyors](https://risegeouae.ae/company/nigerian-institution-of-surveyors.html) | Professional Bodies & Licensing Councils | Abuja, Nigeria | https://nis.org.ng
-- [Office of the Surveyor-General of the Federation (OSGoF)](https://risegeouae.ae/company/office-of-the-surveyor-general-of-the-federation-osgof.html) | National Mapping & Survey Agencies | Abuja, Nigeria | https://osgof.gov.ng
-- [Surveyors Council of Nigeria (SURCON)](https://risegeouae.ae/company/surveyors-council-of-nigeria-surcon.html) | National Mapping & Survey Agencies | Abuja, Nigeria | https://surcon.gov.ng
+- [University of Benin](https://risegeouae.ae/company/university-of-benin.html) | Universities (Surveying, GIS & Geomatics) | Nigeria | http://uniben.edu/
 - [Ministry of Housing and Urban Planning](https://risegeouae.ae/company/ministry-of-housing-and-urban-planning.html) | National Mapping & Survey Agencies | Muscat, Oman | https://mhup.gov.om
 - [Survey Department of the National Survey Authority (Oman)](https://risegeouae.ae/company/survey-department-of-the-national-survey-authority-oman.html) | National Mapping & Survey Agencies | Muscat, Oman | no website listed
+- [Licensed Surveyors Association in Palestine](https://risegeouae.ae/company/licensed-surveyors-association-in-palestine.html) | Professional Bodies & Licensing Councils | Palestine | no website listed
+- [Palestine National Committee on Geographic Names](https://risegeouae.ae/company/palestine-national-committee-on-geographic-names.html) | National Mapping & Survey Agencies | Palestine | no website listed
 - [Ministry of Municipality – Centre for GIS](https://risegeouae.ae/company/ministry-of-municipality-centre-for-gis.html) | National Mapping & Survey Agencies | Doha, Qatar | https://www.mm.gov.qa
 - [AARSE – African Association of Remote Sensing of the Environment](https://risegeouae.ae/company/aarse-african-association-of-remote-sensing-of-the-environment.html) | Professional Bodies & Licensing Councils | Regional (MEA) | no website listed
 - [UN-GGIM Arab States](https://risegeouae.ae/company/un-ggim-arab-states.html) | Regional & International Bodies | Regional (MEA) | no website listed
+- [INES-Ruhengeri](https://risegeouae.ae/company/ines-ruhengeri.html) | Universities (Surveying, GIS & Geomatics) | Rwanda | http://www.ines.ac.rw/
 - [National Land Authority (Rwanda)](https://risegeouae.ae/company/national-land-authority-rwanda.html) | Land Registries & Cadastre Authorities | Kigali, Rwanda | no website listed
-- [Rwanda Space Agency](https://risegeouae.ae/company/rwanda-space-agency.html) | Space Agencies | Kigali, Rwanda | https://space.gov.rw
-- [Saudi Council of Engineers](https://risegeouae.ae/company/saudi-council-of-engineers.html) | Professional Bodies & Licensing Councils | Riyadh, Saudi Arabia | https://www.saudieng.sa
+- [Saudi Geological Survey](https://risegeouae.ae/company/saudi-geological-survey.html) | Geological Surveys | Jeddah, Saudi Arabia | https://sgs.gov.sa
 - [Centre National de Télédétection (CNT) / Direction des Travaux Géographiques et Cartographiques](https://risegeouae.ae/company/centre-national-de-t-l-d-tection-cnt-direction-des-travaux-g-ographiques-et-cartographiques.html) | National Mapping & Survey Agencies | Dakar, Senegal | no website listed
-- [Council for Geoscience](https://risegeouae.ae/company/council-for-geoscience.html) | Geological Surveys | Pretoria, South Africa | https://www.geoscience.org.za
+- [Ordre National des Géomètres Experts du Sénégal (ONGES)](https://risegeouae.ae/company/ordre-national-des-g-om-tres-experts-du-s-n-gal-onges.html) | Professional Bodies & Licensing Councils | Senegal | http://www.geometres-expertsenegal.com
+- [Association of Licenced Surveyors, Sierra Leone](https://risegeouae.ae/company/association-of-licenced-surveyors-sierra-leone.html) | Professional Bodies & Licensing Councils | Sierra Leone | no website listed
+- [Ministry of Lands, Housing and Country Planning (Sierra Leone)](https://risegeouae.ae/company/ministry-of-lands-housing-and-country-planning-sierra-leone.html) | Land Registries & Cadastre Authorities | Sierra Leone | http://www.molhcp.gov.sl
+- [Gollis University GIS Center](https://risegeouae.ae/company/gollis-university-gis-center.html) | Universities (Surveying, GIS & Geomatics) | Hargeisa, Somalia | no website listed
+- [Ministry of Planning and National Development, GIS and Remote Sensing (Somaliland)](https://risegeouae.ae/company/ministry-of-planning-and-national-development-gis-and-remote-sensing-somaliland.html) | National Mapping & Survey Agencies | Hargeisa, Somalia | no website listed
+- [National Bureau of Statistics Somalia, GIS unit](https://risegeouae.ae/company/national-bureau-of-statistics-somalia-gis-unit.html) | Statistics & Census Bureaus | Mogadishu, Somalia | https://nbs.gov.so
 - [EIS Africa](https://risegeouae.ae/company/eis-africa.html) | Professional Bodies & Licensing Councils | Pretoria, South Africa | no website listed
-- [Geo-Information Society of South Africa (GISSA)](https://risegeouae.ae/company/geo-information-society-of-south-africa-gissa.html) | Conferences & Exhibitions | South Africa | https://www.gissa.org.za
 - [National Geo-spatial Information (NGI)](https://risegeouae.ae/company/national-geo-spatial-information-ngi.html) | National Mapping & Survey Agencies | Cape Town, South Africa | no website listed
-- [South African Geomatics Council (SAGC)](https://risegeouae.ae/company/south-african-geomatics-council-sagc.html) | Professional Bodies & Licensing Councils | Pretoria, South Africa | https://www.sagc.org.za
-- [South African Geomatics Institute (SAGI)](https://risegeouae.ae/company/south-african-geomatics-institute-sagi.html) | Professional Bodies & Licensing Councils | South Africa | https://www.sagi.co.za
-- [South African National Space Agency (SANSA)](https://risegeouae.ae/company/south-african-national-space-agency-sansa.html) | Space Agencies | Pretoria, South Africa | https://www.sansa.org.za
+- [Sudan National Survey Authority](https://risegeouae.ae/company/sudan-national-survey-authority.html) | National Mapping & Survey Agencies | Sudan | no website listed
+- [Order of Syrian Engineers and Architects (OSEA)](https://risegeouae.ae/company/order-of-syrian-engineers-and-architects-osea.html) | Professional Bodies & Licensing Councils | Syria | http://www.osea.org.sy
+- [Direcção de Serviços Geográficos e Cadastrais](https://risegeouae.ae/company/direc-o-de-servi-os-geogr-ficos-e-cadastrais.html) | National Mapping & Survey Agencies | São Tomé and Príncipe | no website listed
 - [Directorate of Surveys and Mapping (Tanzania)](https://risegeouae.ae/company/directorate-of-surveys-and-mapping-tanzania.html) | National Mapping & Survey Agencies | Dodoma, Tanzania | no website listed
-- [Centre National de la Cartographie et de la Télédétection (CNCT)](https://risegeouae.ae/company/centre-national-de-la-cartographie-et-de-la-t-l-d-tection-cnct.html) | National Mapping & Survey Agencies | Tunis, Tunisia | no website listed
+- [Surveying and Mapping Division, Ministry of Lands (Tanzania)](https://risegeouae.ae/company/surveying-and-mapping-division-ministry-of-lands-tanzania.html) | National Mapping & Survey Agencies | Tanzania | no website listed
+- [Zanzibar Commission for Lands](https://risegeouae.ae/company/zanzibar-commission-for-lands.html) | Land Registries & Cadastre Authorities | Tanzania | http://www.kamisheniardhi.go.tz
+- [Ordre des Géomètres du Togo (OGT)](https://risegeouae.ae/company/ordre-des-g-om-tres-du-togo-ogt.html) | Professional Bodies & Licensing Councils | Togo | http://www.ogtexperts.com
 - [Office de la Topographie et du Cadastre (OTC)](https://risegeouae.ae/company/office-de-la-topographie-et-du-cadastre-otc.html) | Land Registries & Cadastre Authorities | Tunis, Tunisia | https://www.otc.nat.tn
+- [Ankara University Faculty of Applied Sciences](https://risegeouae.ae/company/ankara-university-faculty-of-applied-sciences.html) | Universities (Surveying, GIS & Geomatics) | Turkey | http://ggy.ankara.edu.tr/
+- [Board of Experts for Geographical Names of Turkey](https://risegeouae.ae/company/board-of-experts-for-geographical-names-of-turkey.html) | National Mapping & Survey Agencies | Turkey | no website listed
+- [Chamber of Survey and Cadastre Engineers of Türkiye (HKMO)](https://risegeouae.ae/company/chamber-of-survey-and-cadastre-engineers-of-t-rkiye-hkmo.html) | Professional Bodies & Licensing Councils | Turkey | http://www.hkmo.org.tr
 - [General Directorate of Land Registry and Cadastre (TKGM)](https://risegeouae.ae/company/general-directorate-of-land-registry-and-cadastre-tkgm.html) | Land Registries & Cadastre Authorities | Ankara, Turkey | https://www.tkgm.gov.tr
 - [General Directorate of Mapping (Turkey)](https://risegeouae.ae/company/general-directorate-of-mapping-turkey.html) | National Mapping & Survey Agencies | Ankara, Turkey | https://www.harita.gov.tr
-- [Institution of Surveyors of Uganda](https://risegeouae.ae/company/institution-of-surveyors-of-uganda.html) | Professional Bodies & Licensing Councils | Kampala, Uganda | no website listed
+- [Institution of Surveyors of Uganda](https://risegeouae.ae/company/institution-of-surveyors-of-uganda.html) | Professional Bodies & Licensing Councils | Kampala, Uganda | http://www.surveyorsofuganda.org
+- [Makerere University, Department of Geomatics and Land Management](https://risegeouae.ae/company/makerere-university-department-of-geomatics-and-land-management.html) | Universities (Surveying, GIS & Geomatics) | Uganda | http://www.tech.mak.ac.ug/survey
 - [Uganda Lands and Surveys Department](https://risegeouae.ae/company/uganda-lands-and-surveys-department.html) | National Mapping & Survey Agencies | Entebbe, Uganda | no website listed
-- [Big 5 Global](https://risegeouae.ae/company/big-5-global.html) | Conferences & Exhibitions | Dubai, United Arab Emirates | https://www.big5global.com
-- [Department of Municipalities and Transport – Abu Dhabi (ADSDI)](https://risegeouae.ae/company/department-of-municipalities-and-transport-abu-dhabi-adsdi.html) | Municipal GIS Departments | Abu Dhabi, United Arab Emirates | https://www.dmt.gov.ae
 - [Esri Middle East and Africa User Conference](https://risegeouae.ae/company/esri-middle-east-and-africa-user-conference.html) | Conferences & Exhibitions | Dubai, United Arab Emirates | no website listed
 - [Federal Geographic Information Centre / UAE Federal Authority](https://risegeouae.ae/company/federal-geographic-information-centre-uae-federal-authority.html) | National Mapping & Survey Agencies | Abu Dhabi, United Arab Emirates | no website listed
-- [RICS Middle East and Africa](https://risegeouae.ae/company/rics-middle-east-and-africa.html) | Professional Bodies & Licensing Councils | Dubai, United Arab Emirates | https://www.rics.org
+- [Military Survey Department (UAE)](https://risegeouae.ae/company/military-survey-department-uae.html) | National Mapping & Survey Agencies | United Arab Emirates | no website listed
+- [Mohammed Bin Rashid Space Centre (MBRSC)](https://risegeouae.ae/company/mohammed-bin-rashid-space-centre-mbrsc.html) | Space Agencies | Dubai, United Arab Emirates | https://www.mbrsc.ae
 - [Sharjah Municipality – GIS](https://risegeouae.ae/company/sharjah-municipality-gis.html) | Municipal GIS Departments | Sharjah, United Arab Emirates | no website listed
+- [UAE Space Agency](https://risegeouae.ae/company/uae-space-agency.html) | Space Agencies | Abu Dhabi, United Arab Emirates | https://space.gov.ae
+- [General Authority for Land, Survey and Urban Planning (GALSUP)](https://risegeouae.ae/company/general-authority-for-land-survey-and-urban-planning-galsup.html) | National Mapping & Survey Agencies | Sana'a, Yemen | no website listed
+- [UST GIS Center for Training and Research](https://risegeouae.ae/company/ust-gis-center-for-training-and-research.html) | Training Centres | Sana'a, Yemen | https://ust.edu/en/gis-center-for-training-and-research/
 - [Survey Department Zambia](https://risegeouae.ae/company/survey-department-zambia.html) | National Mapping & Survey Agencies | Lusaka, Zambia | no website listed
+- [Zambia Survey Department](https://risegeouae.ae/company/zambia-survey-department.html) | National Mapping & Survey Agencies | Zambia | no website listed
 - [Department of the Surveyor-General (Zimbabwe)](https://risegeouae.ae/company/department-of-the-surveyor-general-zimbabwe.html) | National Mapping & Survey Agencies | Harare, Zimbabwe | no website listed
+- [Survey Institute of Zimbabwe](https://risegeouae.ae/company/survey-institute-of-zimbabwe.html) | Professional Bodies & Licensing Councils | Zimbabwe | http://www.siz.org.zw
+- [Zimbabwe Institute of Geomatics](https://risegeouae.ae/company/zimbabwe-institute-of-geomatics.html) | Professional Bodies & Licensing Councils | Zimbabwe | http://www.zig.org.zw

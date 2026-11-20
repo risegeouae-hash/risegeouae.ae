@@ -12,8 +12,8 @@ EMAIL = "info@risegeouae.ae"
 SUBMIT_ENDPOINT = ""
 TODAY = datetime.date.today().isoformat()
 TODAY_H = datetime.date.today().strftime("%-d %b %Y")
-DISCLOSURE = ("Disclosure: this site runs on risegeouae.ae, the domain of Rise Geo Control Systems Trading, a survey equipment "
-              "dealer that is listed in this directory. Listings are never paid for and Rise Geo gets no priority in ordering, rankings or “where to buy” lists.")
+OWNER = "Rise Geo Control Systems Trading LLC"; OWN_BRAND = "GeoTexon"
+DISCLOSURE = ("GeoAtlas MEA is published by Rise Geo Control Systems Trading LLC, a survey equipment supplier, rental and training company in Dubai, United Arab Emirates, and the UAE partner of the GeoTexon brand. Rise Geo and GeoTexon appear first in the lists they belong to.")
 
 here = pathlib.Path(__file__).parent
 out = here.parent
@@ -64,12 +64,12 @@ for r in rows:
     r["rank"] = min([ROLE_RANK.index(b) for b in r["bts"] if b in ROLE_RANK] or [99])
     r["svc"] = [x.strip() for x in r["subcategories"].split(";") if x.strip()]
     r["brandlist"] = [x.strip() for x in r["brands"].split(";") if x.strip()]
-    r["checked"] = "check" not in (r["source"] + " " + r["description"]).lower()
+    r["checked"] = r["verified"] == "yes" if r.get("verified") else "check" not in (r["source"] + " " + r["description"]).lower()
     r["region"] = REGION_OF.get(r["country"], "Regional (MEA)")
     r["cslug"] = slug(r["country"])
     r["secs"] = sorted({CAT[c]["sec"][2] for c in r["cats"]})
     for c in r["cats"]: CAT[c]["items"].append(r)
-order = lambda r: (r["rank"], not r["checked"], r["country"], r["name"].lower())
+order = lambda r: (r["name"] != OWNER, r["rank"], not r["checked"], r["country"], r["name"].lower())
 rows.sort(key=order)
 for c in CAT.values(): c["items"].sort(key=order)
 BYNAME = {r["name"]: r for r in rows}
@@ -84,9 +84,9 @@ for b in BRANDS: b["slug"] = slug(b["brand"]); b["dealers"] = []
 BR = {b["brand"]: b for b in BRANDS}
 for l in rd("brand-dealers.csv"):
     if l["brand"] in BR: BR[l["brand"]]["dealers"].append(l)
-DEALER_RANK = lambda l: (0 if "Regional office" in l["business_type"] else 1 if "Authorised" in l["business_type"] else 2 if "Dealer" in l["business_type"] else 3, l["country"], l["company"])
+DEALER_RANK = lambda l: (l["company"] != OWNER, 0 if "Regional office" in l["business_type"] else 1 if "Authorised" in l["business_type"] else 2 if "Dealer" in l["business_type"] else 3, l["country"], l["company"])
 for b in BRANDS: b["dealers"].sort(key=DEALER_RANK)
-BRANDS.sort(key=lambda b: (-len(b["dealers"]), b["brand"]))
+BRANDS.sort(key=lambda b: (b["brand"] != OWN_BRAND, -len(b["dealers"]), b["brand"]))
 company_brands = defaultdict(set)
 for b in BRANDS:
     for l in b["dealers"]: company_brands[l["company"]].add(b["brand"])
@@ -155,7 +155,7 @@ def page(path, title, desc, body, depth, jsonld=(), current="", og_type="website
 {body}
 </main>
 <footer class="site"><div class="wrap">
-<div class="about"><a class="brand" href="{rel(depth, "index.html")}">{ICON}<span>{SITE}</span></a><p>{TAGLINE}. {N} listings in {len(real_countries)} countries and {len(LIVE)} active categories, compiled from public registers, partner directories and company submissions.</p><p class="mono" style="font-size:12px">Updated {TODAY} · <a href="{rel(depth, "data/companies.csv")}">Download data (CSV)</a></p><p class="note">{e(DISCLOSURE)}</p></div>
+<div class="about"><a class="brand" href="{rel(depth, "index.html")}">{ICON}<span>{SITE}</span></a><p>{TAGLINE}. {N} listings in {len(real_countries)} countries and {len(LIVE)} active categories, compiled from public registers, partner directories and company submissions.</p><p class="mono" style="font-size:12px">Updated {TODAY} · <a href="{rel(depth, "data/companies.csv")}">Download data (CSV)</a></p></div>
 {foot}
 </div></footer>
 <script src="{rel(depth, "assets/site.js")}?v=2" defer></script>
@@ -191,7 +191,7 @@ def card(r, depth):
 {f'<p class="desc">{e(r["description"])}</p>' if r["description"] else ""}
 {f'<p class="brands"><b>Brands:</b> {e(", ".join(brands))}</p>' if brands else ""}
 {f'<div class="tags">{tags}</div>' if tags else ""}
-<div class="foot"><span class="host">{e(host(r["website"])) or "No website listed"}</span><span class="src{"" if r["checked"] else " check"}" title="Source: {e(r["source"])}"><i></i>{"Sourced" if r["checked"] else "Check"}</span></div>
+<div class="foot"><span class="host">{e(host(r["website"])) or "No website listed"}</span><span class="src{"" if r["checked"] else " check"}" title="Source: {e(r["source"])}"><i></i>{"Verified" if r["checked"] else "Unverified"}</span></div>
 </article>'''
 
 def grid(items, depth): return '<div class="grid">' + "".join(card(r, depth) for r in items) + "</div>"
@@ -200,7 +200,7 @@ def itemlist(name, items):
             "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": url("company/" + r["slug"] + ".html"), "name": r["name"]} for i, r in enumerate(items[:100])]}
 def faqld(faq): return {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": re.sub("<[^>]+>", "", a)}} for q, a in faq]} if faq else None
 def faqhtml(faq, title="Questions"): return f'<h2>{title}</h2>' + "".join(f'<details class="q" open><summary>{e(q)}</summary><p>{a}</p></details>' for q, a in faq) if faq else ""
-ORG = {"@context": "https://schema.org", "@type": "Organization", "@id": BASE_URL + "/#org", "name": SITE, "url": BASE_URL + "/", "description": TAGLINE, "areaServed": ["Middle East", "Africa"], "email": EMAIL}
+ORG = {"@context": "https://schema.org", "@type": "Organization", "@id": BASE_URL + "/#org", "name": SITE, "url": BASE_URL + "/", "description": TAGLINE, "areaServed": ["Middle East", "Africa"], "email": EMAIL, "parentOrganization": {"@type": "Organization", "name": OWNER, "url": "https://rise-geo.com", "brand": {"@type": "Brand", "name": OWN_BRAND, "url": "https://geotexon.com"}}}
 WEBSITE = {"@context": "https://schema.org", "@type": "WebSite", "@id": BASE_URL + "/#site", "name": SITE, "url": BASE_URL + "/", "publisher": {"@id": BASE_URL + "/#org"},
            "potentialAction": {"@type": "SearchAction", "target": {"@type": "EntryPoint", "urlTemplate": BASE_URL + "/directory.html?q={search_term_string}"}, "query-input": "required name=search_term_string"}}
 def catlink(depth, name, n=True):
@@ -301,7 +301,7 @@ for s in SECTIONS:
     d = 1; cats = sec_cats(s); live = [c for c in cats if c["items"]]
     h, ld = hero(d, [("Home", "index.html"), ("Directory", "directory.html"), (s[1], "")], e(s[1]), f'{e(s[3])} {sec_count(s)} organisations in {len(live)} categories.', "Directory section")
     note = f'<p class="note">{len(cats) - len(live)} more categories in this section are open for listings and will appear once a company is added. <a href="{rel(d, "submit.html")}">List your company</a>.</p>' if len(cats) > len(live) else ""
-    disc = f'<p class="disclose">{e(DISCLOSURE)}</p>' if s[2] == "products-equipment" else ""
+    disc = ""
     page(f"section/{s[2]}.html", f"{s[1]} Directory – Middle East & Africa | {SITE}", f"{s[3]} {sec_count(s)} organisations across the Middle East and Africa.",
          h + f'<div class="wrap listing">{sec_body(s, d)}{note}{disc}</div>', d, [ld], "Directory")
 
@@ -324,7 +324,7 @@ for c in LIVE:
     chips = '<div class="chips" style="margin-bottom:18px">' + "".join(f'<a class="chip" href="{rel(d, "country/" + slug(x) + ".html")}">{e(x if x != "Regional (MEA)" else "Region-wide")}<span class="n">{n}</span></a>' for x, n in cc.most_common()) + "</div>"
     faq = [(f"How many {c['category']} are listed in the Middle East and Africa?", f"{len(items)} are listed today, in {andjoin([x for x,_ in cc.most_common() if x!='Regional (MEA)'][:6]) or 'region-wide entries'}{' and more' if len(cc)>6 else ''}. The list grows as companies are added; any firm can list itself for free.")]
     if "UAE" not in c["category"] and cc.get("United Arab Emirates"): faq.append((f"Which {c['category']} are in the UAE?", andjoin([r["name"] for r in items if r["country"] == "United Arab Emirates"][:8]) + (" and others." if cc["United Arab Emirates"] > 8 else ".")))
-    disc = f'<p class="disclose">{e(DISCLOSURE)}</p>' if s[2] == "products-equipment" else ""
+    disc = ""
     body = h + f'<div class="wrap listing">{tabs}{brandsec}{chips}{grid(items, d)}{learn_strip(d, [c["category"]])}<div class="prose">{faqhtml(faq)}</div>{disc}<p class="note" style="margin-top:24px">Missing a company? <a href="{rel(d, "submit.html")}">Add it for free</a> or <a href="{rel(d, "claim.html")}">claim an existing profile</a>.</p></div>'
     page(f"category/{c['slug']}.html", f"{c['category']} – {len(items)} in the Middle East & Africa | {SITE}", answer[:158], body, d,
          [itemlist(f"{c['category']} in the Middle East and Africa", items), ld, faqld(faq)], "Directory")
@@ -378,7 +378,8 @@ for r in rows:
              ("Brands", ", ".join(f'<a href="{rel(d, "brand/" + BR[b]["slug"] + ".html")}">{e(b)}</a>' if b in BR else e(b) for b in brands) or "–"),
              ("Website", f'<a href="{e(r["website"])}" rel="noopener nofollow" target="_blank">{e(host(r["website"]))} ↗</a>' if r["website"] else "Not listed"),
              ("Phone", f'<span class="mono">{e(r["phone"])}</span>' if r["phone"] else "Not listed"),
-             ("Source", f'<span class="src{"" if r["checked"] else " check"}"><i></i>{e(r["source"])}</span>')]
+             ("Status", f'<span class="src{"" if r["checked"] else " check"}"><i></i>{"Verified" if r["checked"] else "Unverified, details to confirm"}</span>'),
+             ("Source", e(r["source"]))]
     h, cld = hero(d, [("Home", "index.html"), (cname, "country/" + r["cslug"] + ".html"), (r["name"], "")], e(r["name"]), e(r["description"]), r["primary"])
     body = h + f'''<div class="wrap detail"><div class="prose"><p class="answer">{e(summary)}</p>
 <h2>Directory categories</h2><div class="chips">{"".join(catlink(d, c) for c in r["cats"])}</div>
@@ -435,6 +436,8 @@ page("countries.html", f"Geospatial Companies by Country – 70 Middle East & Af
      h + f'<div class="wrap listing">{country_tiles(0)}</div>', 0, [ld], "Directory")
 
 # ------------------------------------------------------------------ brands
+BRAND_SITE = {"GeoTexon": "https://geotexon.com", "Top Tech": "https://www.hexinsurvey.com"}
+OWN_NOTE = {"Top Tech": '<p class="disclose"><b>Unverified.</b> Added from a submission that names Shanghai Hexin Survey Instrument Co., Ltd (Shanghai, China; <a href="https://www.hexinsurvey.com" rel="noopener nofollow" target="_blank">hexinsurvey.com</a>) as the brand owner. That website does not mention Top Tech yet, and no separate Top Tech website was found, so the product lines are still to be confirmed.</p>', "GeoTexon": '<p>Official site: <a href="https://geotexon.com" rel="noopener" target="_blank">geotexon.com</a>. In the UAE, GeoTexon is supplied by <a href="../company/rise-geo-control-systems-trading-llc.html">Rise Geo Control Systems Trading LLC</a>. Models marked “in development” are not yet released.</p>'}
 for b in BRANDS:
     d = 1; dl = b["dealers"]; byc = defaultdict(list)
     for l in dl: byc[l["country"]].append(l)
@@ -447,13 +450,13 @@ for b in BRANDS:
         return f'<tr><td>{nm}</td><td>{e(l["business_type"])}</td><td>{e(r["city"]) if r else ""}</td></tr>'
     tables = "".join(f'<h3>{e(c if c != "Regional (MEA)" else "Region-wide")}</h3><div class="tbl"><table><thead><tr><th>Company</th><th>Role</th><th>City</th></tr></thead><tbody>{"".join(dl_row(l) for l in ls)}</tbody></table></div>' for c, ls in sorted(byc.items(), key=lambda t: (t[0] != "United Arab Emirates", t[0])))
     facts = [("Parent group", e(b["parent_group"])), ("Origin", e(b["origin_country"])), ("Product lines", e(b["product_lines"])), ("MEA partners listed", str(len(dl)))]
-    bld = {"@context": "https://schema.org", "@type": "Brand", "name": b["brand"], "description": answer, "url": url(f"brand/{b['slug']}.html")}
-    body = h + f'<div class="wrap detail"><div class="prose"><p class="answer">{e(answer)}</p><h2>Where to buy {e(b["brand"])}</h2><p class="note">Ordered by role: regional offices first, then authorised distributors, then dealers. Roles marked “role not stated on page” come from the manufacturer\'s contact page, which does not label roles; confirm with the manufacturer.</p>{tables or "<p>No partners listed yet.</p>"}<p class="disclose">{e(DISCLOSURE)}</p></div><aside><div class="panel"><dl class="facts">{"".join(f"<dt>{k}</dt><dd>{v}</dd>" for k, v in facts)}</dl><p style="margin:18px 0 0"><a class="btn solid" href="{rel(d, "submit.html")}">Are you a {e(b["brand"])} dealer? List free</a></p></div></aside></div>'
+    bld = {"@context": "https://schema.org", "@type": "Brand", "name": b["brand"], "description": answer, "url": url(f"brand/{b['slug']}.html"), **({"sameAs": [BRAND_SITE[b["brand"]]]} if b["brand"] in BRAND_SITE else {})}
+    body = h + f'<div class="wrap detail"><div class="prose"><p class="answer">{e(answer)}</p><h2>Where to buy {e(b["brand"])}</h2><p class="note">Ordered by role: regional offices first, then authorised distributors, then dealers. Roles marked “role not stated on page” come from the manufacturer\'s contact page, which does not label roles; confirm with the manufacturer.</p>{tables or "<p>No partners listed yet.</p>"}{OWN_NOTE.get(b["brand"], "")}</div><aside><div class="panel"><dl class="facts">{"".join(f"<dt>{k}</dt><dd>{v}</dd>" for k, v in facts)}</dl><p style="margin:18px 0 0"><a class="btn solid" href="{rel(d, "submit.html")}">Are you a {e(b["brand"])} dealer? List free</a></p></div></aside></div>'
     page(f"brand/{b['slug']}.html", f"{b['brand']} Dealers & Distributors in the Middle East & Africa | {SITE}", answer[:158], body, d, [bld, ld], "Directory")
 h, ld = hero(0, [("Home", "index.html"), ("Brands", "")], "Brands and where to buy them", f"{len(BRANDS)} equipment, software and imagery brands, each with its regional offices, distributors and dealers in the Middle East and Africa.")
 btiles = '<div class="tiles">' + "".join(f'<a class="tile" href="brand/{b["slug"]}.html"><span>{e(b["brand"])}<small>{e(b["product_lines"][:70])}</small></span><em>{len(b["dealers"])}</em></a>' for b in BRANDS) + "</div>"
 page("brands.html", f"Survey Equipment & Geospatial Software Brands – Where to Buy in MEA | {SITE}", "Find regional offices, authorised distributors and dealers for Leica, Trimble, Topcon, Esri, DJI and more across the Middle East and Africa.",
-     h + f'<div class="wrap listing">{btiles}<p class="disclose">{e(DISCLOSURE)}</p></div>', 0, [ld], "Directory")
+     h + f'<div class="wrap listing">{btiles}</div>', 0, [ld], "Directory")
 
 # ------------------------------------------------------------------ articles
 def byline(a): return f'<p class="byline">By <a href="{rel(a["depth"], "authors.html")}">{SITE} editorial team</a> ({e(a["author_role"])}) · Technical review: pending, see <a href="{rel(a["depth"], "editorial-policy.html")}">editorial policy</a> · Published {TODAY_H} · Last reviewed {TODAY_H}</p>'
@@ -471,7 +474,7 @@ for k, a in ART.items():
     faq = [(q, ans) for q, ans in a["faq"]]
     related = "".join(f'<li><a href="{rel(d, b["path"])}">{e(b["title"])}</a></li>' for kk, b in ART.items() if kk != k)
     catlinks = "".join(catlink(d, c) for c in a["cats"] if c in CAT and CAT[c]["items"])
-    disc = f'<p class="disclose">{e(DISCLOSURE)}</p>' if a.get("disclose") else ""
+    disc = ""
     art_ld = {"@context": "https://schema.org", "@type": "Article" if not a.get("glossary") else "Article", "headline": a["title"], "description": a["answer"], "datePublished": TODAY, "dateModified": TODAY,
               "author": {"@type": "Organization", "name": f"{SITE} editorial team", "url": url("authors.html")}, "publisher": {"@id": BASE_URL + "/#org"},
               "mainEntityOfPage": url(a["path"]), "about": [{"@type": "Thing", "name": c} for c in a["cats"]], "isAccessibleForFree": True, "inLanguage": "en"}
@@ -737,12 +740,12 @@ simple("about.html", "About", f"About {SITE}", f"{TAGLINE}, built to put every f
        f'''<p class="answer">{SITE} is an open directory of the geospatial industry across the GCC, the wider Middle East and all of Africa. It is free to search, free to be listed in, and its data is free to reuse.</p>
 <h2>What we include</h2><p>Organisations whose main work is geospatial: land, engineering and hydrographic survey; drone, aerial and laser scanning; GIS, remote sensing and location intelligence; BIM and digital twins; survey equipment and software; and the agencies, universities, training centres, professional bodies and events around them. The directory has {len(DCATS)} categories in four sections. An organisation can appear in many categories.</p>
 <h2 id="method">Methodology</h2><p>Listings are compiled from public registers, manufacturer partner and dealer pages, business directories and company submissions. Only business contact details published by the organisation or a public authority are shown. Equipment and software lists are ordered by role: manufacturers and regional offices first, then authorised distributors, then dealers and suppliers. Rankings, when published, will state their data sources, inclusion criteria and scoring.</p>
-<p><span class="src"><i></i>Sourced</span> entries come from a published register or partner directory. <span class="src check"><i></i>Check</span> entries come from general public information and have not yet been confirmed with the organisation.</p>
+<p><span class="src"><i></i>Verified</span> entries were confirmed on a named source page or on the organisation’s live official website. <span class="src check"><i></i>Unverified</span> entries were found in a public source but their details are still to be confirmed; they are listed after verified entries.</p>
 <h2>Main sources</h2><ul>{"".join(f"<li>{e(s)} <span class=meta>({n})</span></li>" for s, n in srcs.most_common(20))}</ul>
-<h2>Disclosure</h2><p>{e(DISCLOSURE)}</p>
+<h2 id="publisher">Publisher</h2><p>{e(DISCLOSURE)} See the <a href="company/rise-geo-control-systems-trading-llc.html">Rise Geo profile</a> and the <a href="brand/geotexon.html">GeoTexon brand page</a>.</p>
 <h2>Reuse the data</h2><p>See <a href="research.html#data">data downloads</a>. Please credit {SITE} with a link.</p>''', f"How {SITE} collects, labels, orders and updates geospatial listings for the Middle East and Africa.", [ORG])
 simple("editorial-policy.html", "Editorial policy", "Editorial policy", "How we choose topics, check facts, label sponsored content and keep the directory independent.",
-       f'''<h2>Independence</h2><p>Listings are free and are never paid for placement or ranking. Sponsored content, if any, is labelled “Sponsored” at the top of the page. {e(DISCLOSURE)}</p>
+       f'''<h2>Independence</h2><p>Listings are free and are never paid for placement or ranking. See <a href="about.html#publisher">who publishes this site</a>. Sponsored content, if any, is labelled “Sponsored” at the top of the page. Rankings and “best of” lists, when published, will not rank the publisher’s own company or brand.</p>
 <h2>How articles are made</h2><p>Each article targets a real question from buyers, surveyors or students, opens with a direct answer, cites primary sources (authority pages, standards, manufacturer specifications) and links to live listings. Drafts may be prepared with AI assistance; a named editor checks every number and rule before publication.</p>
 <h2>Technical review</h2><p>Guides, cost, buying and regulation pages are reviewed by a practising specialist. Pages whose review is still pending say so in the byline. We are recruiting reviewers: see <a href="authors.html">authors and reviewers</a>.</p>
 <h2>Unverified facts</h2><p>When a fact comes only from secondary sources, such as a circular number we have not seen in an official copy, we say so on the page and keep checking.</p>
@@ -759,7 +762,7 @@ simple("authors.html", "Authors", "Authors and technical reviewers", "Who writes
 simple("advertise.html", "Advertise", "Advertise and sponsorship", "Reach survey, GIS, BIM and geospatial buyers across the Middle East and Africa, with clear labels.",
        f'''<h2>Options</h2><ul><li><b>Sponsored articles and case studies</b>, always labelled “Sponsored” with the sponsor named.</li><li><b>Event and course promotion</b> in Opportunities.</li><li><b>Newsletter sponsorship</b> of the weekly MEA geospatial roundup.</li></ul>
 <h2>What we never sell</h2><p>Listing order, rankings and “where to buy” order are never for sale. Manufacturers and regional offices always come first, then authorised distributors, then dealers, by the same rule for everyone.</p>
-<h2>Disclosure</h2><p>{e(DISCLOSURE)}</p><p>Contact <a href="mailto:{EMAIL}?subject=Advertising">{EMAIL}</a>.</p>''', "Advertising and sponsorship options at GeoAtlas MEA, and our disclosure rules.")
+<p>Contact <a href="mailto:{EMAIL}?subject=Advertising">{EMAIL}</a>.</p>''', "Advertising and sponsorship options at GeoAtlas MEA, and our disclosure rules.")
 simple("contact.html", "Contact", "Contact", "Listings, corrections, partnerships, contributions and advertising.",
        f'<p class="answer">Email <a href="mailto:{EMAIL}">{EMAIL}</a>. To add a listing use <a href="submit.html">List your company</a>; to update one use <a href="claim.html">Claim your profile</a>.</p>', "Contact GeoAtlas MEA.", [ORG])
 
@@ -817,13 +820,14 @@ home = f'''<section class="hero"><div class="wrap">
 <div class="stats"><div><b>{N}</b>listings</div><div><b>{len(real_countries)}</b>countries</div><div><b>{len(LIVE)}</b>categories</div><div><b>{len(BRANDS)}</b>brands</div></div></div>
 <div>{map_svg(0)}</div>
 </div></section>
+<section class="s"><div class="wrap"><h2>Survey equipment, rental and training in Dubai</h2><p class="sub">{e(OWNER)} supplies total stations, GNSS receivers and survey equipment, with rental, training and survey services, and is the UAE partner of GeoTexon instruments.</p><div class="grid">{card(BYNAME[OWNER], 0)}<a class="card" href="brand/geotexon.html" style="text-decoration:none"><h3>GeoTexon</h3><p style="color:var(--ink,inherit)">{e(BR[OWN_BRAND]["product_lines"])}</p><p class="meta">Brand · United Kingdom · supplied in the UAE by Rise Geo</p></a></div></div></section>
 <section class="s"><div class="wrap"><h2>Browse the directory</h2><p class="sub">Four sections, named the way buyers search. Every organisation can appear in several categories.</p>{sec_tiles}
 <h3 style="margin-top:28px">Popular categories</h3><div class="chips">{"".join(catlink(0, c["category"]) for c in popular)}</div></div></section>
 <section class="s alt"><div class="wrap"><h2>Brands and where to buy them</h2><p class="sub">Regional offices first, then authorised distributors, then dealers.</p><div class="chips">{"".join(f'<a class="chip" href="brand/{b["slug"]}.html">{e(b["brand"])}<span class="n">{len(b["dealers"])}</span></a>' for b in topbrands)}<a class="chip" href="brands.html">All {len(BRANDS)} brands</a></div></div></section>
 <section class="s"><div class="wrap"><h2>Guides and BIM Hub</h2><p class="sub">Answers first, sources cited, and linked to the firms that do the work.</p>{art_cards(0, list(ART))}<p style="margin-top:18px"><a class="btn ghost" href="bim.html">Open the BIM Hub</a> <a class="btn ghost" href="regulations.html">Regulations by country</a> <a class="btn ghost" href="research/state-of-mea-geospatial-2026.html">State of MEA geospatial 2026</a></p></div></section>
 <section class="s alt"><div class="wrap"><h2>Browse by country</h2><p class="sub">All 70 countries of the Middle East and Africa.</p>{country_tiles(0, with_empty=False)}<p style="margin-top:16px"><a href="countries.html">See all 70 countries</a></p></div></section>
 <section class="s"><div class="wrap" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:32px;align-items:start">
-<div><h2>Grow with the community</h2><p class="sub">List your organisation free, claim your profile, review for us, or post a job or tender.</p><p><a class="btn primary" href="submit.html">List your company</a> <a class="btn ghost" href="claim.html">Claim your profile</a></p><p class="note">{e(DISCLOSURE)}</p></div>
+<div><h2>Grow with the community</h2><p class="sub">List your organisation free, claim your profile, review for us, or post a job or tender.</p><p><a class="btn primary" href="submit.html">List your company</a> <a class="btn ghost" href="claim.html">Claim your profile</a></p></div>
 <div>{"".join(f'<details class="q"><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q, a in FAQ[:4])}<p><a href="faq.html">More questions</a></p></div>
 </div></section>'''
 page("index.html", f"{SITE} | Survey, GIS, BIM & Geospatial Companies Directory – Middle East & Africa",
@@ -864,7 +868,7 @@ oldslugs = [s.strip() for s in (D / "old_company_slugs.txt").read_text().split()
 newslugs = {r["slug"] for r in rows}
 REDIR = {f"/category/{k}.html": "/" + v for k, v in OLDCAT.items()}
 REDIR.update({f"/company/{s}.html": "/directory.html" for s in oldslugs if s not in newslugs})
-REDIR["/company/rise-geo.html"] = "/company/rise-geo-control-systems-trading.html" if "rise-geo-control-systems-trading" in newslugs else "/directory.html"
+REDIR["/company/rise-geo.html"] = "/company/rise-geo-control-systems-trading-llc.html" if "rise-geo-control-systems-trading-llc" in newslugs else "/directory.html"
 (here / "redirects.txt").write_text("".join(f"Redirect 301 {a} {b}\n" for a, b in sorted(REDIR.items())))
 (out / "CNAME").write_text(BASE_URL.split("//")[1] + "\n"); (out / ".nojekyll").write_text("")
 print(f"Built {len(SITEMAP)} indexable pages, {N} listings, {len(LIVE)} live categories, {len(BRANDS)} brands, {len(REDIR)} redirects")

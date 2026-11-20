@@ -1,43 +1,45 @@
-brand,parent_group,origin_country,product_lines
-Leica Geosystems,Hexagon,Switzerland,Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Theodolites and levels; Machine control and guidance; Aerial cameras and airborne LiDAR systems; Monitoring sensors (tilt, crack, settlement)
-GeoMax,Hexagon,Switzerland,Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels; Construction and rotating lasers
-Trimble,Trimble,United States,Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Mobile and handheld (SLAM) scanners; Machine control and guidance; Rugged field controllers and tablets; Survey CAD and field software
-Spectra Geospatial,Trimble,United States,GNSS receivers and antennas; Total stations and robotic total stations; Rugged field controllers and tablets
-Nikon (survey instruments),Trimble (Nikon-Trimble),Japan,Total stations and robotic total stations; Theodolites and levels
-Tekla,Trimble,Finland,BIM software (structural modelling)
-Topcon,Topcon,Japan,Total stations and robotic total stations; GNSS receivers and antennas; Machine control and guidance; Terrestrial laser scanners; Theodolites and levels
-Sokkia,Topcon,Japan,Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels
-CHC Navigation,CHC Navigation,China,GNSS receivers and antennas; Mobile and handheld (SLAM) scanners; Sonar, echo sounders and marine sensors; Machine control and guidance
-South Surveying & Mapping,South,China,GNSS receivers and antennas; Total stations and robotic total stations; Theodolites and levels; Sonar, echo sounders and marine sensors
-Hi-Target,Hi-Target,China,GNSS receivers and antennas; Total stations and robotic total stations; Sonar, echo sounders and marine sensors
-SinoGNSS,ComNav Technology,China,GNSS receivers and antennas
-Toknav,not verified,not verified,Survey equipment (product lines not verified)
-Muya,not verified,not verified,Survey equipment (product lines not verified)
-SatLab,SatLab Geosolutions,Sweden,GNSS receivers and antennas; Total stations and robotic total stations; Sonar, echo sounders and marine sensors
-Stonex,Stonex,Italy,GNSS receivers and antennas; Total stations and robotic total stations; Terrestrial laser scanners
-Emlid,Emlid,Hungary,GNSS receivers and antennas
-Septentrio,Septentrio,Belgium,GNSS receivers and antennas
-RIEGL,RIEGL,Austria,Aerial cameras and airborne LiDAR systems; Terrestrial laser scanners; Drone sensors and payloads
-FARO,FARO,United States,Terrestrial laser scanners; Mobile and handheld (SLAM) scanners
-NavVis,NavVis,Germany,Mobile and handheld (SLAM) scanners
-DJI Enterprise,DJI,China,Survey and mapping drones; Drone sensors and payloads
-Wingtra,Wingtra,Switzerland,Survey and mapping drones
-Quantum Systems,Quantum Systems,Germany,Survey and mapping drones
-Kongsberg Discovery,Kongsberg,Norway,Sonar, echo sounders and marine sensors
-Teledyne Marine,Teledyne,United States,Sonar, echo sounders and marine sensors
-IDS GeoRadar,Hexagon,Italy,GPR and utility locators; Monitoring sensors (tilt, crack, settlement)
-Radiodetection,SPX,United Kingdom,GPR and utility locators
-Brunton,Brunton,United States,Survey accessories (compasses and field instruments)
-Esri,Esri,United States,Desktop and enterprise GIS; Web mapping and map APIs; Cloud geospatial platforms; Asset and network management GIS
-Hexagon Geospatial,Hexagon,Sweden,Remote sensing and image processing; Desktop and enterprise GIS
-Autodesk,Autodesk,United States,Survey CAD and field software; BIM software (design and CDE)
-Bentley Systems,Bentley Systems,United States,BIM software (infrastructure); Point cloud and LiDAR processing; Digital twin platforms
-Graphisoft,Nemetschek,Hungary,BIM software (Archicad)
-Asite,Asite,United Kingdom,Common data environments (CDE)
-Revizto,Revizto,Switzerland,BIM coordination and clash detection software
-Pix4D,Pix4D,Switzerland,Photogrammetry and drone processing
-Agisoft,Agisoft,Russia,Photogrammetry and drone processing
-Planet,Planet Labs,United States,Optical satellite imagery; Change detection
-Airbus Defence and Space,Airbus,France,Optical satellite imagery; SAR imagery
-Maxar Intelligence (Vantor),Maxar,United States,Optical satellite imagery
-ICEYE,ICEYE,Finland,SAR imagery
+brand,parent_group,origin_country,product_lines,
+Leica Geosystems,Hexagon,Switzerland,Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Theodolites and levels; Machine control and guidance; Aerial cameras and airborne LiDAR systems; Monitoring sensors (tilt,"[' crack', ' settlement)']"
+GeoMax,Hexagon,Switzerland,Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels; Construction and rotating lasers,
+Trimble,Trimble,United States,Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Mobile and handheld (SLAM) scanners; Machine control and guidance; Rugged field controllers and tablets; Survey CAD and field software,
+Spectra Geospatial,Trimble,United States,GNSS receivers and antennas; Total stations and robotic total stations; Rugged field controllers and tablets,
+Nikon (survey instruments),Trimble (Nikon-Trimble),Japan,Total stations and robotic total stations; Theodolites and levels,
+Tekla,Trimble,Finland,BIM software (structural modelling),
+Topcon,Topcon,Japan,Total stations and robotic total stations; GNSS receivers and antennas; Machine control and guidance; Terrestrial laser scanners; Theodolites and levels,
+Sokkia,Topcon,Japan,Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels,
+CHC Navigation,CHC Navigation,China,GNSS receivers and antennas; Mobile and handheld (SLAM) scanners; Sonar,[' echo sounders and marine sensors; Machine control and guidance']
+South Surveying & Mapping,South,China,GNSS receivers and antennas; Total stations and robotic total stations; Theodolites and levels; Sonar,[' echo sounders and marine sensors']
+Hi-Target,Hi-Target,China,GNSS receivers and antennas; Total stations and robotic total stations; Sonar,[' echo sounders and marine sensors']
+SinoGNSS,ComNav Technology,China,GNSS receivers and antennas,
+Toknav,not verified,not verified,Survey equipment (product lines not verified),
+Muya,not verified,not verified,Survey equipment (product lines not verified),
+SatLab,SatLab Geosolutions,Sweden,GNSS receivers and antennas; Total stations and robotic total stations; Sonar,[' echo sounders and marine sensors']
+Stonex,Stonex,Italy,GNSS receivers and antennas; Total stations and robotic total stations; Terrestrial laser scanners,
+Emlid,Emlid,Hungary,GNSS receivers and antennas,
+Septentrio,Septentrio,Belgium,GNSS receivers and antennas,
+RIEGL,RIEGL,Austria,Aerial cameras and airborne LiDAR systems; Terrestrial laser scanners; Drone sensors and payloads,
+FARO,FARO,United States,Terrestrial laser scanners; Mobile and handheld (SLAM) scanners,
+NavVis,NavVis,Germany,Mobile and handheld (SLAM) scanners,
+DJI Enterprise,DJI,China,Survey and mapping drones; Drone sensors and payloads,
+Wingtra,Wingtra,Switzerland,Survey and mapping drones,
+Quantum Systems,Quantum Systems,Germany,Survey and mapping drones,
+Kongsberg Discovery,Kongsberg,Norway,Sonar,[' echo sounders and marine sensors']
+Teledyne Marine,Teledyne,United States,Sonar,[' echo sounders and marine sensors']
+IDS GeoRadar,Hexagon,Italy,GPR and utility locators; Monitoring sensors (tilt,"[' crack', ' settlement)']"
+Radiodetection,SPX,United Kingdom,GPR and utility locators,
+Brunton,Brunton,United States,Survey accessories (compasses and field instruments),
+Esri,Esri,United States,Desktop and enterprise GIS; Web mapping and map APIs; Cloud geospatial platforms; Asset and network management GIS,
+Hexagon Geospatial,Hexagon,Sweden,Remote sensing and image processing; Desktop and enterprise GIS,
+Autodesk,Autodesk,United States,Survey CAD and field software; BIM software (design and CDE),
+Bentley Systems,Bentley Systems,United States,BIM software (infrastructure); Point cloud and LiDAR processing; Digital twin platforms,
+Graphisoft,Nemetschek,Hungary,BIM software (Archicad),
+Asite,Asite,United Kingdom,Common data environments (CDE),
+Revizto,Revizto,Switzerland,BIM coordination and clash detection software,
+Pix4D,Pix4D,Switzerland,Photogrammetry and drone processing,
+Agisoft,Agisoft,Russia,Photogrammetry and drone processing,
+Planet,Planet Labs,United States,Optical satellite imagery; Change detection,
+Airbus Defence and Space,Airbus,France,Optical satellite imagery; SAR imagery,
+Maxar Intelligence (Vantor),Maxar,United States,Optical satellite imagery,
+ICEYE,ICEYE,Finland,SAR imagery,
+GeoTexon,GeoTexon,United Kingdom,GNSS receivers and antennas; Field controllers and data collectors; Total stations and robotic total stations (in development); Levels (in development); LiDAR systems (in development); Field software,
+Top Tech,"Shanghai Hexin Survey Instrument Co., Ltd",China,Survey instruments (product lines to be confirmed),

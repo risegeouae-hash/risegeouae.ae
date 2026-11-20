@@ -1,6 +1,6 @@
 # GeoAtlas MEA
 
-> The geospatial industry directory for the Middle East and Africa. 483 survey firms, GIS and BIM consultancies, equipment manufacturers and dealers, software vendors, agencies, universities and professional bodies across 49 countries, in 146 categories and four sections. Free to search; data downloadable as CSV and JSON (CC BY 4.0).
+> The geospatial industry directory for the Middle East and Africa. 737 survey firms, GIS and BIM consultancies, equipment manufacturers and dealers, software vendors, agencies, universities and professional bodies across 70 countries, in 146 categories and four sections. Free to search; data downloadable as CSV and JSON (CC BY 4.0).
 
 ## Key pages
 - [Directory search](https://risegeouae.ae/directory.html)
@@ -42,150 +42,174 @@
 - [Institutions & Community](https://risegeouae.ae/section/institutions-community.html): Agencies, registries, universities, training, professional bodies, events and NGOs.
 
 ## Categories
-- [Land Surveyors](https://risegeouae.ae/category/land-surveyors.html): 86 listings
-- [Cadastral & Boundary Surveyors](https://risegeouae.ae/category/cadastral-and-boundary-surveyors.html): 17 listings
-- [Real Estate & Building Surveyors](https://risegeouae.ae/category/real-estate-and-building-surveyors.html): 14 listings
-- [Topographic Surveyors](https://risegeouae.ae/category/topographic-surveyors.html): 60 listings
-- [Construction Setting-Out & As-Built Surveyors](https://risegeouae.ae/category/construction-setting-out-and-as-built-surveyors.html): 21 listings
+- [Land Surveyors](https://risegeouae.ae/category/land-surveyors.html): 131 listings
+- [Cadastral & Boundary Surveyors](https://risegeouae.ae/category/cadastral-and-boundary-surveyors.html): 18 listings
+- [Real Estate & Building Surveyors](https://risegeouae.ae/category/real-estate-and-building-surveyors.html): 16 listings
+- [Topographic Surveyors](https://risegeouae.ae/category/topographic-surveyors.html): 71 listings
+- [Construction Setting-Out & As-Built Surveyors](https://risegeouae.ae/category/construction-setting-out-and-as-built-surveyors.html): 22 listings
 - [Mining Surveyors](https://risegeouae.ae/category/mining-surveyors.html): 6 listings
-- [Geodetic & GNSS Survey Services](https://risegeouae.ae/category/geodetic-and-gnss-survey-services.html): 9 listings
-- [Monitoring & Deformation Surveys](https://risegeouae.ae/category/monitoring-and-deformation-surveys.html): 3 listings
-- [Utility Detection & GPR Surveys](https://risegeouae.ae/category/utility-detection-and-gpr-surveys.html): 4 listings
-- [Geophysical & Geotechnical Surveys](https://risegeouae.ae/category/geophysical-and-geotechnical-surveys.html): 2 listings
-- [Hydrographic & Bathymetric Surveys](https://risegeouae.ae/category/hydrographic-and-bathymetric-surveys.html): 16 listings
-- [Drone Survey & Mapping Companies](https://risegeouae.ae/category/drone-survey-and-mapping-companies.html): 41 listings
-- [Drone Inspection Services](https://risegeouae.ae/category/drone-inspection-services.html): 4 listings
-- [Aerial Survey & Photogrammetry Companies](https://risegeouae.ae/category/aerial-survey-and-photogrammetry-companies.html): 5 listings
-- [LiDAR Survey Companies](https://risegeouae.ae/category/lidar-survey-companies.html): 7 listings
-- [3D Laser Scanning Services](https://risegeouae.ae/category/3d-laser-scanning-services.html): 13 listings
+- [Geodetic & GNSS Survey Services](https://risegeouae.ae/category/geodetic-and-gnss-survey-services.html): 11 listings
+- [Monitoring & Deformation Surveys](https://risegeouae.ae/category/monitoring-and-deformation-surveys.html): 6 listings
+- [Utility Detection & GPR Surveys](https://risegeouae.ae/category/utility-detection-and-gpr-surveys.html): 6 listings
+- [Geophysical & Geotechnical Surveys](https://risegeouae.ae/category/geophysical-and-geotechnical-surveys.html): 9 listings
+- [Hydrographic & Bathymetric Surveys](https://risegeouae.ae/category/hydrographic-and-bathymetric-surveys.html): 32 listings
+- [Drone Survey & Mapping Companies](https://risegeouae.ae/category/drone-survey-and-mapping-companies.html): 47 listings
+- [Drone Inspection Services](https://risegeouae.ae/category/drone-inspection-services.html): 5 listings
+- [Aerial Survey & Photogrammetry Companies](https://risegeouae.ae/category/aerial-survey-and-photogrammetry-companies.html): 10 listings
+- [LiDAR Survey Companies](https://risegeouae.ae/category/lidar-survey-companies.html): 8 listings
+- [3D Laser Scanning Services](https://risegeouae.ae/category/3d-laser-scanning-services.html): 16 listings
 - [Mobile Mapping Services](https://risegeouae.ae/category/mobile-mapping-services.html): 2 listings
 - [360 Imaging & Virtual Tours](https://risegeouae.ae/category/360-imaging-and-virtual-tours.html): 1 listings
-- [GIS Consultants](https://risegeouae.ae/category/gis-consultants.html): 82 listings
-- [GIS Data Capture & Digitisation](https://risegeouae.ae/category/gis-data-capture-and-digitisation.html): 13 listings
-- [Mapping & Cartography Services](https://risegeouae.ae/category/mapping-and-cartography-services.html): 34 listings
-- [Custom GIS App Developers](https://risegeouae.ae/category/custom-gis-app-developers.html): 17 listings
+- [GIS Consultants](https://risegeouae.ae/category/gis-consultants.html): 99 listings
+- [GIS Data Capture & Digitisation](https://risegeouae.ae/category/gis-data-capture-and-digitisation.html): 15 listings
+- [Mapping & Cartography Services](https://risegeouae.ae/category/mapping-and-cartography-services.html): 43 listings
+- [Custom GIS App Developers](https://risegeouae.ae/category/custom-gis-app-developers.html): 19 listings
 - [Geospatial IT, Cloud & System Integrators](https://risegeouae.ae/category/geospatial-it-cloud-and-system-integrators.html): 6 listings
-- [Satellite Image Analysis & Remote Sensing Services](https://risegeouae.ae/category/satellite-image-analysis-and-remote-sensing-services.html): 23 listings
-- [Location Intelligence & GeoAI Companies](https://risegeouae.ae/category/location-intelligence-and-geoai-companies.html): 7 listings
+- [Satellite Image Analysis & Remote Sensing Services](https://risegeouae.ae/category/satellite-image-analysis-and-remote-sensing-services.html): 34 listings
+- [Location Intelligence & GeoAI Companies](https://risegeouae.ae/category/location-intelligence-and-geoai-companies.html): 8 listings
 - [BIM Consultants](https://risegeouae.ae/category/bim-consultants.html): 12 listings
-- [BIM Modelling & Coordination Services](https://risegeouae.ae/category/bim-modelling-and-coordination-services.html): 21 listings
+- [BIM Modelling & Coordination Services](https://risegeouae.ae/category/bim-modelling-and-coordination-services.html): 22 listings
 - [Scan-to-BIM Services](https://risegeouae.ae/category/scan-to-bim-services.html): 4 listings
 - [Digital Twin & Smart City Solutions](https://risegeouae.ae/category/digital-twin-and-smart-city-solutions.html): 19 listings
-- [Land Surveying Equipment Manufacturers](https://risegeouae.ae/category/land-surveying-equipment-manufacturers.html): 25 listings
+- [Land Surveying Equipment Manufacturers](https://risegeouae.ae/category/land-surveying-equipment-manufacturers.html): 27 listings
 - [Land Surveying Equipment Distributors](https://risegeouae.ae/category/land-surveying-equipment-distributors.html): 8 listings
-- [Land Surveying Equipment Dealers & Suppliers](https://risegeouae.ae/category/land-surveying-equipment-dealers-and-suppliers.html): 36 listings
+- [Land Surveying Equipment Dealers & Suppliers](https://risegeouae.ae/category/land-surveying-equipment-dealers-and-suppliers.html): 47 listings
 - [Land Surveying Equipment Rental](https://risegeouae.ae/category/land-surveying-equipment-rental.html): 5 listings
-- [Land Surveying Equipment Repair & Calibration](https://risegeouae.ae/category/land-surveying-equipment-repair-and-calibration.html): 6 listings
-- [GNSS Receiver Manufacturers](https://risegeouae.ae/category/gnss-receiver-manufacturers.html): 15 listings
+- [Land Surveying Equipment Repair & Calibration](https://risegeouae.ae/category/land-surveying-equipment-repair-and-calibration.html): 10 listings
+- [GNSS Receiver Manufacturers](https://risegeouae.ae/category/gnss-receiver-manufacturers.html): 16 listings
 - [GNSS Receiver Distributors](https://risegeouae.ae/category/gnss-receiver-distributors.html): 5 listings
-- [GNSS Receiver Dealers & Suppliers](https://risegeouae.ae/category/gnss-receiver-dealers-and-suppliers.html): 27 listings
+- [GNSS Receiver Dealers & Suppliers](https://risegeouae.ae/category/gnss-receiver-dealers-and-suppliers.html): 30 listings
 - [GNSS Receiver Rental](https://risegeouae.ae/category/gnss-receiver-rental.html): 3 listings
 - [GNSS Receiver Repair & Calibration](https://risegeouae.ae/category/gnss-receiver-repair-and-calibration.html): 4 listings
-- [Total Station Manufacturers](https://risegeouae.ae/category/total-station-manufacturers.html): 11 listings
+- [Total Station Manufacturers](https://risegeouae.ae/category/total-station-manufacturers.html): 12 listings
 - [Total Station Distributors](https://risegeouae.ae/category/total-station-distributors.html): 4 listings
-- [Total Station Dealers & Suppliers](https://risegeouae.ae/category/total-station-dealers-and-suppliers.html): 26 listings
+- [Total Station Dealers & Suppliers](https://risegeouae.ae/category/total-station-dealers-and-suppliers.html): 28 listings
 - [Total Station Rental](https://risegeouae.ae/category/total-station-rental.html): 3 listings
 - [Total Station Repair & Calibration](https://risegeouae.ae/category/total-station-repair-and-calibration.html): 3 listings
 - [Level & Construction Laser Manufacturers](https://risegeouae.ae/category/level-and-construction-laser-manufacturers.html): 2 listings
-- [3D Laser Scanner Manufacturers](https://risegeouae.ae/category/3d-laser-scanner-manufacturers.html): 12 listings
+- [3D Laser Scanner Manufacturers](https://risegeouae.ae/category/3d-laser-scanner-manufacturers.html): 13 listings
 - [3D Laser Scanner Distributors](https://risegeouae.ae/category/3d-laser-scanner-distributors.html): 1 listings
-- [3D Laser Scanner Dealers & Suppliers](https://risegeouae.ae/category/3d-laser-scanner-dealers-and-suppliers.html): 25 listings
+- [3D Laser Scanner Dealers & Suppliers](https://risegeouae.ae/category/3d-laser-scanner-dealers-and-suppliers.html): 26 listings
 - [Mobile Mapping System Manufacturers](https://risegeouae.ae/category/mobile-mapping-system-manufacturers.html): 3 listings
-- [Survey Drone Manufacturers](https://risegeouae.ae/category/survey-drone-manufacturers.html): 3 listings
+- [Survey Drone Manufacturers](https://risegeouae.ae/category/survey-drone-manufacturers.html): 4 listings
 - [Survey Drone Dealers & Suppliers](https://risegeouae.ae/category/survey-drone-dealers-and-suppliers.html): 2 listings
 - [Survey Drone Repair & Calibration](https://risegeouae.ae/category/survey-drone-repair-and-calibration.html): 1 listings
-- [Drone Sensor & LiDAR Payload Manufacturers](https://risegeouae.ae/category/drone-sensor-and-lidar-payload-manufacturers.html): 3 listings
+- [Drone Sensor & LiDAR Payload Manufacturers](https://risegeouae.ae/category/drone-sensor-and-lidar-payload-manufacturers.html): 4 listings
 - [Drone Sensor & LiDAR Payload Dealers & Suppliers](https://risegeouae.ae/category/drone-sensor-and-lidar-payload-dealers-and-suppliers.html): 1 listings
 - [Machine Control Manufacturers](https://risegeouae.ae/category/machine-control-manufacturers.html): 5 listings
 - [Machine Control Dealers & Suppliers](https://risegeouae.ae/category/machine-control-dealers-and-suppliers.html): 3 listings
 - [GPR & Utility Locator Manufacturers](https://risegeouae.ae/category/gpr-and-utility-locator-manufacturers.html): 2 listings
+- [GPR & Utility Locator Distributors](https://risegeouae.ae/category/gpr-and-utility-locator-distributors.html): 6 listings
 - [Hydrographic & Marine Equipment Manufacturers](https://risegeouae.ae/category/hydrographic-and-marine-equipment-manufacturers.html): 4 listings
 - [Monitoring Sensor Manufacturers](https://risegeouae.ae/category/monitoring-sensor-manufacturers.html): 1 listings
+- [Monitoring Sensor Distributors](https://risegeouae.ae/category/monitoring-sensor-distributors.html): 8 listings
 - [Survey Accessory & Field Controller Distributors](https://risegeouae.ae/category/survey-accessory-and-field-controller-distributors.html): 2 listings
 - [Survey Accessory & Field Controller Dealers & Suppliers](https://risegeouae.ae/category/survey-accessory-and-field-controller-dealers-and-suppliers.html): 1 listings
 - [GIS Software Vendors](https://risegeouae.ae/category/gis-software-vendors.html): 5 listings
-- [GIS Software Distributors & Resellers](https://risegeouae.ae/category/gis-software-distributors-and-resellers.html): 9 listings
-- [GIS Software Implementation Partners](https://risegeouae.ae/category/gis-software-implementation-partners.html): 28 listings
-- [Photogrammetry & Drone Mapping Software Vendors](https://risegeouae.ae/category/photogrammetry-and-drone-mapping-software-vendors.html): 2 listings
+- [GIS Software Distributors & Resellers](https://risegeouae.ae/category/gis-software-distributors-and-resellers.html): 10 listings
+- [GIS Software Implementation Partners](https://risegeouae.ae/category/gis-software-implementation-partners.html): 35 listings
+- [Photogrammetry & Drone Mapping Software Vendors](https://risegeouae.ae/category/photogrammetry-and-drone-mapping-software-vendors.html): 3 listings
 - [Photogrammetry & Drone Mapping Software Implementation Partners](https://risegeouae.ae/category/photogrammetry-and-drone-mapping-software-implementation-partners.html): 1 listings
 - [Survey CAD & Field Software Vendors](https://risegeouae.ae/category/survey-cad-and-field-software-vendors.html): 1 listings
 - [Survey CAD & Field Software Distributors & Resellers](https://risegeouae.ae/category/survey-cad-and-field-software-distributors-and-resellers.html): 1 listings
 - [BIM Software Vendors](https://risegeouae.ae/category/bim-software-vendors.html): 7 listings
 - [BIM Software Distributors & Resellers](https://risegeouae.ae/category/bim-software-distributors-and-resellers.html): 2 listings
 - [BIM Software Implementation Partners](https://risegeouae.ae/category/bim-software-implementation-partners.html): 3 listings
-- [Remote Sensing Software Vendors](https://risegeouae.ae/category/remote-sensing-software-vendors.html): 1 listings
+- [Remote Sensing Software Vendors](https://risegeouae.ae/category/remote-sensing-software-vendors.html): 2 listings
+- [Web Mapping & Map API Vendors](https://risegeouae.ae/category/web-mapping-and-map-api-vendors.html): 2 listings
 - [Digital Twin Platform Vendors](https://risegeouae.ae/category/digital-twin-platform-vendors.html): 1 listings
 - [Satellite Imagery Providers](https://risegeouae.ae/category/satellite-imagery-providers.html): 8 listings
-- [Satellite Imagery Resellers](https://risegeouae.ae/category/satellite-imagery-resellers.html): 1 listings
-- [Aerial Imagery & Archive Providers](https://risegeouae.ae/category/aerial-imagery-and-archive-providers.html): 1 listings
-- [Map, Street & Address Data Providers](https://risegeouae.ae/category/map-street-and-address-data-providers.html): 4 listings
-- [Elevation & 3D City Model Providers](https://risegeouae.ae/category/elevation-and-3d-city-model-providers.html): 1 listings
-- [National Mapping & Survey Agencies](https://risegeouae.ae/category/national-mapping-and-survey-agencies.html): 42 listings
-- [Land Registries & Cadastre Authorities](https://risegeouae.ae/category/land-registries-and-cadastre-authorities.html): 12 listings
-- [Municipal GIS Departments](https://risegeouae.ae/category/municipal-gis-departments.html): 7 listings
-- [Space Agencies](https://risegeouae.ae/category/space-agencies.html): 10 listings
-- [Geological Surveys](https://risegeouae.ae/category/geological-surveys.html): 2 listings
-- [Statistics & Census Bureaus](https://risegeouae.ae/category/statistics-and-census-bureaus.html): 1 listings
-- [Regional & International Bodies](https://risegeouae.ae/category/regional-and-international-bodies.html): 3 listings
-- [Research Institutes](https://risegeouae.ae/category/research-institutes.html): 4 listings
-- [Universities (Surveying, GIS & Geomatics)](https://risegeouae.ae/category/universities-surveying-gis-and-geomatics.html): 48 listings
+- [Satellite Imagery Resellers](https://risegeouae.ae/category/satellite-imagery-resellers.html): 2 listings
+- [Aerial Imagery & Archive Providers](https://risegeouae.ae/category/aerial-imagery-and-archive-providers.html): 3 listings
+- [Map, Street & Address Data Providers](https://risegeouae.ae/category/map-street-and-address-data-providers.html): 6 listings
+- [Elevation & 3D City Model Providers](https://risegeouae.ae/category/elevation-and-3d-city-model-providers.html): 3 listings
+- [National Mapping & Survey Agencies](https://risegeouae.ae/category/national-mapping-and-survey-agencies.html): 98 listings
+- [Land Registries & Cadastre Authorities](https://risegeouae.ae/category/land-registries-and-cadastre-authorities.html): 28 listings
+- [Municipal GIS Departments](https://risegeouae.ae/category/municipal-gis-departments.html): 8 listings
+- [Space Agencies](https://risegeouae.ae/category/space-agencies.html): 26 listings
+- [Geological Surveys](https://risegeouae.ae/category/geological-surveys.html): 7 listings
+- [Statistics & Census Bureaus](https://risegeouae.ae/category/statistics-and-census-bureaus.html): 3 listings
+- [Regional & International Bodies](https://risegeouae.ae/category/regional-and-international-bodies.html): 13 listings
+- [Research Institutes](https://risegeouae.ae/category/research-institutes.html): 17 listings
+- [Universities (Surveying, GIS & Geomatics)](https://risegeouae.ae/category/universities-surveying-gis-and-geomatics.html): 65 listings
 - [Technical Colleges & Vocational Institutes](https://risegeouae.ae/category/technical-colleges-and-vocational-institutes.html): 3 listings
-- [Training Centres](https://risegeouae.ae/category/training-centres.html): 32 listings
+- [Training Centres](https://risegeouae.ae/category/training-centres.html): 40 listings
 - [Vendor Academies & Certification](https://risegeouae.ae/category/vendor-academies-and-certification.html): 2 listings
-- [Professional Bodies & Licensing Councils](https://risegeouae.ae/category/professional-bodies-and-licensing-councils.html): 11 listings
-- [Industry Associations](https://risegeouae.ae/category/industry-associations.html): 4 listings
+- [Professional Bodies & Licensing Councils](https://risegeouae.ae/category/professional-bodies-and-licensing-councils.html): 34 listings
+- [Industry Associations](https://risegeouae.ae/category/industry-associations.html): 5 listings
 - [Recruitment & Staffing Agencies](https://risegeouae.ae/category/recruitment-and-staffing-agencies.html): 1 listings
-- [Conferences & Exhibitions](https://risegeouae.ae/category/conferences-and-exhibitions.html): 5 listings
+- [Conferences & Exhibitions](https://risegeouae.ae/category/conferences-and-exhibitions.html): 8 listings
 - [NGOs & Humanitarian Mapping](https://risegeouae.ae/category/ngos-and-humanitarian-mapping.html): 2 listings
 
 ## Countries
-- [United Arab Emirates](https://risegeouae.ae/country/united-arab-emirates.html): 78 listings
-- [Nigeria](https://risegeouae.ae/country/nigeria.html): 53 listings
-- [Kenya](https://risegeouae.ae/country/kenya.html): 46 listings
-- [South Africa](https://risegeouae.ae/country/south-africa.html): 37 listings
-- [Regional (MEA)](https://risegeouae.ae/country/regional-mea.html): 33 listings
-- [Saudi Arabia](https://risegeouae.ae/country/saudi-arabia.html): 31 listings
+- [United Arab Emirates](https://risegeouae.ae/country/united-arab-emirates.html): 107 listings
+- [Nigeria](https://risegeouae.ae/country/nigeria.html): 62 listings
+- [Kenya](https://risegeouae.ae/country/kenya.html): 48 listings
+- [South Africa](https://risegeouae.ae/country/south-africa.html): 46 listings
+- [Saudi Arabia](https://risegeouae.ae/country/saudi-arabia.html): 39 listings
+- [Regional (MEA)](https://risegeouae.ae/country/regional-mea.html): 38 listings
+- [Morocco](https://risegeouae.ae/country/morocco.html): 26 listings
 - [Guinea](https://risegeouae.ae/country/guinea.html): 25 listings
-- [Benin](https://risegeouae.ae/country/benin.html): 18 listings
-- [Morocco](https://risegeouae.ae/country/morocco.html): 17 listings
-- [Egypt](https://risegeouae.ae/country/egypt.html): 14 listings
-- [Uganda](https://risegeouae.ae/country/uganda.html): 11 listings
-- [Ghana](https://risegeouae.ae/country/ghana.html): 10 listings
-- [Bahrain](https://risegeouae.ae/country/bahrain.html): 8 listings
-- [Rwanda](https://risegeouae.ae/country/rwanda.html): 7 listings
-- [Qatar](https://risegeouae.ae/country/qatar.html): 6 listings
+- [Egypt](https://risegeouae.ae/country/egypt.html): 22 listings
+- [Israel](https://risegeouae.ae/country/israel.html): 21 listings
+- [Ghana](https://risegeouae.ae/country/ghana.html): 21 listings
+- [Benin](https://risegeouae.ae/country/benin.html): 19 listings
+- [Qatar](https://risegeouae.ae/country/qatar.html): 14 listings
+- [Turkey](https://risegeouae.ae/country/turkey.html): 14 listings
+- [Uganda](https://risegeouae.ae/country/uganda.html): 13 listings
+- [Lebanon](https://risegeouae.ae/country/lebanon.html): 11 listings
+- [Bahrain](https://risegeouae.ae/country/bahrain.html): 9 listings
+- [Senegal](https://risegeouae.ae/country/senegal.html): 9 listings
+- [Rwanda](https://risegeouae.ae/country/rwanda.html): 8 listings
+- [Iraq](https://risegeouae.ae/country/iraq.html): 8 listings
+- [Iran](https://risegeouae.ae/country/iran.html): 8 listings
+- [Cyprus](https://risegeouae.ae/country/cyprus.html): 8 listings
+- [Côte d'Ivoire](https://risegeouae.ae/country/c-te-d-ivoire.html): 7 listings
+- [Ethiopia](https://risegeouae.ae/country/ethiopia.html): 7 listings
+- [Botswana](https://risegeouae.ae/country/botswana.html): 6 listings
+- [Cameroon](https://risegeouae.ae/country/cameroon.html): 6 listings
+- [Tanzania](https://risegeouae.ae/country/tanzania.html): 6 listings
+- [Zimbabwe](https://risegeouae.ae/country/zimbabwe.html): 6 listings
 - [Kuwait](https://risegeouae.ae/country/kuwait.html): 6 listings
-- [Lebanon](https://risegeouae.ae/country/lebanon.html): 5 listings
+- [Democratic Republic of the Congo](https://risegeouae.ae/country/democratic-republic-of-the-congo.html): 5 listings
+- [Zambia](https://risegeouae.ae/country/zambia.html): 5 listings
 - [Madagascar](https://risegeouae.ae/country/madagascar.html): 5 listings
 - [Oman](https://risegeouae.ae/country/oman.html): 5 listings
-- [Ethiopia](https://risegeouae.ae/country/ethiopia.html): 4 listings
-- [Senegal](https://risegeouae.ae/country/senegal.html): 4 listings
-- [Tanzania](https://risegeouae.ae/country/tanzania.html): 4 listings
-- [Cyprus](https://risegeouae.ae/country/cyprus.html): 4 listings
-- [Turkey](https://risegeouae.ae/country/turkey.html): 4 listings
-- [Botswana](https://risegeouae.ae/country/botswana.html): 3 listings
-- [Côte d'Ivoire](https://risegeouae.ae/country/c-te-d-ivoire.html): 3 listings
+- [Somalia](https://risegeouae.ae/country/somalia.html): 5 listings
+- [Tunisia](https://risegeouae.ae/country/tunisia.html): 5 listings
+- [Angola](https://risegeouae.ae/country/angola.html): 4 listings
+- [Burkina Faso](https://risegeouae.ae/country/burkina-faso.html): 4 listings
+- [Jordan](https://risegeouae.ae/country/jordan.html): 4 listings
+- [Sierra Leone](https://risegeouae.ae/country/sierra-leone.html): 4 listings
+- [Namibia](https://risegeouae.ae/country/namibia.html): 4 listings
+- [Algeria](https://risegeouae.ae/country/algeria.html): 4 listings
+- [Gabon](https://risegeouae.ae/country/gabon.html): 3 listings
 - [Mozambique](https://risegeouae.ae/country/mozambique.html): 3 listings
-- [Zambia](https://risegeouae.ae/country/zambia.html): 3 listings
-- [Zimbabwe](https://risegeouae.ae/country/zimbabwe.html): 3 listings
-- [Jordan](https://risegeouae.ae/country/jordan.html): 3 listings
-- [Algeria](https://risegeouae.ae/country/algeria.html): 3 listings
-- [Iran](https://risegeouae.ae/country/iran.html): 3 listings
-- [Tunisia](https://risegeouae.ae/country/tunisia.html): 3 listings
-- [Cameroon](https://risegeouae.ae/country/cameroon.html): 2 listings
-- [Sierra Leone](https://risegeouae.ae/country/sierra-leone.html): 2 listings
-- [Iraq](https://risegeouae.ae/country/iraq.html): 2 listings
-- [Namibia](https://risegeouae.ae/country/namibia.html): 2 listings
-- [Angola](https://risegeouae.ae/country/angola.html): 1 listings
-- [Burkina Faso](https://risegeouae.ae/country/burkina-faso.html): 1 listings
-- [Democratic Republic of the Congo](https://risegeouae.ae/country/democratic-republic-of-the-congo.html): 1 listings
-- [Gabon](https://risegeouae.ae/country/gabon.html): 1 listings
-- [Mauritania](https://risegeouae.ae/country/mauritania.html): 1 listings
-- [Togo](https://risegeouae.ae/country/togo.html): 1 listings
-- [Libya](https://risegeouae.ae/country/libya.html): 1 listings
-- [Sudan](https://risegeouae.ae/country/sudan.html): 1 listings
-- [Mali](https://risegeouae.ae/country/mali.html): 1 listings
-- [Liberia](https://risegeouae.ae/country/liberia.html): 1 listings
-- [Palestine](https://risegeouae.ae/country/palestine.html): 1 listings
-- [Eswatini](https://risegeouae.ae/country/eswatini.html): 1 listings
-- [Malawi](https://risegeouae.ae/country/malawi.html): 1 listings
+- [Libya](https://risegeouae.ae/country/libya.html): 3 listings
+- [Mali](https://risegeouae.ae/country/mali.html): 3 listings
+- [Yemen](https://risegeouae.ae/country/yemen.html): 3 listings
+- [Palestine](https://risegeouae.ae/country/palestine.html): 3 listings
+- [Eritrea](https://risegeouae.ae/country/eritrea.html): 3 listings
+- [Lesotho](https://risegeouae.ae/country/lesotho.html): 3 listings
+- [Malawi](https://risegeouae.ae/country/malawi.html): 3 listings
+- [Syria](https://risegeouae.ae/country/syria.html): 3 listings
+- [South Sudan](https://risegeouae.ae/country/south-sudan.html): 2 listings
+- [Mauritania](https://risegeouae.ae/country/mauritania.html): 2 listings
+- [Togo](https://risegeouae.ae/country/togo.html): 2 listings
+- [Sudan](https://risegeouae.ae/country/sudan.html): 2 listings
+- [Liberia](https://risegeouae.ae/country/liberia.html): 2 listings
+- [Djibouti](https://risegeouae.ae/country/djibouti.html): 2 listings
+- [Eswatini](https://risegeouae.ae/country/eswatini.html): 2 listings
+- [Gambia](https://risegeouae.ae/country/gambia.html): 2 listings
+- [Mauritius](https://risegeouae.ae/country/mauritius.html): 2 listings
+- [Niger](https://risegeouae.ae/country/niger.html): 2 listings
+- [Seychelles](https://risegeouae.ae/country/seychelles.html): 2 listings
+- [Central African Republic](https://risegeouae.ae/country/central-african-republic.html): 2 listings
+- [Guinea-Bissau](https://risegeouae.ae/country/guinea-bissau.html): 2 listings
+- [Chad](https://risegeouae.ae/country/chad.html): 1 listings
+- [Comoros](https://risegeouae.ae/country/comoros.html): 1 listings
+- [Burundi](https://risegeouae.ae/country/burundi.html): 1 listings
+- [Cabo Verde](https://risegeouae.ae/country/cabo-verde.html): 1 listings
+- [Congo](https://risegeouae.ae/country/congo.html): 1 listings
+- [Equatorial Guinea](https://risegeouae.ae/country/equatorial-guinea.html): 1 listings
+- [São Tomé and Príncipe](https://risegeouae.ae/country/s-o-tom-and-pr-ncipe.html): 1 listings

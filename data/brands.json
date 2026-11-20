@@ -1,5 +1,21 @@
 [
  {
+  "brand": "GeoTexon",
+  "parent_group": "GeoTexon",
+  "origin_country": "United Kingdom",
+  "product_lines": "GNSS receivers and antennas; Field controllers and data collectors; Total stations and robotic total stations (in development); Levels (in development); LiDAR systems (in development); Field software",
+  "where_to_buy": [
+   {
+    "brand": "GeoTexon",
+    "company": "Rise Geo Control Systems Trading LLC",
+    "country": "United Arab Emirates",
+    "business_type": "Authorised distributor",
+    "source": "Company submission (site owner)"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/geotexon.html"
+ },
+ {
   "brand": "Leica Geosystems",
   "parent_group": "Hexagon",
   "origin_country": "Switzerland",
@@ -254,6 +270,13 @@
    },
    {
     "brand": "Esri",
+    "company": "Systematics",
+    "country": "Israel",
+    "business_type": "Authorised distributor",
+    "source": "https://science.co.il/earth-science/Companies.php?s=mapping"
+   },
+   {
+    "brand": "Esri",
     "company": "Esri Eastern Africa",
     "country": "Kenya",
     "business_type": "Authorised distributor",
@@ -491,6 +514,98 @@
   "url": "https://risegeouae.ae/brand/brunton.html"
  },
  {
+  "brand": "Emlid",
+  "parent_group": "Emlid",
+  "origin_country": "Hungary",
+  "product_lines": "GNSS receivers and antennas",
+  "where_to_buy": [
+   {
+    "brand": "Emlid",
+    "company": "SOM Survey Instruments",
+    "country": "South Africa",
+    "business_type": "Dealer / reseller",
+    "source": "https://emlid.com/dealers/"
+   },
+   {
+    "brand": "Emlid",
+    "company": "Topotrade",
+    "country": "United Arab Emirates",
+    "business_type": "Dealer / reseller",
+    "source": "https://emlid.com/dealers/"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/emlid.html"
+ },
+ {
+  "brand": "GeoMax",
+  "parent_group": "Hexagon",
+  "origin_country": "Switzerland",
+  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels; Construction and rotating lasers",
+  "where_to_buy": [
+   {
+    "brand": "GeoMax",
+    "company": "Hexagon (Leica Geosystems) South Africa",
+    "country": "South Africa",
+    "business_type": "Regional office of a manufacturer",
+    "source": "Public record (check)"
+   },
+   {
+    "brand": "GeoMax",
+    "company": "Manaf Hamza Engineering and Surveying Company WLL",
+    "country": "Bahrain",
+    "business_type": "Dealer / reseller",
+    "source": "https://resource.geospatialworld.net/company/manaf-hamza-engineering-and-surveying-company-wll"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/geomax.html"
+ },
+ {
+  "brand": "Sokkia",
+  "parent_group": "Topcon",
+  "origin_country": "Japan",
+  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels",
+  "where_to_buy": [
+   {
+    "brand": "Sokkia",
+    "company": "Rise Geo Control Systems Trading LLC",
+    "country": "United Arab Emirates",
+    "business_type": "Dealer / reseller",
+    "source": "https://www.yellowpages-uae.com/uae/sokkia-land-surveying-instruments-accessories"
+   },
+   {
+    "brand": "Sokkia",
+    "company": "Boksomatti",
+    "country": "Saudi Arabia",
+    "business_type": "Authorised distributor",
+    "source": "Geospatial World profile"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/sokkia.html"
+ },
+ {
+  "brand": "Tekla",
+  "parent_group": "Trimble",
+  "origin_country": "Finland",
+  "product_lines": "BIM software (structural modelling)",
+  "where_to_buy": [
+   {
+    "brand": "Tekla",
+    "company": "Tekla (Trimble) Middle East office",
+    "country": "United Arab Emirates",
+    "business_type": "Regional office of a manufacturer",
+    "source": "https://www.tekla.com/ae/contact/offices-and-resellers"
+   },
+   {
+    "brand": "Tekla",
+    "company": "Tekla Middle East office",
+    "country": "United Arab Emirates",
+    "business_type": "Regional office of a manufacturer",
+    "source": "https://www.tekla.com/ae/contact/offices-and-resellers"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/tekla.html"
+ },
+ {
   "brand": "Topcon",
   "parent_group": "Topcon",
   "origin_country": "Japan",
@@ -544,22 +659,6 @@
    }
   ],
   "url": "https://risegeouae.ae/brand/dji-enterprise.html"
- },
- {
-  "brand": "GeoMax",
-  "parent_group": "Hexagon",
-  "origin_country": "Switzerland",
-  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels; Construction and rotating lasers",
-  "where_to_buy": [
-   {
-    "brand": "GeoMax",
-    "company": "Hexagon (Leica Geosystems) South Africa",
-    "country": "South Africa",
-    "business_type": "Regional office of a manufacturer",
-    "source": "Public record (check)"
-   }
-  ],
-  "url": "https://risegeouae.ae/brand/geomax.html"
  },
  {
   "brand": "Hexagon Geospatial",
@@ -658,22 +757,6 @@
   "url": "https://risegeouae.ae/brand/sinognss.html"
  },
  {
-  "brand": "Sokkia",
-  "parent_group": "Topcon",
-  "origin_country": "Japan",
-  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels",
-  "where_to_buy": [
-   {
-    "brand": "Sokkia",
-    "company": "Boksomatti",
-    "country": "Saudi Arabia",
-    "business_type": "Authorised distributor",
-    "source": "Geospatial World profile"
-   }
-  ],
-  "url": "https://risegeouae.ae/brand/sokkia.html"
- },
- {
   "brand": "Spectra Geospatial",
   "parent_group": "Trimble",
   "origin_country": "United States",
@@ -690,20 +773,20 @@
   "url": "https://risegeouae.ae/brand/spectra-geospatial.html"
  },
  {
-  "brand": "Tekla",
-  "parent_group": "Trimble",
-  "origin_country": "Finland",
-  "product_lines": "BIM software (structural modelling)",
+  "brand": "Stonex",
+  "parent_group": "Stonex",
+  "origin_country": "Italy",
+  "product_lines": "GNSS receivers and antennas; Total stations and robotic total stations; Terrestrial laser scanners",
   "where_to_buy": [
    {
-    "brand": "Tekla",
-    "company": "Tekla Middle East office",
+    "brand": "Stonex",
+    "company": "Rise Geo Control Systems Trading LLC",
     "country": "United Arab Emirates",
-    "business_type": "Regional office of a manufacturer",
-    "source": "https://www.tekla.com/ae/contact/offices-and-resellers"
+    "business_type": "Dealer / reseller",
+    "source": "https://www.yellowpages-uae.com/uae/sokkia-land-surveying-instruments-accessories"
    }
   ],
-  "url": "https://risegeouae.ae/brand/tekla.html"
+  "url": "https://risegeouae.ae/brand/stonex.html"
  },
  {
   "brand": "Toknav",
@@ -760,14 +843,6 @@
   "product_lines": "GNSS receivers and antennas; Mobile and handheld (SLAM) scanners; Sonar",
   "where_to_buy": [],
   "url": "https://risegeouae.ae/brand/chc-navigation.html"
- },
- {
-  "brand": "Emlid",
-  "parent_group": "Emlid",
-  "origin_country": "Hungary",
-  "product_lines": "GNSS receivers and antennas",
-  "where_to_buy": [],
-  "url": "https://risegeouae.ae/brand/emlid.html"
  },
  {
   "brand": "FARO",
@@ -890,20 +965,20 @@
   "url": "https://risegeouae.ae/brand/south-surveying-and-mapping.html"
  },
  {
-  "brand": "Stonex",
-  "parent_group": "Stonex",
-  "origin_country": "Italy",
-  "product_lines": "GNSS receivers and antennas; Total stations and robotic total stations; Terrestrial laser scanners",
-  "where_to_buy": [],
-  "url": "https://risegeouae.ae/brand/stonex.html"
- },
- {
   "brand": "Teledyne Marine",
   "parent_group": "Teledyne",
   "origin_country": "United States",
   "product_lines": "Sonar",
   "where_to_buy": [],
   "url": "https://risegeouae.ae/brand/teledyne-marine.html"
+ },
+ {
+  "brand": "Top Tech",
+  "parent_group": "Shanghai Hexin Survey Instrument Co., Ltd",
+  "origin_country": "China",
+  "product_lines": "Survey instruments (product lines to be confirmed)",
+  "where_to_buy": [],
+  "url": "https://risegeouae.ae/brand/top-tech.html"
  },
  {
   "brand": "Wingtra",
