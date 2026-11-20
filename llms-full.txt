@@ -216,19 +216,21 @@
 - [São Tomé and Príncipe](https://risegeouae.ae/country/s-o-tom-and-pr-ncipe.html): 1 listings
 
 ## Brands
-- [GEOTEXON](https://risegeouae.ae/brand/geotexon.html): GNSS receivers and antennas; Field controllers and data collectors; Total stations and robotic total stations (in development); Levels (in development); LiDAR systems (in development); Field software | 1 MEA partners
-- [Leica Geosystems](https://risegeouae.ae/brand/leica-geosystems.html): Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Theodolites and levels; Machine control and guidance; Aerial cameras and airborne LiDAR systems; Monitoring sensors (tilt | 30 MEA partners
+- [GEOTEXON](https://risegeouae.ae/brand/geotexon.html): GNSS receivers and antennas; Field controllers and data collectors; Total stations and robotic total stations (in development); Levels (in development); LiDAR systems (in development); Field software | 0 MEA partners
+- [Leica Geosystems](https://risegeouae.ae/brand/leica-geosystems.html): Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Theodolites and levels; Machine control and guidance; Aerial cameras and airborne LiDAR systems; Monitoring sensors (tilt | 31 MEA partners
 - [Esri](https://risegeouae.ae/brand/esri.html): Desktop and enterprise GIS; Web mapping and map APIs; Cloud geospatial platforms; Asset and network management GIS | 29 MEA partners
 - [Trimble](https://risegeouae.ae/brand/trimble.html): Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Mobile and handheld (SLAM) scanners; Machine control and guidance; Rugged field controllers and tablets; Survey CAD and field software | 5 MEA partners
+- [Topcon](https://risegeouae.ae/brand/topcon.html): Total stations and robotic total stations; GNSS receivers and antennas; Machine control and guidance; Terrestrial laser scanners; Theodolites and levels | 3 MEA partners
 - [Brunton](https://risegeouae.ae/brand/brunton.html): Survey accessories (compasses and field instruments) | 2 MEA partners
 - [Emlid](https://risegeouae.ae/brand/emlid.html): GNSS receivers and antennas | 2 MEA partners
 - [GeoMax](https://risegeouae.ae/brand/geomax.html): Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels; Construction and rotating lasers | 2 MEA partners
 - [Sokkia](https://risegeouae.ae/brand/sokkia.html): Total stations and robotic total stations; GNSS receivers and antennas; Theodolites and levels | 2 MEA partners
 - [Tekla](https://risegeouae.ae/brand/tekla.html): BIM software (structural modelling) | 2 MEA partners
-- [Topcon](https://risegeouae.ae/brand/topcon.html): Total stations and robotic total stations; GNSS receivers and antennas; Machine control and guidance; Terrestrial laser scanners; Theodolites and levels | 2 MEA partners
 - [Asite](https://risegeouae.ae/brand/asite.html): Common data environments (CDE) | 1 MEA partners
+- [CHC Navigation](https://risegeouae.ae/brand/chc-navigation.html): GNSS receivers and antennas; Mobile and handheld (SLAM) scanners; Sonar | 1 MEA partners
 - [DJI Enterprise](https://risegeouae.ae/brand/dji-enterprise.html): Survey and mapping drones; Drone sensors and payloads | 1 MEA partners
 - [Hexagon Geospatial](https://risegeouae.ae/brand/hexagon-geospatial.html): Remote sensing and image processing; Desktop and enterprise GIS | 1 MEA partners
+- [Hi-Target](https://risegeouae.ae/brand/hi-target.html): GNSS receivers and antennas; Total stations and robotic total stations; Sonar | 1 MEA partners
 - [Muya](https://risegeouae.ae/brand/muya.html): Survey equipment (product lines not verified) | 1 MEA partners
 - [Nikon (survey instruments)](https://risegeouae.ae/brand/nikon-survey-instruments.html): Total stations and robotic total stations; Theodolites and levels | 1 MEA partners
 - [Revizto](https://risegeouae.ae/brand/revizto.html): BIM coordination and clash detection software | 1 MEA partners
@@ -241,10 +243,8 @@
 - [Airbus Defence and Space](https://risegeouae.ae/brand/airbus-defence-and-space.html): Optical satellite imagery; SAR imagery | 0 MEA partners
 - [Autodesk](https://risegeouae.ae/brand/autodesk.html): Survey CAD and field software; BIM software (design and CDE) | 0 MEA partners
 - [Bentley Systems](https://risegeouae.ae/brand/bentley-systems.html): BIM software (infrastructure); Point cloud and LiDAR processing; Digital twin platforms | 0 MEA partners
-- [CHC Navigation](https://risegeouae.ae/brand/chc-navigation.html): GNSS receivers and antennas; Mobile and handheld (SLAM) scanners; Sonar | 0 MEA partners
 - [FARO](https://risegeouae.ae/brand/faro.html): Terrestrial laser scanners; Mobile and handheld (SLAM) scanners | 0 MEA partners
 - [Graphisoft](https://risegeouae.ae/brand/graphisoft.html): BIM software (Archicad) | 0 MEA partners
-- [Hi-Target](https://risegeouae.ae/brand/hi-target.html): GNSS receivers and antennas; Total stations and robotic total stations; Sonar | 0 MEA partners
 - [ICEYE](https://risegeouae.ae/brand/iceye.html): SAR imagery | 0 MEA partners
 - [IDS GeoRadar](https://risegeouae.ae/brand/ids-georadar.html): GPR and utility locators; Monitoring sensors (tilt | 0 MEA partners
 - [Kongsberg Discovery](https://risegeouae.ae/brand/kongsberg-discovery.html): Sonar | 0 MEA partners

@@ -4,15 +4,7 @@
   "parent_group": "GEOTEXON",
   "origin_country": "United Kingdom",
   "product_lines": "GNSS receivers and antennas; Field controllers and data collectors; Total stations and robotic total stations (in development); Levels (in development); LiDAR systems (in development); Field software",
-  "where_to_buy": [
-   {
-    "brand": "GEOTEXON",
-    "company": "Rise Geo Control Systems Trading LLC",
-    "country": "United Arab Emirates",
-    "business_type": "Authorised distributor",
-    "source": "Company submission (site owner)"
-   }
-  ],
+  "where_to_buy": [],
   "url": "https://risegeouae.ae/brand/geotexon.html"
  },
  {
@@ -21,6 +13,13 @@
   "origin_country": "Switzerland",
   "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Terrestrial laser scanners; Theodolites and levels; Machine control and guidance; Aerial cameras and airborne LiDAR systems; Monitoring sensors (tilt",
   "where_to_buy": [
+   {
+    "brand": "Leica Geosystems",
+    "company": "Rise Geo Control Systems Trading LLC",
+    "country": "United Arab Emirates",
+    "business_type": "Dealer / reseller",
+    "source": "Company submission (site owner)"
+   },
    {
     "brand": "Leica Geosystems",
     "company": "Hexagon (Leica Geosystems) South Africa",
@@ -491,6 +490,36 @@
   "url": "https://risegeouae.ae/brand/trimble.html"
  },
  {
+  "brand": "Topcon",
+  "parent_group": "Topcon",
+  "origin_country": "Japan",
+  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Machine control and guidance; Terrestrial laser scanners; Theodolites and levels",
+  "where_to_buy": [
+   {
+    "brand": "Topcon",
+    "company": "Rise Geo Control Systems Trading LLC",
+    "country": "United Arab Emirates",
+    "business_type": "Dealer / reseller",
+    "source": "Company submission (site owner)"
+   },
+   {
+    "brand": "Topcon",
+    "company": "Topcon Positioning Middle East & Africa",
+    "country": "United Arab Emirates",
+    "business_type": "Regional office of a manufacturer",
+    "source": "Seed list (research thread)"
+   },
+   {
+    "brand": "Topcon",
+    "company": "Boksomatti",
+    "country": "Saudi Arabia",
+    "business_type": "Authorised distributor",
+    "source": "Geospatial World profile"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/topcon.html"
+ },
+ {
   "brand": "Brunton",
   "parent_group": "Brunton",
   "origin_country": "United States",
@@ -606,29 +635,6 @@
   "url": "https://risegeouae.ae/brand/tekla.html"
  },
  {
-  "brand": "Topcon",
-  "parent_group": "Topcon",
-  "origin_country": "Japan",
-  "product_lines": "Total stations and robotic total stations; GNSS receivers and antennas; Machine control and guidance; Terrestrial laser scanners; Theodolites and levels",
-  "where_to_buy": [
-   {
-    "brand": "Topcon",
-    "company": "Topcon Positioning Middle East & Africa",
-    "country": "United Arab Emirates",
-    "business_type": "Regional office of a manufacturer",
-    "source": "Seed list (research thread)"
-   },
-   {
-    "brand": "Topcon",
-    "company": "Boksomatti",
-    "country": "Saudi Arabia",
-    "business_type": "Authorised distributor",
-    "source": "Geospatial World profile"
-   }
-  ],
-  "url": "https://risegeouae.ae/brand/topcon.html"
- },
- {
   "brand": "Asite",
   "parent_group": "Asite",
   "origin_country": "United Kingdom",
@@ -643,6 +649,22 @@
    }
   ],
   "url": "https://risegeouae.ae/brand/asite.html"
+ },
+ {
+  "brand": "CHC Navigation",
+  "parent_group": "CHC Navigation",
+  "origin_country": "China",
+  "product_lines": "GNSS receivers and antennas; Mobile and handheld (SLAM) scanners; Sonar",
+  "where_to_buy": [
+   {
+    "brand": "CHC Navigation",
+    "company": "Rise Geo Control Systems Trading LLC",
+    "country": "United Arab Emirates",
+    "business_type": "Dealer / reseller",
+    "source": "Company submission (site owner)"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/chc-navigation.html"
  },
  {
   "brand": "DJI Enterprise",
@@ -675,6 +697,22 @@
    }
   ],
   "url": "https://risegeouae.ae/brand/hexagon-geospatial.html"
+ },
+ {
+  "brand": "Hi-Target",
+  "parent_group": "Hi-Target",
+  "origin_country": "China",
+  "product_lines": "GNSS receivers and antennas; Total stations and robotic total stations; Sonar",
+  "where_to_buy": [
+   {
+    "brand": "Hi-Target",
+    "company": "Rise Geo Control Systems Trading LLC",
+    "country": "United Arab Emirates",
+    "business_type": "Dealer / reseller",
+    "source": "Company submission (site owner)"
+   }
+  ],
+  "url": "https://risegeouae.ae/brand/hi-target.html"
  },
  {
   "brand": "Muya",
@@ -837,14 +875,6 @@
   "url": "https://risegeouae.ae/brand/bentley-systems.html"
  },
  {
-  "brand": "CHC Navigation",
-  "parent_group": "CHC Navigation",
-  "origin_country": "China",
-  "product_lines": "GNSS receivers and antennas; Mobile and handheld (SLAM) scanners; Sonar",
-  "where_to_buy": [],
-  "url": "https://risegeouae.ae/brand/chc-navigation.html"
- },
- {
   "brand": "FARO",
   "parent_group": "FARO",
   "origin_country": "United States",
@@ -859,14 +889,6 @@
   "product_lines": "BIM software (Archicad)",
   "where_to_buy": [],
   "url": "https://risegeouae.ae/brand/graphisoft.html"
- },
- {
-  "brand": "Hi-Target",
-  "parent_group": "Hi-Target",
-  "origin_country": "China",
-  "product_lines": "GNSS receivers and antennas; Total stations and robotic total stations; Sonar",
-  "where_to_buy": [],
-  "url": "https://risegeouae.ae/brand/hi-target.html"
  },
  {
   "brand": "ICEYE",

@@ -437,7 +437,7 @@ page("countries.html", f"Geospatial Companies by Country – 70 Middle East & Af
 
 # ------------------------------------------------------------------ brands
 BRAND_SITE = {"GEOTEXON": "https://geotexon.com", "Top Tech": "https://www.toptechgnss.com/"}
-OWN_NOTE = {"Top Tech": '<p>Brand website: <a href="https://www.toptechgnss.com/" rel="noopener" target="_blank">toptechgnss.com</a>. Company: Shanghai Hexin Survey Instrument Co., Ltd, Shanghai, China (<a href="https://www.hexinsurvey.com" rel="noopener" target="_blank">hexinsurvey.com</a>). Model list to be added.</p>', "GEOTEXON": '<p>Official site: <a href="https://geotexon.com" rel="noopener" target="_blank">geotexon.com</a>. In the UAE, GEOTEXON is supplied by <a href="../company/rise-geo-control-systems-trading-llc.html">Rise Geo Control Systems Trading LLC</a>. Models marked “in development” are not yet released.</p>'}
+OWN_NOTE = {"Top Tech": '<p>Brand website: <a href="https://www.toptechgnss.com/" rel="noopener" target="_blank">toptechgnss.com</a>. Company: Shanghai Hexin Survey Instrument Co., Ltd, Shanghai, China (<a href="https://www.hexinsurvey.com" rel="noopener" target="_blank">hexinsurvey.com</a>). Model list to be added.</p>', "GEOTEXON": '<p>Official site: <a href="https://geotexon.com" rel="noopener" target="_blank">geotexon.com</a>. Models marked “in development” are not yet released.</p>'}
 for b in BRANDS:
     d = 1; dl = b["dealers"]; byc = defaultdict(list)
     for l in dl: byc[l["country"]].append(l)
